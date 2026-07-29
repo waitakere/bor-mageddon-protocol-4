@@ -1,0 +1,164 @@
+/* =========================================
+   1. FONT IMPORTS & PRELOADING
+========================================= */
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&family=Space+Mono:wght@400;700&display=swap');
+
+body::after {
+    content: "BORMAGEDDON";
+    font-family: "Metal Mania";
+    visibility: hidden;
+    position: absolute;
+}
+
+body, html {
+    margin: 0; padding: 0;
+    width: 100%; height: 100%;
+    overflow: hidden;
+    background: #050404;
+    font-family: 'Space Mono', monospace;
+    color: #cccccc;
+}
+
+canvas { display: block; }
+
+/* =========================================
+   2. GLOBAL GAME TYPOGRAPHY
+========================================= */
+
+/* METAL MANIA: Main Titles & HUD Names */
+.font-metal, 
+.gig-headline, 
+.hud-name,
+.start-box h1 {
+    font-family: 'Metal Mania', cursive;
+    font-weight: 900;
+    color: #ffffff;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-shadow: 4px 4px 0px #ff3333;
+    margin: 0;
+}
+
+/* SPACE MONO (BOLD): UI Headers & Labels */
+.font-mono-title,
+.ui-header,
+.stat-label,
+.system-tag,
+#music-toggle {
+    font-family: 'Space Mono', monospace;
+    font-weight: 700;
+    color: #ff3333; /* Red text for UI labels */
+    text-transform: uppercase;
+}
+
+/* THE BUTTON FIX: High contrast text for red buttons */
+.select-btn, #initialize-btn {
+    font-family: 'Space Mono', monospace;
+    font-weight: 700;
+    color: #000000 !important; /* FORCED BLACK TEXT FOR VISIBILITY */
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+/* SPACE MONO (REGULAR): Body Text */
+.card-desc, p {
+    font-family: 'Space Mono', monospace;
+    font-weight: 400;
+    color: #cccccc;
+    line-height: 1.6;
+}
+
+/* =========================================
+   3. VISUAL OVERLAYS
+========================================= */
+.scanlines {
+    position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+    background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.25) 50%), 
+                linear-gradient(90deg, rgba(255, 0, 0, 0.06), rgba(0, 255, 0, 0.02), rgba(0, 0, 255, 0.06));
+    background-size: 100% 4px, 3px 100%;
+    pointer-events: none; z-index: 1500;
+}
+
+.crt-overlay {
+    position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+    background: radial-gradient(circle, transparent 60%, rgba(0,0,0,0.8) 150%);
+    pointer-events: none; z-index: 1501;
+}
+
+/* =========================================
+   4. START & BOOT SCREENS
+========================================= */
+#start-overlay {
+    position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+    background: #000; z-index: 3000;
+    display: flex; justify-content: center; align-items: center;
+}
+
+.start-box { 
+    text-align: center; border: 4px double #ff3333; padding: 60px; 
+    background: #1a0a05; box-shadow: 0 0 50px rgba(255, 51, 51, 0.2);
+}
+
+#initialize-btn {
+    background: #ff3333; border: none; padding: 25px 50px;
+    cursor: pointer; box-shadow: 8px 8px 0px #660000; font-size: 20px;
+    margin-top: 20px;
+}
+#initialize-btn:hover { background: #fff; transform: translate(-2px, -2px); box-shadow: 10px 10px 0px #999; }
+
+#terminal-header {
+    position: fixed; top: 0; left: 0; width: 100%;
+    padding: 20px 30px; display: flex; justify-content: space-between;
+    align-items: center; box-sizing: border-box; z-index: 1000;
+    background: linear-gradient(to bottom, rgba(26, 10, 5, 0.9), transparent);
+    border-bottom: 1px solid rgba(255, 51, 51, 0.2);
+}
+
+#hint { font-size: 11px; color: #ff3333; text-shadow: 0 0 8px #ff3333; }
+
+#music-toggle {
+    background: transparent; border: 1px solid #ff3333; 
+    padding: 6px 15px; font-size: 11px; cursor: pointer;
+}
+
+#boot-screen {
+    position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+    background: #000; z-index: 2000; padding: 60px; color: #00ff00;
+}
+
+/* =========================================
+   5. CHARACTER ARCHIVE POPUP
+========================================= */
+#expanded-card {
+    position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+    background: rgba(0, 0, 0, 0.95); display: none; 
+    justify-content: center; align-items: center; z-index: 999;
+    opacity: 0; transition: opacity 0.4s ease;
+}
+
+#expanded-card.active { opacity: 1; }
+
+.card-content {
+    width: 440px; padding: 45px; background: #1a0a05;
+    border: 8px solid #331111; outline: 4px solid #ff3333;
+    box-shadow: 20px 20px 0px #000; position: relative;
+}
+
+.card-title { 
+    font-size: 54px; color: #fff; margin: 10px 0; 
+    text-transform: uppercase; letter-spacing: -2px;
+    text-shadow: 5px 5px 0px #ff3333; 
+}
+
+.close-btn { 
+    position: absolute; top: 15px; right: 15px; 
+    background: #ff3333; color: #000; border: none; 
+    font-weight: bold; cursor: pointer; padding: 8px 14px;
+}
+
+.select-btn { 
+    width: 100%; padding: 22px; background: #ff3333; 
+    border: none; cursor: pointer; font-size: 18px;
+    box-shadow: 6px 6px 0px #660000;
+}
+.select-btn:hover { background: #fff; }
