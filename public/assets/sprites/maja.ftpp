@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "",
+  "images": [
+    {
+      "name": "frame_000.png",
+      "path": "/Users/ivanradojcic/Downloads/0-Bor-Mageddon/MAJA/maja-pick-up/frame_000.png",
+      "folder": ""
+    },
+    {
+      "name": "frame_001.png",
+      "path": "/Users/ivanradojcic/Downloads/0-Bor-Mageddon/MAJA/maja-pick-up/frame_001.png",
+      "folder": ""
+    },
+    {
+      "name": "frame_002.png",
+      "path": "/Users/ivanradojcic/Downloads/0-Bor-Mageddon/MAJA/maja-pick-up/frame_002.png",
+      "folder": ""
+    },
+    {
+      "name": "frame_003.png",
+      "path": "/Users/ivanradojcic/Downloads/0-Bor-Mageddon/MAJA/maja-pick-up/frame_003.png",
+      "folder": ""
+    },
+    {
+      "name": "frame_004.png",
+      "path": "/Users/ivanradojcic/Downloads/0-Bor-Mageddon/MAJA/maja-punch-2/frame_004.png",
+      "folder": ""
+    },
+    {
+      "name": "frame_005.png",
+      "path": "/Users/ivanradojcic/Downloads/0-Bor-Mageddon/MAJA/maja-punch-2/frame_005.png",
+      "folder": ""
+    },
+    {
+      "name": "frame_006.png",
+      "path": "/Users/ivanradojcic/Downloads/0-Bor-Mageddon/MAJA/maja-punch-2/frame_006.png",
+      "folder": ""
+    },
+    {
+      "name": "frame_007.png",
+      "path": "/Users/ivanradojcic/Downloads/0-Bor-Mageddon/MAJA/maja-punch-2/frame_007.png",
+      "folder": ""
+    },
+    {
+      "name": "frame_008.png",
+      "path": "/Users/ivanradojcic/Downloads/0-Bor-Mageddon/MAJA/maja-punch-2/frame_008.png",
+      "folder": ""
+    }
+  ],
+  "folders": [
+    "/Users/ivanradojcic/Downloads/0-Bor-Mageddon/MAJA/maja-damage",
+    "/Users/ivanradojcic/Downloads/0-Bor-Mageddon/MAJA/maja-dying",
+    "/Users/ivanradojcic/Downloads/0-Bor-Mageddon/MAJA/maja-finish-move",
+    "/Users/ivanradojcic/Downloads/0-Bor-Mageddon/MAJA/maja-idle",
+    "/Users/ivanradojcic/Downloads/0-Bor-Mageddon/MAJA/maja-jump-kick",
+    "/Users/ivanradojcic/Downloads/0-Bor-Mageddon/MAJA/maja-jump-punch",
+    "/Users/ivanradojcic/Downloads/0-Bor-Mageddon/MAJA/maja-jump",
+    "/Users/ivanradojcic/Downloads/0-Bor-Mageddon/MAJA/maja-kick-1",
+    "/Users/ivanradojcic/Downloads/0-Bor-Mageddon/MAJA/maja-kick-2",
+    "/Users/ivanradojcic/Downloads/0-Bor-Mageddon/MAJA/maja-knockdown-get-up",
+    "/Users/ivanradojcic/Downloads/0-Bor-Mageddon/MAJA/maja-melee",
+    "/Users/ivanradojcic/Downloads/0-Bor-Mageddon/MAJA/maja-pick-up",
+    "/Users/ivanradojcic/Downloads/0-Bor-Mageddon/MAJA/maja-punch-1",
+    "/Users/ivanradojcic/Downloads/0-Bor-Mageddon/MAJA/maja-punch-2",
+    "/Users/ivanradojcic/Downloads/0-Bor-Mageddon/MAJA/maja-punch-combo",
+    "/Users/ivanradojcic/Downloads/0-Bor-Mageddon/MAJA/maja-run",
+    "/Users/ivanradojcic/Downloads/0-Bor-Mageddon/MAJA/maja-shoot-recoil",
+    "/Users/ivanradojcic/Downloads/0-Bor-Mageddon/MAJA/maja-shoot-up",
+    "/Users/ivanradojcic/Downloads/0-Bor-Mageddon/MAJA/maja-shoot-with-rifle",
+    "/Users/ivanradojcic/Downloads/0-Bor-Mageddon/MAJA/maja-shoot",
+    "/Users/ivanradojcic/Downloads/0-Bor-Mageddon/MAJA/maja-special-attack",
+    "/Users/ivanradojcic/Downloads/0-Bor-Mageddon/MAJA/maja-throw",
+    "/Users/ivanradojcic/Downloads/0-Bor-Mageddon/MAJA/maja-walk-rifle",
+    "/Users/ivanradojcic/Downloads/0-Bor-Mageddon/MAJA/maja-walk"
+  ],
+  "packOptions": {
+    "textureName": "maja",
+    "textureFormat": "png",
+    "removeFileExtension": false,
+    "prependFolderName": true,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "Phaser 3",
+    "fileName": "pack-result",
+    "savePath": "",
+    "width": 4096,
+    "height": 4096,
+    "fixedSize": false,
+    "powerOfTwo": false,
+    "padding": 0,
+    "extrude": 1,
+    "allowRotation": false,
+    "allowTrim": true,
+    "trimMode": "trim",
+    "alphaThreshold": "2",
+    "detectIdentical": true,
+    "packer": "MaxRectsBin",
+    "packerMethod": "BestShortSideFit"
+  }
+}

@@ -1,0 +1,3526 @@
+{
+	"textures": [
+		{
+			"image": "maja",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2201,
+				"h": 4082
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "maja-finish-move/frame_012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 381,
+						"h": 305
+					},
+					"spriteSourceSize": {
+						"x": 98,
+						"y": 42,
+						"w": 283,
+						"h": 262
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 283,
+						"h": 262
+					}
+				},
+				{
+					"filename": "maja-finish-move/frame_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 381,
+						"h": 305
+					},
+					"spriteSourceSize": {
+						"x": 102,
+						"y": 47,
+						"w": 279,
+						"h": 247
+					},
+					"frame": {
+						"x": 286,
+						"y": 1,
+						"w": 279,
+						"h": 247
+					}
+				},
+				{
+					"filename": "maja-finish-move/frame_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 381,
+						"h": 305
+					},
+					"spriteSourceSize": {
+						"x": 95,
+						"y": 41,
+						"w": 271,
+						"h": 240
+					},
+					"frame": {
+						"x": 567,
+						"y": 1,
+						"w": 271,
+						"h": 240
+					}
+				},
+				{
+					"filename": "maja-dying/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 327,
+						"h": 304
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 205,
+						"w": 266,
+						"h": 98
+					},
+					"frame": {
+						"x": 840,
+						"y": 1,
+						"w": 266,
+						"h": 98
+					}
+				},
+				{
+					"filename": "maja-finish-move/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 381,
+						"h": 305
+					},
+					"spriteSourceSize": {
+						"x": 119,
+						"y": 32,
+						"w": 257,
+						"h": 249
+					},
+					"frame": {
+						"x": 1108,
+						"y": 1,
+						"w": 257,
+						"h": 249
+					}
+				},
+				{
+					"filename": "maja-walk-rifle/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 409,
+						"h": 283
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 13,
+						"w": 249,
+						"h": 261
+					},
+					"frame": {
+						"x": 840,
+						"y": 101,
+						"w": 249,
+						"h": 261
+					}
+				},
+				{
+					"filename": "maja-walk-rifle/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 409,
+						"h": 283
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 12,
+						"w": 243,
+						"h": 261
+					},
+					"frame": {
+						"x": 567,
+						"y": 243,
+						"w": 243,
+						"h": 261
+					}
+				},
+				{
+					"filename": "maja-finish-move/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 381,
+						"h": 305
+					},
+					"spriteSourceSize": {
+						"x": 88,
+						"y": 31,
+						"w": 241,
+						"h": 252
+					},
+					"frame": {
+						"x": 286,
+						"y": 252,
+						"w": 241,
+						"h": 252
+					}
+				},
+				{
+					"filename": "maja-finish-move/frame_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 381,
+						"h": 305
+					},
+					"spriteSourceSize": {
+						"x": 88,
+						"y": 31,
+						"w": 241,
+						"h": 250
+					},
+					"frame": {
+						"x": 1,
+						"y": 265,
+						"w": 241,
+						"h": 250
+					}
+				},
+				{
+					"filename": "maja-finish-move/frame_014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 381,
+						"h": 305
+					},
+					"spriteSourceSize": {
+						"x": 141,
+						"y": 25,
+						"w": 240,
+						"h": 277
+					},
+					"frame": {
+						"x": 1367,
+						"y": 1,
+						"w": 240,
+						"h": 277
+					}
+				},
+				{
+					"filename": "maja-finish-move/frame_015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 381,
+						"h": 305
+					},
+					"spriteSourceSize": {
+						"x": 141,
+						"y": 25,
+						"w": 240,
+						"h": 275
+					},
+					"frame": {
+						"x": 1091,
+						"y": 252,
+						"w": 240,
+						"h": 275
+					}
+				},
+				{
+					"filename": "maja-finish-move/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 381,
+						"h": 305
+					},
+					"spriteSourceSize": {
+						"x": 89,
+						"y": 31,
+						"w": 238,
+						"h": 250
+					},
+					"frame": {
+						"x": 812,
+						"y": 364,
+						"w": 238,
+						"h": 250
+					}
+				},
+				{
+					"filename": "maja-finish-move/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 381,
+						"h": 305
+					},
+					"spriteSourceSize": {
+						"x": 88,
+						"y": 31,
+						"w": 237,
+						"h": 250
+					},
+					"frame": {
+						"x": 812,
+						"y": 616,
+						"w": 237,
+						"h": 250
+					}
+				},
+				{
+					"filename": "maja-finish-move/frame_013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 381,
+						"h": 305
+					},
+					"spriteSourceSize": {
+						"x": 147,
+						"y": 28,
+						"w": 234,
+						"h": 276
+					},
+					"frame": {
+						"x": 244,
+						"y": 506,
+						"w": 234,
+						"h": 276
+					}
+				},
+				{
+					"filename": "maja-finish-move/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 381,
+						"h": 305
+					},
+					"spriteSourceSize": {
+						"x": 147,
+						"y": 45,
+						"w": 234,
+						"h": 236
+					},
+					"frame": {
+						"x": 1,
+						"y": 517,
+						"w": 234,
+						"h": 236
+					}
+				},
+				{
+					"filename": "maja-dying/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 327,
+						"h": 304
+					},
+					"spriteSourceSize": {
+						"x": 81,
+						"y": 206,
+						"w": 234,
+						"h": 95
+					},
+					"frame": {
+						"x": 1,
+						"y": 755,
+						"w": 234,
+						"h": 95
+					}
+				},
+				{
+					"filename": "maja-walk-rifle/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 409,
+						"h": 283
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 9,
+						"w": 232,
+						"h": 263
+					},
+					"frame": {
+						"x": 480,
+						"y": 506,
+						"w": 232,
+						"h": 263
+					}
+				},
+				{
+					"filename": "maja-idle/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 4,
+						"w": 96,
+						"h": 254
+					},
+					"frame": {
+						"x": 714,
+						"y": 506,
+						"w": 96,
+						"h": 254
+					}
+				},
+				{
+					"filename": "maja-shoot-up/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 256,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 80,
+						"y": 4,
+						"w": 96,
+						"h": 244
+					},
+					"frame": {
+						"x": 714,
+						"y": 762,
+						"w": 96,
+						"h": 244
+					}
+				},
+				{
+					"filename": "maja-dying/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 327,
+						"h": 304
+					},
+					"spriteSourceSize": {
+						"x": 81,
+						"y": 205,
+						"w": 229,
+						"h": 93
+					},
+					"frame": {
+						"x": 480,
+						"y": 771,
+						"w": 229,
+						"h": 93
+					}
+				},
+				{
+					"filename": "maja-knockdown-get-up/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 233,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 177,
+						"w": 224,
+						"h": 87
+					},
+					"frame": {
+						"x": 237,
+						"y": 784,
+						"w": 224,
+						"h": 87
+					}
+				},
+				{
+					"filename": "maja-knockdown-get-up/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 233,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 88,
+						"w": 222,
+						"h": 172
+					},
+					"frame": {
+						"x": 1,
+						"y": 852,
+						"w": 222,
+						"h": 172
+					}
+				},
+				{
+					"filename": "maja-walk-rifle/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 409,
+						"h": 283
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 3,
+						"w": 220,
+						"h": 267
+					},
+					"frame": {
+						"x": 463,
+						"y": 866,
+						"w": 220,
+						"h": 267
+					}
+				},
+				{
+					"filename": "maja-knockdown-get-up/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 233,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 175,
+						"w": 218,
+						"h": 89
+					},
+					"frame": {
+						"x": 225,
+						"y": 1008,
+						"w": 218,
+						"h": 89
+					}
+				},
+				{
+					"filename": "maja-special-attack/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 188,
+						"h": 236
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 96,
+						"w": 116,
+						"h": 132
+					},
+					"frame": {
+						"x": 225,
+						"y": 873,
+						"w": 116,
+						"h": 132
+					}
+				},
+				{
+					"filename": "maja-special-attack/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 188,
+						"h": 236
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 103,
+						"w": 116,
+						"h": 126
+					},
+					"frame": {
+						"x": 343,
+						"y": 873,
+						"w": 116,
+						"h": 126
+					}
+				},
+				{
+					"filename": "maja-jump-punch/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 256,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 31,
+						"w": 217,
+						"h": 203
+					},
+					"frame": {
+						"x": 1,
+						"y": 1026,
+						"w": 217,
+						"h": 203
+					}
+				},
+				{
+					"filename": "maja-walk-rifle/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 409,
+						"h": 283
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 3,
+						"w": 216,
+						"h": 265
+					},
+					"frame": {
+						"x": 220,
+						"y": 1099,
+						"w": 216,
+						"h": 265
+					}
+				},
+				{
+					"filename": "maja-walk-rifle/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 409,
+						"h": 283
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 2,
+						"w": 213,
+						"h": 267
+					},
+					"frame": {
+						"x": 1,
+						"y": 1231,
+						"w": 213,
+						"h": 267
+					}
+				},
+				{
+					"filename": "maja-dying/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 327,
+						"h": 304
+					},
+					"spriteSourceSize": {
+						"x": 82,
+						"y": 166,
+						"w": 210,
+						"h": 128
+					},
+					"frame": {
+						"x": 1609,
+						"y": 1,
+						"w": 210,
+						"h": 128
+					}
+				},
+				{
+					"filename": "maja-kick-1/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 262,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 3,
+						"w": 208,
+						"h": 248
+					},
+					"frame": {
+						"x": 1821,
+						"y": 1,
+						"w": 208,
+						"h": 248
+					}
+				},
+				{
+					"filename": "maja-jump-kick/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 256,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 19,
+						"w": 208,
+						"h": 202
+					},
+					"frame": {
+						"x": 1609,
+						"y": 131,
+						"w": 208,
+						"h": 202
+					}
+				},
+				{
+					"filename": "maja-kick-2/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 293,
+						"h": 262
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 9,
+						"w": 206,
+						"h": 243
+					},
+					"frame": {
+						"x": 1333,
+						"y": 280,
+						"w": 206,
+						"h": 243
+					}
+				},
+				{
+					"filename": "maja-kick-1/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 262,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 1,
+						"w": 194,
+						"h": 250
+					},
+					"frame": {
+						"x": 1333,
+						"y": 525,
+						"w": 194,
+						"h": 250
+					}
+				},
+				{
+					"filename": "maja-shoot-with-rifle/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 256,
+						"h": 252
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 13,
+						"w": 193,
+						"h": 226
+					},
+					"frame": {
+						"x": 1052,
+						"y": 529,
+						"w": 193,
+						"h": 226
+					}
+				},
+				{
+					"filename": "frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 5,
+						"w": 82,
+						"h": 225
+					},
+					"frame": {
+						"x": 1247,
+						"y": 529,
+						"w": 82,
+						"h": 225
+					}
+				},
+				{
+					"filename": "maja-kick-1/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 262,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 5,
+						"w": 192,
+						"h": 246
+					},
+					"frame": {
+						"x": 1051,
+						"y": 757,
+						"w": 192,
+						"h": 246
+					}
+				},
+				{
+					"filename": "maja-kick-2/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 293,
+						"h": 262
+					},
+					"spriteSourceSize": {
+						"x": 120,
+						"y": 12,
+						"w": 173,
+						"h": 247
+					},
+					"frame": {
+						"x": 812,
+						"y": 868,
+						"w": 173,
+						"h": 247
+					}
+				},
+				{
+					"filename": "maja-throw/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 204,
+						"h": 306
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 20,
+						"w": 124,
+						"h": 261
+					},
+					"frame": {
+						"x": 685,
+						"y": 1008,
+						"w": 124,
+						"h": 261
+					}
+				},
+				{
+					"filename": "maja-knockdown-get-up/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 233,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 64,
+						"y": 5,
+						"w": 124,
+						"h": 259
+					},
+					"frame": {
+						"x": 685,
+						"y": 1271,
+						"w": 124,
+						"h": 259
+					}
+				},
+				{
+					"filename": "maja-kick-1/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 262,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 28,
+						"w": 173,
+						"h": 228
+					},
+					"frame": {
+						"x": 438,
+						"y": 1135,
+						"w": 173,
+						"h": 228
+					}
+				},
+				{
+					"filename": "maja-dying/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 327,
+						"h": 304
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 75,
+						"w": 172,
+						"h": 207
+					},
+					"frame": {
+						"x": 438,
+						"y": 1365,
+						"w": 172,
+						"h": 207
+					}
+				},
+				{
+					"filename": "maja-walk-rifle/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 409,
+						"h": 283
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 7,
+						"w": 170,
+						"h": 263
+					},
+					"frame": {
+						"x": 216,
+						"y": 1366,
+						"w": 170,
+						"h": 263
+					}
+				},
+				{
+					"filename": "maja-walk-rifle/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 409,
+						"h": 283
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 5,
+						"w": 169,
+						"h": 266
+					},
+					"frame": {
+						"x": 1,
+						"y": 1500,
+						"w": 169,
+						"h": 266
+					}
+				},
+				{
+					"filename": "maja-walk-rifle/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 409,
+						"h": 283
+					},
+					"spriteSourceSize": {
+						"x": 40,
+						"y": 12,
+						"w": 169,
+						"h": 258
+					},
+					"frame": {
+						"x": 2031,
+						"y": 1,
+						"w": 169,
+						"h": 258
+					}
+				},
+				{
+					"filename": "maja-punch-1/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 14,
+						"w": 169,
+						"h": 243
+					},
+					"frame": {
+						"x": 1819,
+						"y": 251,
+						"w": 169,
+						"h": 243
+					}
+				},
+				{
+					"filename": "maja-damage/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 196,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 11,
+						"w": 166,
+						"h": 246
+					},
+					"frame": {
+						"x": 1819,
+						"y": 496,
+						"w": 166,
+						"h": 246
+					}
+				},
+				{
+					"filename": "maja-knockdown-get-up/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 233,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 125,
+						"w": 166,
+						"h": 140
+					},
+					"frame": {
+						"x": 1541,
+						"y": 335,
+						"w": 166,
+						"h": 140
+					}
+				},
+				{
+					"filename": "maja-finish-move/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 381,
+						"h": 305
+					},
+					"spriteSourceSize": {
+						"x": 140,
+						"y": 23,
+						"w": 108,
+						"h": 258
+					},
+					"frame": {
+						"x": 1709,
+						"y": 335,
+						"w": 108,
+						"h": 258
+					}
+				},
+				{
+					"filename": "maja-punch-2/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 200,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 25,
+						"w": 165,
+						"h": 206
+					},
+					"frame": {
+						"x": 1541,
+						"y": 477,
+						"w": 165,
+						"h": 206
+					}
+				},
+				{
+					"filename": "maja-walk/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 151,
+						"h": 267
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 5,
+						"w": 108,
+						"h": 258
+					},
+					"frame": {
+						"x": 1708,
+						"y": 595,
+						"w": 108,
+						"h": 258
+					}
+				},
+				{
+					"filename": "maja-melee/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 241,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 13,
+						"w": 164,
+						"h": 244
+					},
+					"frame": {
+						"x": 1529,
+						"y": 744,
+						"w": 164,
+						"h": 244
+					}
+				},
+				{
+					"filename": "maja-knockdown-get-up/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 233,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 91,
+						"w": 162,
+						"h": 164
+					},
+					"frame": {
+						"x": 1245,
+						"y": 777,
+						"w": 162,
+						"h": 164
+					}
+				},
+				{
+					"filename": "maja-special-attack/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 188,
+						"h": 236
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 70,
+						"w": 118,
+						"h": 159
+					},
+					"frame": {
+						"x": 1409,
+						"y": 777,
+						"w": 118,
+						"h": 159
+					}
+				},
+				{
+					"filename": "maja-kick-2/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 293,
+						"h": 262
+					},
+					"spriteSourceSize": {
+						"x": 85,
+						"y": 2,
+						"w": 117,
+						"h": 259
+					},
+					"frame": {
+						"x": 1409,
+						"y": 938,
+						"w": 117,
+						"h": 259
+					}
+				},
+				{
+					"filename": "maja-melee/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 241,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 74,
+						"y": 12,
+						"w": 160,
+						"h": 245
+					},
+					"frame": {
+						"x": 1245,
+						"y": 943,
+						"w": 160,
+						"h": 245
+					}
+				},
+				{
+					"filename": "maja-punch-combo/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 256,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 16,
+						"w": 160,
+						"h": 226
+					},
+					"frame": {
+						"x": 1245,
+						"y": 1190,
+						"w": 160,
+						"h": 226
+					}
+				},
+				{
+					"filename": "maja-punch-combo/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 256,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 20,
+						"w": 160,
+						"h": 222
+					},
+					"frame": {
+						"x": 1245,
+						"y": 1418,
+						"w": 160,
+						"h": 222
+					}
+				},
+				{
+					"filename": "maja-kick-2/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 293,
+						"h": 262
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 5,
+						"w": 157,
+						"h": 250
+					},
+					"frame": {
+						"x": 1245,
+						"y": 1642,
+						"w": 157,
+						"h": 250
+					}
+				},
+				{
+					"filename": "maja-jump/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 269
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 0,
+						"w": 156,
+						"h": 267
+					},
+					"frame": {
+						"x": 987,
+						"y": 1005,
+						"w": 156,
+						"h": 267
+					}
+				},
+				{
+					"filename": "maja-idle/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 98,
+						"h": 256
+					},
+					"frame": {
+						"x": 1145,
+						"y": 1005,
+						"w": 98,
+						"h": 256
+					}
+				},
+				{
+					"filename": "maja-idle/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 4,
+						"w": 98,
+						"h": 254
+					},
+					"frame": {
+						"x": 1145,
+						"y": 1263,
+						"w": 98,
+						"h": 254
+					}
+				},
+				{
+					"filename": "maja-punch-combo/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 256,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 22,
+						"w": 153,
+						"h": 220
+					},
+					"frame": {
+						"x": 811,
+						"y": 1117,
+						"w": 153,
+						"h": 220
+					}
+				},
+				{
+					"filename": "maja-melee/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 241,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 1,
+						"w": 152,
+						"h": 256
+					},
+					"frame": {
+						"x": 811,
+						"y": 1339,
+						"w": 152,
+						"h": 256
+					}
+				},
+				{
+					"filename": "maja-special-attack/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 188,
+						"h": 236
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 152,
+						"h": 226
+					},
+					"frame": {
+						"x": 966,
+						"y": 1274,
+						"w": 152,
+						"h": 226
+					}
+				},
+				{
+					"filename": "maja-run/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 5,
+						"w": 151,
+						"h": 256
+					},
+					"frame": {
+						"x": 966,
+						"y": 1502,
+						"w": 151,
+						"h": 256
+					}
+				},
+				{
+					"filename": "frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 6,
+						"w": 124,
+						"h": 225
+					},
+					"frame": {
+						"x": 1119,
+						"y": 1519,
+						"w": 124,
+						"h": 225
+					}
+				},
+				{
+					"filename": "maja-jump/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 269
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 46,
+						"w": 121,
+						"h": 220
+					},
+					"frame": {
+						"x": 1119,
+						"y": 1746,
+						"w": 121,
+						"h": 220
+					}
+				},
+				{
+					"filename": "maja-run/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 6,
+						"w": 151,
+						"h": 255
+					},
+					"frame": {
+						"x": 612,
+						"y": 1532,
+						"w": 151,
+						"h": 255
+					}
+				},
+				{
+					"filename": "maja-run/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 12,
+						"w": 151,
+						"h": 253
+					},
+					"frame": {
+						"x": 612,
+						"y": 1789,
+						"w": 151,
+						"h": 253
+					}
+				},
+				{
+					"filename": "maja-kick-1/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 262,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 14,
+						"w": 151,
+						"h": 242
+					},
+					"frame": {
+						"x": 765,
+						"y": 1597,
+						"w": 151,
+						"h": 242
+					}
+				},
+				{
+					"filename": "maja-run/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 11,
+						"w": 150,
+						"h": 255
+					},
+					"frame": {
+						"x": 765,
+						"y": 1841,
+						"w": 150,
+						"h": 255
+					}
+				},
+				{
+					"filename": "maja-run/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 11,
+						"w": 150,
+						"h": 255
+					},
+					"frame": {
+						"x": 918,
+						"y": 1760,
+						"w": 150,
+						"h": 255
+					}
+				},
+				{
+					"filename": "maja-melee/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 241,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 2,
+						"w": 149,
+						"h": 255
+					},
+					"frame": {
+						"x": 918,
+						"y": 2017,
+						"w": 149,
+						"h": 255
+					}
+				},
+				{
+					"filename": "maja-special-attack/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 188,
+						"h": 236
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 10,
+						"w": 149,
+						"h": 219
+					},
+					"frame": {
+						"x": 388,
+						"y": 1574,
+						"w": 149,
+						"h": 219
+					}
+				},
+				{
+					"filename": "maja-walk/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 151,
+						"h": 267
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 10,
+						"w": 148,
+						"h": 257
+					},
+					"frame": {
+						"x": 172,
+						"y": 1631,
+						"w": 148,
+						"h": 257
+					}
+				},
+				{
+					"filename": "maja-walk/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 151,
+						"h": 267
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 10,
+						"w": 148,
+						"h": 257
+					},
+					"frame": {
+						"x": 1,
+						"y": 1768,
+						"w": 148,
+						"h": 257
+					}
+				},
+				{
+					"filename": "maja-throw/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 204,
+						"h": 306
+					},
+					"spriteSourceSize": {
+						"x": 57,
+						"y": 37,
+						"w": 147,
+						"h": 246
+					},
+					"frame": {
+						"x": 322,
+						"y": 1795,
+						"w": 147,
+						"h": 246
+					}
+				},
+				{
+					"filename": "maja-walk/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 151,
+						"h": 267
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 7,
+						"w": 139,
+						"h": 258
+					},
+					"frame": {
+						"x": 471,
+						"y": 1795,
+						"w": 139,
+						"h": 258
+					}
+				},
+				{
+					"filename": "maja-dying/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 327,
+						"h": 304
+					},
+					"spriteSourceSize": {
+						"x": 90,
+						"y": 42,
+						"w": 146,
+						"h": 240
+					},
+					"frame": {
+						"x": 322,
+						"y": 2043,
+						"w": 146,
+						"h": 240
+					}
+				},
+				{
+					"filename": "maja-throw/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 204,
+						"h": 306
+					},
+					"spriteSourceSize": {
+						"x": 57,
+						"y": 33,
+						"w": 143,
+						"h": 248
+					},
+					"frame": {
+						"x": 612,
+						"y": 2044,
+						"w": 143,
+						"h": 248
+					}
+				},
+				{
+					"filename": "maja-damage/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 196,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 23,
+						"w": 137,
+						"h": 234
+					},
+					"frame": {
+						"x": 470,
+						"y": 2274,
+						"w": 137,
+						"h": 234
+					}
+				},
+				{
+					"filename": "frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 16,
+						"w": 130,
+						"h": 215
+					},
+					"frame": {
+						"x": 470,
+						"y": 2055,
+						"w": 130,
+						"h": 215
+					}
+				},
+				{
+					"filename": "maja-knockdown-get-up/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 233,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 1,
+						"w": 142,
+						"h": 243
+					},
+					"frame": {
+						"x": 757,
+						"y": 2098,
+						"w": 142,
+						"h": 243
+					}
+				},
+				{
+					"filename": "maja-damage/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 196,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 25,
+						"w": 141,
+						"h": 230
+					},
+					"frame": {
+						"x": 609,
+						"y": 2294,
+						"w": 141,
+						"h": 230
+					}
+				},
+				{
+					"filename": "maja-knockdown-get-up/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 233,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 61,
+						"y": 31,
+						"w": 137,
+						"h": 233
+					},
+					"frame": {
+						"x": 151,
+						"y": 1890,
+						"w": 137,
+						"h": 233
+					}
+				},
+				{
+					"filename": "maja-shoot/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 256,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 73,
+						"y": 16,
+						"w": 136,
+						"h": 226
+					},
+					"frame": {
+						"x": 1,
+						"y": 2027,
+						"w": 136,
+						"h": 226
+					}
+				},
+				{
+					"filename": "maja-melee/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 241,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 1,
+						"w": 134,
+						"h": 256
+					},
+					"frame": {
+						"x": 139,
+						"y": 2125,
+						"w": 134,
+						"h": 256
+					}
+				},
+				{
+					"filename": "maja-finish-move/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 381,
+						"h": 305
+					},
+					"spriteSourceSize": {
+						"x": 147,
+						"y": 36,
+						"w": 133,
+						"h": 245
+					},
+					"frame": {
+						"x": 1,
+						"y": 2255,
+						"w": 133,
+						"h": 245
+					}
+				},
+				{
+					"filename": "maja-kick-1/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 262,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 0,
+						"w": 132,
+						"h": 256
+					},
+					"frame": {
+						"x": 275,
+						"y": 2285,
+						"w": 132,
+						"h": 256
+					}
+				},
+				{
+					"filename": "frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 10,
+						"w": 132,
+						"h": 221
+					},
+					"frame": {
+						"x": 136,
+						"y": 2383,
+						"w": 132,
+						"h": 221
+					}
+				},
+				{
+					"filename": "maja-punch-1/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 6,
+						"w": 131,
+						"h": 251
+					},
+					"frame": {
+						"x": 1,
+						"y": 2502,
+						"w": 131,
+						"h": 251
+					}
+				},
+				{
+					"filename": "maja-kick-1/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 262,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 6,
+						"w": 131,
+						"h": 249
+					},
+					"frame": {
+						"x": 409,
+						"y": 2510,
+						"w": 131,
+						"h": 249
+					}
+				},
+				{
+					"filename": "maja-shoot-recoil/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 256,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 75,
+						"y": 16,
+						"w": 131,
+						"h": 225
+					},
+					"frame": {
+						"x": 270,
+						"y": 2543,
+						"w": 131,
+						"h": 225
+					}
+				},
+				{
+					"filename": "frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 21,
+						"w": 131,
+						"h": 210
+					},
+					"frame": {
+						"x": 134,
+						"y": 2606,
+						"w": 131,
+						"h": 210
+					}
+				},
+				{
+					"filename": "maja-kick-1/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 262,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 2,
+						"w": 130,
+						"h": 254
+					},
+					"frame": {
+						"x": 1,
+						"y": 2755,
+						"w": 130,
+						"h": 254
+					}
+				},
+				{
+					"filename": "maja-throw/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 204,
+						"h": 306
+					},
+					"spriteSourceSize": {
+						"x": 57,
+						"y": 0,
+						"w": 101,
+						"h": 281
+					},
+					"frame": {
+						"x": 1,
+						"y": 3011,
+						"w": 101,
+						"h": 281
+					}
+				},
+				{
+					"filename": "maja-jump/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 269
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 4,
+						"w": 106,
+						"h": 262
+					},
+					"frame": {
+						"x": 1,
+						"y": 3294,
+						"w": 106,
+						"h": 262
+					}
+				},
+				{
+					"filename": "maja-run/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 2,
+						"w": 114,
+						"h": 261
+					},
+					"frame": {
+						"x": 104,
+						"y": 3011,
+						"w": 114,
+						"h": 261
+					}
+				},
+				{
+					"filename": "maja-special-attack/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 188,
+						"h": 236
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 43,
+						"w": 113,
+						"h": 187
+					},
+					"frame": {
+						"x": 133,
+						"y": 2818,
+						"w": 113,
+						"h": 187
+					}
+				},
+				{
+					"filename": "maja-walk/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 151,
+						"h": 267
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 3,
+						"w": 100,
+						"h": 261
+					},
+					"frame": {
+						"x": 1,
+						"y": 3558,
+						"w": 100,
+						"h": 261
+					}
+				},
+				{
+					"filename": "maja-walk/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 151,
+						"h": 267
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 4,
+						"w": 114,
+						"h": 260
+					},
+					"frame": {
+						"x": 1,
+						"y": 3821,
+						"w": 114,
+						"h": 260
+					}
+				},
+				{
+					"filename": "maja-kick-2/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 293,
+						"h": 262
+					},
+					"spriteSourceSize": {
+						"x": 94,
+						"y": 2,
+						"w": 105,
+						"h": 260
+					},
+					"frame": {
+						"x": 103,
+						"y": 3558,
+						"w": 105,
+						"h": 260
+					}
+				},
+				{
+					"filename": "maja-throw/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 204,
+						"h": 306
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 23,
+						"w": 102,
+						"h": 260
+					},
+					"frame": {
+						"x": 117,
+						"y": 3820,
+						"w": 102,
+						"h": 260
+					}
+				},
+				{
+					"filename": "maja-dying/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 327,
+						"h": 304
+					},
+					"spriteSourceSize": {
+						"x": 113,
+						"y": 22,
+						"w": 101,
+						"h": 260
+					},
+					"frame": {
+						"x": 109,
+						"y": 3274,
+						"w": 101,
+						"h": 260
+					}
+				},
+				{
+					"filename": "maja-kick-2/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 293,
+						"h": 262
+					},
+					"spriteSourceSize": {
+						"x": 94,
+						"y": 2,
+						"w": 92,
+						"h": 260
+					},
+					"frame": {
+						"x": 210,
+						"y": 3536,
+						"w": 92,
+						"h": 260
+					}
+				},
+				{
+					"filename": "maja-run/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 5,
+						"w": 91,
+						"h": 260
+					},
+					"frame": {
+						"x": 212,
+						"y": 3274,
+						"w": 91,
+						"h": 260
+					}
+				},
+				{
+					"filename": "maja-kick-2/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 293,
+						"h": 262
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 2,
+						"w": 120,
+						"h": 259
+					},
+					"frame": {
+						"x": 305,
+						"y": 3274,
+						"w": 120,
+						"h": 259
+					}
+				},
+				{
+					"filename": "maja-idle/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 2,
+						"w": 105,
+						"h": 259
+					},
+					"frame": {
+						"x": 220,
+						"y": 3007,
+						"w": 105,
+						"h": 259
+					}
+				},
+				{
+					"filename": "maja-jump/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 174,
+						"h": 269
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 6,
+						"w": 102,
+						"h": 259
+					},
+					"frame": {
+						"x": 327,
+						"y": 3007,
+						"w": 102,
+						"h": 259
+					}
+				},
+				{
+					"filename": "maja-throw/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 204,
+						"h": 306
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 40,
+						"w": 106,
+						"h": 243
+					},
+					"frame": {
+						"x": 403,
+						"y": 2761,
+						"w": 106,
+						"h": 243
+					}
+				},
+				{
+					"filename": "frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 127,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 15,
+						"w": 88,
+						"h": 229
+					},
+					"frame": {
+						"x": 267,
+						"y": 2770,
+						"w": 88,
+						"h": 229
+					}
+				},
+				{
+					"filename": "maja-idle/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 2,
+						"w": 99,
+						"h": 259
+					},
+					"frame": {
+						"x": 221,
+						"y": 3798,
+						"w": 99,
+						"h": 259
+					}
+				},
+				{
+					"filename": "maja-finish-move/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 381,
+						"h": 305
+					},
+					"spriteSourceSize": {
+						"x": 139,
+						"y": 23,
+						"w": 104,
+						"h": 258
+					},
+					"frame": {
+						"x": 304,
+						"y": 3536,
+						"w": 104,
+						"h": 258
+					}
+				},
+				{
+					"filename": "maja-idle/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 101,
+						"h": 258
+					},
+					"frame": {
+						"x": 322,
+						"y": 3796,
+						"w": 101,
+						"h": 258
+					}
+				},
+				{
+					"filename": "maja-knockdown-get-up/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 233,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 67,
+						"y": 4,
+						"w": 99,
+						"h": 258
+					},
+					"frame": {
+						"x": 410,
+						"y": 3535,
+						"w": 99,
+						"h": 258
+					}
+				},
+				{
+					"filename": "maja-punch-1/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 0,
+						"w": 108,
+						"h": 257
+					},
+					"frame": {
+						"x": 427,
+						"y": 3268,
+						"w": 108,
+						"h": 257
+					}
+				},
+				{
+					"filename": "maja-walk/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 151,
+						"h": 267
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 7,
+						"w": 107,
+						"h": 257
+					},
+					"frame": {
+						"x": 431,
+						"y": 3006,
+						"w": 107,
+						"h": 257
+					}
+				},
+				{
+					"filename": "frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 15,
+						"w": 87,
+						"h": 227
+					},
+					"frame": {
+						"x": 537,
+						"y": 2761,
+						"w": 87,
+						"h": 227
+					}
+				},
+				{
+					"filename": "maja-special-attack/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 188,
+						"h": 236
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 8,
+						"w": 113,
+						"h": 226
+					},
+					"frame": {
+						"x": 542,
+						"y": 2526,
+						"w": 113,
+						"h": 226
+					}
+				},
+				{
+					"filename": "maja-idle/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 4,
+						"w": 105,
+						"h": 257
+					},
+					"frame": {
+						"x": 425,
+						"y": 3795,
+						"w": 105,
+						"h": 257
+					}
+				},
+				{
+					"filename": "maja-damage/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 196,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 0,
+						"w": 100,
+						"h": 257
+					},
+					"frame": {
+						"x": 511,
+						"y": 3527,
+						"w": 100,
+						"h": 257
+					}
+				},
+				{
+					"filename": "maja-kick-2/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 293,
+						"h": 262
+					},
+					"spriteSourceSize": {
+						"x": 89,
+						"y": 5,
+						"w": 91,
+						"h": 257
+					},
+					"frame": {
+						"x": 537,
+						"y": 3265,
+						"w": 91,
+						"h": 257
+					}
+				},
+				{
+					"filename": "maja-walk/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 151,
+						"h": 267
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 8,
+						"w": 115,
+						"h": 256
+					},
+					"frame": {
+						"x": 613,
+						"y": 2990,
+						"w": 115,
+						"h": 256
+					}
+				},
+				{
+					"filename": "frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 16,
+						"w": 87,
+						"h": 225
+					},
+					"frame": {
+						"x": 626,
+						"y": 2754,
+						"w": 87,
+						"h": 225
+					}
+				},
+				{
+					"filename": "maja-special-attack/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 188,
+						"h": 236
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 8,
+						"w": 112,
+						"h": 224
+					},
+					"frame": {
+						"x": 657,
+						"y": 2526,
+						"w": 112,
+						"h": 224
+					}
+				},
+				{
+					"filename": "maja-dying/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 327,
+						"h": 304
+					},
+					"spriteSourceSize": {
+						"x": 98,
+						"y": 110,
+						"w": 128,
+						"h": 169
+					},
+					"frame": {
+						"x": 752,
+						"y": 2343,
+						"w": 128,
+						"h": 169
+					}
+				},
+				{
+					"filename": "maja-throw/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 204,
+						"h": 306
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 69,
+						"w": 112,
+						"h": 214
+					},
+					"frame": {
+						"x": 715,
+						"y": 2752,
+						"w": 112,
+						"h": 214
+					}
+				},
+				{
+					"filename": "maja-punch-2/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 21,
+						"w": 115,
+						"h": 211
+					},
+					"frame": {
+						"x": 771,
+						"y": 2514,
+						"w": 115,
+						"h": 211
+					}
+				},
+				{
+					"filename": "frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 83,
+						"w": 100,
+						"h": 157
+					},
+					"frame": {
+						"x": 882,
+						"y": 2343,
+						"w": 100,
+						"h": 157
+					}
+				},
+				{
+					"filename": "maja-dying/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 327,
+						"h": 304
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 26,
+						"w": 113,
+						"h": 256
+					},
+					"frame": {
+						"x": 532,
+						"y": 3786,
+						"w": 113,
+						"h": 256
+					}
+				},
+				{
+					"filename": "maja-finish-move/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 381,
+						"h": 305
+					},
+					"spriteSourceSize": {
+						"x": 139,
+						"y": 25,
+						"w": 113,
+						"h": 256
+					},
+					"frame": {
+						"x": 613,
+						"y": 3524,
+						"w": 113,
+						"h": 256
+					}
+				},
+				{
+					"filename": "maja-walk/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 151,
+						"h": 267
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 7,
+						"w": 104,
+						"h": 256
+					},
+					"frame": {
+						"x": 647,
+						"y": 3248,
+						"w": 104,
+						"h": 256
+					}
+				},
+				{
+					"filename": "maja-idle/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 4,
+						"w": 99,
+						"h": 256
+					},
+					"frame": {
+						"x": 753,
+						"y": 3248,
+						"w": 99,
+						"h": 256
+					}
+				},
+				{
+					"filename": "maja-melee/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 241,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 2,
+						"w": 119,
+						"h": 255
+					},
+					"frame": {
+						"x": 854,
+						"y": 3248,
+						"w": 119,
+						"h": 255
+					}
+				},
+				{
+					"filename": "maja-run/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 9,
+						"w": 119,
+						"h": 255
+					},
+					"frame": {
+						"x": 730,
+						"y": 2968,
+						"w": 119,
+						"h": 255
+					}
+				},
+				{
+					"filename": "maja-punch-2/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 25,
+						"w": 98,
+						"h": 207
+					},
+					"frame": {
+						"x": 829,
+						"y": 2727,
+						"w": 98,
+						"h": 207
+					}
+				},
+				{
+					"filename": "maja-punch-2/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 26,
+						"w": 111,
+						"h": 206
+					},
+					"frame": {
+						"x": 888,
+						"y": 2502,
+						"w": 111,
+						"h": 206
+					}
+				},
+				{
+					"filename": "maja-idle/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 113,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 93,
+						"h": 255
+					},
+					"frame": {
+						"x": 851,
+						"y": 2936,
+						"w": 93,
+						"h": 255
+					}
+				},
+				{
+					"filename": "maja-run/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 173,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 10,
+						"w": 119,
+						"h": 254
+					},
+					"frame": {
+						"x": 647,
+						"y": 3782,
+						"w": 119,
+						"h": 254
+					}
+				},
+				{
+					"filename": "maja-melee/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 241,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 4,
+						"w": 120,
+						"h": 253
+					},
+					"frame": {
+						"x": 728,
+						"y": 3506,
+						"w": 120,
+						"h": 253
+					}
+				},
+				{
+					"filename": "maja-melee/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 241,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 4,
+						"w": 105,
+						"h": 253
+					},
+					"frame": {
+						"x": 768,
+						"y": 3761,
+						"w": 105,
+						"h": 253
+					}
+				},
+				{
+					"filename": "maja-throw/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 204,
+						"h": 306
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 29,
+						"w": 129,
+						"h": 252
+					},
+					"frame": {
+						"x": 850,
+						"y": 3506,
+						"w": 129,
+						"h": 252
+					}
+				},
+				{
+					"filename": "maja-throw/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 204,
+						"h": 306
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 29,
+						"w": 128,
+						"h": 252
+					},
+					"frame": {
+						"x": 981,
+						"y": 3505,
+						"w": 128,
+						"h": 252
+					}
+				},
+				{
+					"filename": "maja-punch-1/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 57,
+						"y": 5,
+						"w": 120,
+						"h": 252
+					},
+					"frame": {
+						"x": 875,
+						"y": 3760,
+						"w": 120,
+						"h": 252
+					}
+				},
+				{
+					"filename": "maja-kick-1/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 262,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 85,
+						"y": 5,
+						"w": 114,
+						"h": 252
+					},
+					"frame": {
+						"x": 997,
+						"y": 3759,
+						"w": 114,
+						"h": 252
+					}
+				},
+				{
+					"filename": "maja-kick-2/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 293,
+						"h": 262
+					},
+					"spriteSourceSize": {
+						"x": 128,
+						"y": 5,
+						"w": 111,
+						"h": 252
+					},
+					"frame": {
+						"x": 1113,
+						"y": 3759,
+						"w": 111,
+						"h": 252
+					}
+				},
+				{
+					"filename": "maja-melee/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 241,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 6,
+						"w": 108,
+						"h": 251
+					},
+					"frame": {
+						"x": 1226,
+						"y": 3759,
+						"w": 108,
+						"h": 251
+					}
+				},
+				{
+					"filename": "maja-special-attack/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 188,
+						"h": 236
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 105,
+						"w": 119,
+						"h": 124
+					},
+					"frame": {
+						"x": 929,
+						"y": 2710,
+						"w": 119,
+						"h": 124
+					}
+				},
+				{
+					"filename": "maja-pick-up/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 127,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 15,
+						"w": 88,
+						"h": 229
+					},
+					"frame": {
+						"x": 267,
+						"y": 2770,
+						"w": 88,
+						"h": 229
+					}
+				},
+				{
+					"filename": "maja-pick-up/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 83,
+						"w": 100,
+						"h": 157
+					},
+					"frame": {
+						"x": 882,
+						"y": 2343,
+						"w": 100,
+						"h": 157
+					}
+				},
+				{
+					"filename": "maja-pick-up/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 16,
+						"w": 87,
+						"h": 225
+					},
+					"frame": {
+						"x": 626,
+						"y": 2754,
+						"w": 87,
+						"h": 225
+					}
+				},
+				{
+					"filename": "maja-pick-up/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 125,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 15,
+						"w": 87,
+						"h": 227
+					},
+					"frame": {
+						"x": 537,
+						"y": 2761,
+						"w": 87,
+						"h": 227
+					}
+				},
+				{
+					"filename": "maja-punch-2/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 21,
+						"w": 131,
+						"h": 210
+					},
+					"frame": {
+						"x": 134,
+						"y": 2606,
+						"w": 131,
+						"h": 210
+					}
+				},
+				{
+					"filename": "maja-punch-2/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 16,
+						"w": 130,
+						"h": 215
+					},
+					"frame": {
+						"x": 470,
+						"y": 2055,
+						"w": 130,
+						"h": 215
+					}
+				},
+				{
+					"filename": "maja-punch-2/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 10,
+						"w": 132,
+						"h": 221
+					},
+					"frame": {
+						"x": 136,
+						"y": 2383,
+						"w": 132,
+						"h": 221
+					}
+				},
+				{
+					"filename": "maja-punch-2/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 6,
+						"w": 124,
+						"h": 225
+					},
+					"frame": {
+						"x": 1119,
+						"y": 1519,
+						"w": 124,
+						"h": 225
+					}
+				},
+				{
+					"filename": "maja-punch-2/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 160,
+						"h": 234
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 5,
+						"w": 82,
+						"h": 225
+					},
+					"frame": {
+						"x": 1247,
+						"y": 529,
+						"w": 82,
+						"h": 225
+					}
+				},
+				{
+					"filename": "maja-punch-combo/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 262,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 5,
+						"w": 192,
+						"h": 246
+					},
+					"frame": {
+						"x": 1051,
+						"y": 757,
+						"w": 192,
+						"h": 246
+					}
+				},
+				{
+					"filename": "maja-punch-combo/frame_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 262,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 3,
+						"w": 208,
+						"h": 248
+					},
+					"frame": {
+						"x": 1821,
+						"y": 1,
+						"w": 208,
+						"h": 248
+					}
+				},
+				{
+					"filename": "maja-punch-combo/frame_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 262,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 1,
+						"w": 194,
+						"h": 250
+					},
+					"frame": {
+						"x": 1333,
+						"y": 525,
+						"w": 194,
+						"h": 250
+					}
+				},
+				{
+					"filename": "maja-punch-combo/frame_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 262,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 14,
+						"w": 151,
+						"h": 242
+					},
+					"frame": {
+						"x": 765,
+						"y": 1597,
+						"w": 151,
+						"h": 242
+					}
+				},
+				{
+					"filename": "maja-punch-combo/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 0,
+						"w": 108,
+						"h": 257
+					},
+					"frame": {
+						"x": 427,
+						"y": 3268,
+						"w": 108,
+						"h": 257
+					}
+				},
+				{
+					"filename": "maja-punch-combo/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 6,
+						"w": 131,
+						"h": 251
+					},
+					"frame": {
+						"x": 1,
+						"y": 2502,
+						"w": 131,
+						"h": 251
+					}
+				},
+				{
+					"filename": "maja-punch-combo/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 57,
+						"y": 5,
+						"w": 120,
+						"h": 252
+					},
+					"frame": {
+						"x": 875,
+						"y": 3760,
+						"w": 120,
+						"h": 252
+					}
+				},
+				{
+					"filename": "maja-punch-combo/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 57,
+						"y": 5,
+						"w": 120,
+						"h": 252
+					},
+					"frame": {
+						"x": 875,
+						"y": 3760,
+						"w": 120,
+						"h": 252
+					}
+				},
+				{
+					"filename": "maja-punch-combo/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 221,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 57,
+						"y": 5,
+						"w": 120,
+						"h": 252
+					},
+					"frame": {
+						"x": 875,
+						"y": 3760,
+						"w": 120,
+						"h": 252
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}
