@@ -1,0 +1,5017 @@
+{
+	"textures": [
+		{
+			"image": "marko",
+			"format": "RGBA8888",
+			"size": {
+				"w": 4015,
+				"h": 4065
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "marko-finish-move/frame_035.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 339,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 6,
+						"w": 332,
+						"h": 255
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 332,
+						"h": 255
+					}
+				},
+				{
+					"filename": "marko-knockdown-get-up/frame_015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 348
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 208,
+						"w": 294,
+						"h": 103
+					},
+					"frame": {
+						"x": 335,
+						"y": 1,
+						"w": 294,
+						"h": 103
+					}
+				},
+				{
+					"filename": "marko-knockdown-get-up/frame_021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 348
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 217,
+						"w": 291,
+						"h": 94
+					},
+					"frame": {
+						"x": 631,
+						"y": 1,
+						"w": 291,
+						"h": 94
+					}
+				},
+				{
+					"filename": "marko-knockdown-get-up/frame_020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 348
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 215,
+						"w": 290,
+						"h": 96
+					},
+					"frame": {
+						"x": 924,
+						"y": 1,
+						"w": 290,
+						"h": 96
+					}
+				},
+				{
+					"filename": "marko-knockdown-get-up/frame_014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 348
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 217,
+						"w": 290,
+						"h": 94
+					},
+					"frame": {
+						"x": 631,
+						"y": 97,
+						"w": 290,
+						"h": 94
+					}
+				},
+				{
+					"filename": "marko-knockdown-get-up/frame_028.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 348
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 211,
+						"w": 288,
+						"h": 100
+					},
+					"frame": {
+						"x": 335,
+						"y": 106,
+						"w": 288,
+						"h": 100
+					}
+				},
+				{
+					"filename": "marko-knockdown-get-up/frame_029.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 348
+					},
+					"spriteSourceSize": {
+						"x": 40,
+						"y": 199,
+						"w": 287,
+						"h": 112
+					},
+					"frame": {
+						"x": 1216,
+						"y": 1,
+						"w": 287,
+						"h": 112
+					}
+				},
+				{
+					"filename": "marko-knockdown-get-up/frame_013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 348
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 212,
+						"w": 287,
+						"h": 99
+					},
+					"frame": {
+						"x": 923,
+						"y": 99,
+						"w": 287,
+						"h": 99
+					}
+				},
+				{
+					"filename": "marko-finish-move/frame_025.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 339,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 13,
+						"w": 286,
+						"h": 248
+					},
+					"frame": {
+						"x": 923,
+						"y": 200,
+						"w": 286,
+						"h": 248
+					}
+				},
+				{
+					"filename": "marko-finish-move/frame_027.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 339,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 58,
+						"y": 6,
+						"w": 281,
+						"h": 255
+					},
+					"frame": {
+						"x": 625,
+						"y": 193,
+						"w": 281,
+						"h": 255
+					}
+				},
+				{
+					"filename": "marko-finish-move/frame_033.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 339,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 23,
+						"w": 276,
+						"h": 238
+					},
+					"frame": {
+						"x": 335,
+						"y": 208,
+						"w": 276,
+						"h": 238
+					}
+				},
+				{
+					"filename": "marko-finish-move/frame_028.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 339,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 69,
+						"y": 5,
+						"w": 268,
+						"h": 256
+					},
+					"frame": {
+						"x": 1,
+						"y": 258,
+						"w": 268,
+						"h": 256
+					}
+				},
+				{
+					"filename": "marko-finish-move/frame_029.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 339,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 4,
+						"w": 264,
+						"h": 257
+					},
+					"frame": {
+						"x": 271,
+						"y": 448,
+						"w": 264,
+						"h": 257
+					}
+				},
+				{
+					"filename": "marko-knockdown-get-up/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 348
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 69,
+						"w": 263,
+						"h": 130
+					},
+					"frame": {
+						"x": 1,
+						"y": 516,
+						"w": 263,
+						"h": 130
+					}
+				},
+				{
+					"filename": "marko-throw/frame_020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 389,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 134,
+						"y": 51,
+						"w": 255,
+						"h": 212
+					},
+					"frame": {
+						"x": 1,
+						"y": 648,
+						"w": 255,
+						"h": 212
+					}
+				},
+				{
+					"filename": "marko-knockdown-get-up/frame_012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 348
+					},
+					"spriteSourceSize": {
+						"x": 85,
+						"y": 127,
+						"w": 251,
+						"h": 184
+					},
+					"frame": {
+						"x": 1505,
+						"y": 1,
+						"w": 251,
+						"h": 184
+					}
+				},
+				{
+					"filename": "marko-throw/frame_021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 389,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 143,
+						"y": 51,
+						"w": 246,
+						"h": 212
+					},
+					"frame": {
+						"x": 1212,
+						"y": 115,
+						"w": 246,
+						"h": 212
+					}
+				},
+				{
+					"filename": "marko-finish-move/frame_032.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 339,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 58,
+						"y": 14,
+						"w": 244,
+						"h": 245
+					},
+					"frame": {
+						"x": 1212,
+						"y": 329,
+						"w": 244,
+						"h": 245
+					}
+				},
+				{
+					"filename": "marko-throw/frame_022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 389,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 145,
+						"y": 49,
+						"w": 240,
+						"h": 213
+					},
+					"frame": {
+						"x": 537,
+						"y": 450,
+						"w": 240,
+						"h": 213
+					}
+				},
+				{
+					"filename": "marko-finish-move/frame_034.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 339,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 89,
+						"y": 18,
+						"w": 238,
+						"h": 243
+					},
+					"frame": {
+						"x": 779,
+						"y": 450,
+						"w": 238,
+						"h": 243
+					}
+				},
+				{
+					"filename": "marko-walk-rifle/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 262,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 2,
+						"w": 191,
+						"h": 262
+					},
+					"frame": {
+						"x": 1019,
+						"y": 450,
+						"w": 191,
+						"h": 262
+					}
+				},
+				{
+					"filename": "marko-finish-move/frame_022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 339,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 17,
+						"w": 233,
+						"h": 242
+					},
+					"frame": {
+						"x": 537,
+						"y": 665,
+						"w": 233,
+						"h": 242
+					}
+				},
+				{
+					"filename": "marko-walk-rifle/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 262,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 9,
+						"w": 232,
+						"h": 253
+					},
+					"frame": {
+						"x": 772,
+						"y": 695,
+						"w": 232,
+						"h": 253
+					}
+				},
+				{
+					"filename": "marko-finish-move/frame_023.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 339,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 14,
+						"w": 232,
+						"h": 247
+					},
+					"frame": {
+						"x": 258,
+						"y": 707,
+						"w": 232,
+						"h": 247
+					}
+				},
+				{
+					"filename": "marko-finish-move/frame_021.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 339,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 18,
+						"w": 232,
+						"h": 241
+					},
+					"frame": {
+						"x": 1,
+						"y": 862,
+						"w": 232,
+						"h": 241
+					}
+				},
+				{
+					"filename": "marko-walk-rifle/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 262,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 9,
+						"w": 231,
+						"h": 254
+					},
+					"frame": {
+						"x": 492,
+						"y": 909,
+						"w": 231,
+						"h": 254
+					}
+				},
+				{
+					"filename": "marko-throw/frame_018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 389,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 23,
+						"w": 231,
+						"h": 240
+					},
+					"frame": {
+						"x": 235,
+						"y": 956,
+						"w": 231,
+						"h": 240
+					}
+				},
+				{
+					"filename": "marko-throw/frame_023.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 389,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 145,
+						"y": 48,
+						"w": 229,
+						"h": 214
+					},
+					"frame": {
+						"x": 1,
+						"y": 1105,
+						"w": 229,
+						"h": 214
+					}
+				},
+				{
+					"filename": "marko-shoot-with-rifle/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 281,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 7,
+						"w": 228,
+						"h": 250
+					},
+					"frame": {
+						"x": 1758,
+						"y": 1,
+						"w": 228,
+						"h": 250
+					}
+				},
+				{
+					"filename": "marko-finish-move/frame_017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 339,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 70,
+						"y": 18,
+						"w": 228,
+						"h": 240
+					},
+					"frame": {
+						"x": 1460,
+						"y": 187,
+						"w": 228,
+						"h": 240
+					}
+				},
+				{
+					"filename": "marko-jump-punch/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 256,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 22,
+						"w": 225,
+						"h": 211
+					},
+					"frame": {
+						"x": 1460,
+						"y": 429,
+						"w": 225,
+						"h": 211
+					}
+				},
+				{
+					"filename": "marko-throw/frame_017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 389,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 21,
+						"w": 224,
+						"h": 242
+					},
+					"frame": {
+						"x": 1212,
+						"y": 576,
+						"w": 224,
+						"h": 242
+					}
+				},
+				{
+					"filename": "marko-finish-move/frame_016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 339,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 96,
+						"y": 17,
+						"w": 204,
+						"h": 242
+					},
+					"frame": {
+						"x": 1006,
+						"y": 714,
+						"w": 204,
+						"h": 242
+					}
+				},
+				{
+					"filename": "marko-finish-move/frame_019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 339,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 68,
+						"y": 19,
+						"w": 204,
+						"h": 239
+					},
+					"frame": {
+						"x": 1006,
+						"y": 958,
+						"w": 204,
+						"h": 239
+					}
+				},
+				{
+					"filename": "marko-walk-rifle/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 262,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 6,
+						"w": 222,
+						"h": 258
+					},
+					"frame": {
+						"x": 725,
+						"y": 950,
+						"w": 222,
+						"h": 258
+					}
+				},
+				{
+					"filename": "marko-throw/frame_024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 389,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 146,
+						"y": 47,
+						"w": 222,
+						"h": 215
+					},
+					"frame": {
+						"x": 468,
+						"y": 1165,
+						"w": 222,
+						"h": 215
+					}
+				},
+				{
+					"filename": "marko-knockdown-get-up/frame_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 348
+					},
+					"spriteSourceSize": {
+						"x": 107,
+						"y": 99,
+						"w": 220,
+						"h": 212
+					},
+					"frame": {
+						"x": 232,
+						"y": 1198,
+						"w": 220,
+						"h": 212
+					}
+				},
+				{
+					"filename": "marko-finish-move/frame_030.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 339,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 7,
+						"w": 217,
+						"h": 252
+					},
+					"frame": {
+						"x": 1,
+						"y": 1321,
+						"w": 217,
+						"h": 252
+					}
+				},
+				{
+					"filename": "marko-finish-move/frame_031.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 339,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 12,
+						"w": 213,
+						"h": 247
+					},
+					"frame": {
+						"x": 1988,
+						"y": 1,
+						"w": 213,
+						"h": 247
+					}
+				},
+				{
+					"filename": "marko-throw/frame_016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 389,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 20,
+						"w": 213,
+						"h": 243
+					},
+					"frame": {
+						"x": 2203,
+						"y": 1,
+						"w": 213,
+						"h": 243
+					}
+				},
+				{
+					"filename": "marko-jump-kick/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 256,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 18,
+						"w": 211,
+						"h": 193
+					},
+					"frame": {
+						"x": 2418,
+						"y": 1,
+						"w": 211,
+						"h": 193
+					}
+				},
+				{
+					"filename": "marko-walk-rifle/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 262,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 5,
+						"w": 209,
+						"h": 255
+					},
+					"frame": {
+						"x": 2631,
+						"y": 1,
+						"w": 209,
+						"h": 255
+					}
+				},
+				{
+					"filename": "marko-kick-1/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 242,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 14,
+						"w": 209,
+						"h": 221
+					},
+					"frame": {
+						"x": 2418,
+						"y": 196,
+						"w": 209,
+						"h": 221
+					}
+				},
+				{
+					"filename": "marko-special-attack/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 292,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 86,
+						"y": 43,
+						"w": 206,
+						"h": 222
+					},
+					"frame": {
+						"x": 2203,
+						"y": 246,
+						"w": 206,
+						"h": 222
+					}
+				},
+				{
+					"filename": "marko-special-attack/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 292,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 86,
+						"y": 43,
+						"w": 205,
+						"h": 222
+					},
+					"frame": {
+						"x": 1988,
+						"y": 250,
+						"w": 205,
+						"h": 222
+					}
+				},
+				{
+					"filename": "marko-special-attack/frame_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 292,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 86,
+						"y": 43,
+						"w": 205,
+						"h": 222
+					},
+					"frame": {
+						"x": 1690,
+						"y": 419,
+						"w": 205,
+						"h": 222
+					}
+				},
+				{
+					"filename": "marko-pick-up/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 202,
+						"h": 262
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 114,
+						"w": 148,
+						"h": 148
+					},
+					"frame": {
+						"x": 1690,
+						"y": 253,
+						"w": 148,
+						"h": 148
+					}
+				},
+				{
+					"filename": "marko-dying/frame_036.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 250,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 141,
+						"w": 205,
+						"h": 123
+					},
+					"frame": {
+						"x": 1438,
+						"y": 642,
+						"w": 205,
+						"h": 123
+					}
+				},
+				{
+					"filename": "marko-special-attack/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 292,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 86,
+						"y": 41,
+						"w": 204,
+						"h": 224
+					},
+					"frame": {
+						"x": 1438,
+						"y": 767,
+						"w": 204,
+						"h": 224
+					}
+				},
+				{
+					"filename": "marko-throw/frame_015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 389,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 18,
+						"w": 203,
+						"h": 245
+					},
+					"frame": {
+						"x": 1212,
+						"y": 820,
+						"w": 203,
+						"h": 245
+					}
+				},
+				{
+					"filename": "marko-special-attack/frame_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 292,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 86,
+						"y": 41,
+						"w": 203,
+						"h": 224
+					},
+					"frame": {
+						"x": 2842,
+						"y": 1,
+						"w": 203,
+						"h": 224
+					}
+				},
+				{
+					"filename": "marko-throw/frame_026.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 389,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 146,
+						"y": 45,
+						"w": 203,
+						"h": 217
+					},
+					"frame": {
+						"x": 3047,
+						"y": 1,
+						"w": 203,
+						"h": 217
+					}
+				},
+				{
+					"filename": "marko-special-attack/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 292,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 84,
+						"y": 37,
+						"w": 201,
+						"h": 228
+					},
+					"frame": {
+						"x": 3252,
+						"y": 1,
+						"w": 201,
+						"h": 228
+					}
+				},
+				{
+					"filename": "marko-finish-move/frame_018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 339,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 76,
+						"y": 19,
+						"w": 198,
+						"h": 239
+					},
+					"frame": {
+						"x": 3047,
+						"y": 220,
+						"w": 198,
+						"h": 239
+					}
+				},
+				{
+					"filename": "marko-walk-rifle/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 262,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 7,
+						"w": 197,
+						"h": 257
+					},
+					"frame": {
+						"x": 2842,
+						"y": 227,
+						"w": 197,
+						"h": 257
+					}
+				},
+				{
+					"filename": "marko-jump/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 198,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 196,
+						"h": 239
+					},
+					"frame": {
+						"x": 2629,
+						"y": 258,
+						"w": 196,
+						"h": 239
+					}
+				},
+				{
+					"filename": "marko-jump/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 198,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 11,
+						"w": 195,
+						"h": 247
+					},
+					"frame": {
+						"x": 2411,
+						"y": 419,
+						"w": 195,
+						"h": 247
+					}
+				},
+				{
+					"filename": "marko-finish-move/frame_020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 339,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 73,
+						"y": 19,
+						"w": 194,
+						"h": 240
+					},
+					"frame": {
+						"x": 2195,
+						"y": 470,
+						"w": 194,
+						"h": 240
+					}
+				},
+				{
+					"filename": "marko-throw/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 389,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 16,
+						"w": 193,
+						"h": 247
+					},
+					"frame": {
+						"x": 1897,
+						"y": 474,
+						"w": 193,
+						"h": 247
+					}
+				},
+				{
+					"filename": "marko-punch-2/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 4,
+						"w": 101,
+						"h": 234
+					},
+					"frame": {
+						"x": 2092,
+						"y": 474,
+						"w": 101,
+						"h": 234
+					}
+				},
+				{
+					"filename": "marko-punch-1/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 210,
+						"h": 242
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 8,
+						"w": 101,
+						"h": 230
+					},
+					"frame": {
+						"x": 2092,
+						"y": 710,
+						"w": 101,
+						"h": 230
+					}
+				},
+				{
+					"filename": "marko-punch-combo/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 256,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 43,
+						"w": 192,
+						"h": 202
+					},
+					"frame": {
+						"x": 1645,
+						"y": 643,
+						"w": 192,
+						"h": 202
+					}
+				},
+				{
+					"filename": "marko-knockdown-get-up/frame_030.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 348
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 93,
+						"w": 191,
+						"h": 211
+					},
+					"frame": {
+						"x": 1645,
+						"y": 847,
+						"w": 191,
+						"h": 211
+					}
+				},
+				{
+					"filename": "marko-knockdown-get-up/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 348
+					},
+					"spriteSourceSize": {
+						"x": 78,
+						"y": 9,
+						"w": 190,
+						"h": 241
+					},
+					"frame": {
+						"x": 1417,
+						"y": 993,
+						"w": 190,
+						"h": 241
+					}
+				},
+				{
+					"filename": "marko-throw/frame_019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 389,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 95,
+						"y": 34,
+						"w": 189,
+						"h": 228
+					},
+					"frame": {
+						"x": 1212,
+						"y": 1067,
+						"w": 189,
+						"h": 228
+					}
+				},
+				{
+					"filename": "marko-damage/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 294,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 74,
+						"y": 70,
+						"w": 188,
+						"h": 197
+					},
+					"frame": {
+						"x": 1839,
+						"y": 723,
+						"w": 188,
+						"h": 197
+					}
+				},
+				{
+					"filename": "marko-special-attack/frame_015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 292,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 96,
+						"y": 0,
+						"w": 187,
+						"h": 265
+					},
+					"frame": {
+						"x": 1839,
+						"y": 922,
+						"w": 187,
+						"h": 265
+					}
+				},
+				{
+					"filename": "marko-damage/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 294,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 74,
+						"y": 71,
+						"w": 187,
+						"h": 196
+					},
+					"frame": {
+						"x": 1609,
+						"y": 1060,
+						"w": 187,
+						"h": 196
+					}
+				},
+				{
+					"filename": "marko-jump/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 198,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 9,
+						"w": 186,
+						"h": 247
+					},
+					"frame": {
+						"x": 1403,
+						"y": 1236,
+						"w": 186,
+						"h": 247
+					}
+				},
+				{
+					"filename": "marko-throw/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 389,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 15,
+						"w": 184,
+						"h": 248
+					},
+					"frame": {
+						"x": 949,
+						"y": 1199,
+						"w": 184,
+						"h": 248
+					}
+				},
+				{
+					"filename": "marko-walk-rifle/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 262,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 5,
+						"w": 182,
+						"h": 259
+					},
+					"frame": {
+						"x": 692,
+						"y": 1297,
+						"w": 182,
+						"h": 259
+					}
+				},
+				{
+					"filename": "marko-melee/frame_015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 21,
+						"w": 182,
+						"h": 239
+					},
+					"frame": {
+						"x": 454,
+						"y": 1382,
+						"w": 182,
+						"h": 239
+					}
+				},
+				{
+					"filename": "marko-kick-1/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 242,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 30,
+						"w": 182,
+						"h": 203
+					},
+					"frame": {
+						"x": 220,
+						"y": 1412,
+						"w": 182,
+						"h": 203
+					}
+				},
+				{
+					"filename": "marko-damage/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 294,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 74,
+						"y": 64,
+						"w": 181,
+						"h": 203
+					},
+					"frame": {
+						"x": 1,
+						"y": 1575,
+						"w": 181,
+						"h": 203
+					}
+				},
+				{
+					"filename": "marko-special-attack/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 292,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 81,
+						"y": 26,
+						"w": 180,
+						"h": 239
+					},
+					"frame": {
+						"x": 1135,
+						"y": 1297,
+						"w": 180,
+						"h": 239
+					}
+				},
+				{
+					"filename": "marko-special-attack/frame_014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 292,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 95,
+						"y": 0,
+						"w": 179,
+						"h": 265
+					},
+					"frame": {
+						"x": 876,
+						"y": 1449,
+						"w": 179,
+						"h": 265
+					}
+				},
+				{
+					"filename": "marko-walk-rifle/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 262,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 1,
+						"w": 179,
+						"h": 263
+					},
+					"frame": {
+						"x": 638,
+						"y": 1558,
+						"w": 179,
+						"h": 263
+					}
+				},
+				{
+					"filename": "marko-melee/frame_014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 22,
+						"w": 178,
+						"h": 238
+					},
+					"frame": {
+						"x": 638,
+						"y": 1823,
+						"w": 178,
+						"h": 238
+					}
+				},
+				{
+					"filename": "marko-punch-1/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 210,
+						"h": 242
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 19,
+						"w": 178,
+						"h": 222
+					},
+					"frame": {
+						"x": 184,
+						"y": 1617,
+						"w": 178,
+						"h": 222
+					}
+				},
+				{
+					"filename": "marko-knockdown-get-up/frame_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 348
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 53,
+						"w": 177,
+						"h": 252
+					},
+					"frame": {
+						"x": 1,
+						"y": 1780,
+						"w": 177,
+						"h": 252
+					}
+				},
+				{
+					"filename": "marko-throw/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 389,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 68,
+						"y": 10,
+						"w": 176,
+						"h": 253
+					},
+					"frame": {
+						"x": 364,
+						"y": 1623,
+						"w": 176,
+						"h": 253
+					}
+				},
+				{
+					"filename": "marko-knockdown-get-up/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 348
+					},
+					"spriteSourceSize": {
+						"x": 69,
+						"y": 1,
+						"w": 175,
+						"h": 256
+					},
+					"frame": {
+						"x": 180,
+						"y": 1841,
+						"w": 175,
+						"h": 256
+					}
+				},
+				{
+					"filename": "marko-melee/frame_013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 20,
+						"w": 174,
+						"h": 240
+					},
+					"frame": {
+						"x": 1,
+						"y": 2034,
+						"w": 174,
+						"h": 240
+					}
+				},
+				{
+					"filename": "marko-melee/frame_018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 27,
+						"w": 174,
+						"h": 233
+					},
+					"frame": {
+						"x": 357,
+						"y": 1878,
+						"w": 174,
+						"h": 233
+					}
+				},
+				{
+					"filename": "marko-run/frame_016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 269
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 10,
+						"w": 103,
+						"h": 259
+					},
+					"frame": {
+						"x": 533,
+						"y": 1878,
+						"w": 103,
+						"h": 259
+					}
+				},
+				{
+					"filename": "marko-melee/frame_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 20,
+						"w": 173,
+						"h": 240
+					},
+					"frame": {
+						"x": 177,
+						"y": 2099,
+						"w": 173,
+						"h": 240
+					}
+				},
+				{
+					"filename": "marko-melee/frame_012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 20,
+						"w": 173,
+						"h": 240
+					},
+					"frame": {
+						"x": 1,
+						"y": 2276,
+						"w": 173,
+						"h": 240
+					}
+				},
+				{
+					"filename": "marko-melee/frame_016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 21,
+						"w": 173,
+						"h": 239
+					},
+					"frame": {
+						"x": 352,
+						"y": 2113,
+						"w": 173,
+						"h": 239
+					}
+				},
+				{
+					"filename": "marko-dying/frame_035.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 201,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 75,
+						"w": 172,
+						"h": 189
+					},
+					"frame": {
+						"x": 176,
+						"y": 2341,
+						"w": 172,
+						"h": 189
+					}
+				},
+				{
+					"filename": "marko-walk-rifle/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 262,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 1,
+						"w": 171,
+						"h": 262
+					},
+					"frame": {
+						"x": 1,
+						"y": 2518,
+						"w": 171,
+						"h": 262
+					}
+				},
+				{
+					"filename": "marko-melee/frame_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 20,
+						"w": 170,
+						"h": 240
+					},
+					"frame": {
+						"x": 3455,
+						"y": 1,
+						"w": 170,
+						"h": 240
+					}
+				},
+				{
+					"filename": "marko-run/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 269
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 9,
+						"w": 169,
+						"h": 253
+					},
+					"frame": {
+						"x": 3247,
+						"y": 231,
+						"w": 169,
+						"h": 253
+					}
+				},
+				{
+					"filename": "marko-melee/frame_017.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 25,
+						"w": 169,
+						"h": 235
+					},
+					"frame": {
+						"x": 3041,
+						"y": 461,
+						"w": 169,
+						"h": 235
+					}
+				},
+				{
+					"filename": "marko-kick-1/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 242,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 13,
+						"w": 169,
+						"h": 225
+					},
+					"frame": {
+						"x": 2827,
+						"y": 486,
+						"w": 169,
+						"h": 225
+					}
+				},
+				{
+					"filename": "marko-punch-2/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 41,
+						"w": 169,
+						"h": 196
+					},
+					"frame": {
+						"x": 2827,
+						"y": 713,
+						"w": 169,
+						"h": 196
+					}
+				},
+				{
+					"filename": "marko-jump/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 198,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 27,
+						"w": 168,
+						"h": 255
+					},
+					"frame": {
+						"x": 2827,
+						"y": 911,
+						"w": 168,
+						"h": 255
+					}
+				},
+				{
+					"filename": "marko-run/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 269
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 9,
+						"w": 167,
+						"h": 258
+					},
+					"frame": {
+						"x": 2608,
+						"y": 499,
+						"w": 167,
+						"h": 258
+					}
+				},
+				{
+					"filename": "marko-run/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 269
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 14,
+						"w": 167,
+						"h": 255
+					},
+					"frame": {
+						"x": 2391,
+						"y": 668,
+						"w": 167,
+						"h": 255
+					}
+				},
+				{
+					"filename": "marko-run/frame_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 269
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 11,
+						"w": 166,
+						"h": 255
+					},
+					"frame": {
+						"x": 2195,
+						"y": 712,
+						"w": 166,
+						"h": 255
+					}
+				},
+				{
+					"filename": "marko-run/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 269
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 6,
+						"w": 165,
+						"h": 256
+					},
+					"frame": {
+						"x": 2028,
+						"y": 942,
+						"w": 165,
+						"h": 256
+					}
+				},
+				{
+					"filename": "marko-knockdown-get-up/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 348
+					},
+					"spriteSourceSize": {
+						"x": 87,
+						"y": 56,
+						"w": 166,
+						"h": 222
+					},
+					"frame": {
+						"x": 1798,
+						"y": 1189,
+						"w": 166,
+						"h": 222
+					}
+				},
+				{
+					"filename": "marko-knockdown-get-up/frame_031.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 348
+					},
+					"spriteSourceSize": {
+						"x": 71,
+						"y": 67,
+						"w": 165,
+						"h": 237
+					},
+					"frame": {
+						"x": 1591,
+						"y": 1258,
+						"w": 165,
+						"h": 237
+					}
+				},
+				{
+					"filename": "marko-run/frame_013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 269
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 6,
+						"w": 164,
+						"h": 252
+					},
+					"frame": {
+						"x": 1591,
+						"y": 1497,
+						"w": 164,
+						"h": 252
+					}
+				},
+				{
+					"filename": "marko-damage/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 294,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 73,
+						"y": 54,
+						"w": 164,
+						"h": 213
+					},
+					"frame": {
+						"x": 2560,
+						"y": 759,
+						"w": 164,
+						"h": 213
+					}
+				},
+				{
+					"filename": "marko-walk/frame_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 4,
+						"w": 98,
+						"h": 260
+					},
+					"frame": {
+						"x": 2726,
+						"y": 925,
+						"w": 98,
+						"h": 260
+					}
+				},
+				{
+					"filename": "marko-walk/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 9,
+						"w": 163,
+						"h": 255
+					},
+					"frame": {
+						"x": 2363,
+						"y": 925,
+						"w": 163,
+						"h": 255
+					}
+				},
+				{
+					"filename": "marko-walk/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 8,
+						"w": 162,
+						"h": 256
+					},
+					"frame": {
+						"x": 2195,
+						"y": 974,
+						"w": 162,
+						"h": 256
+					}
+				},
+				{
+					"filename": "marko-melee/frame_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 19,
+						"w": 162,
+						"h": 241
+					},
+					"frame": {
+						"x": 2528,
+						"y": 974,
+						"w": 162,
+						"h": 241
+					}
+				},
+				{
+					"filename": "marko-damage/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 294,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 76,
+						"y": 54,
+						"w": 162,
+						"h": 213
+					},
+					"frame": {
+						"x": 2359,
+						"y": 1182,
+						"w": 162,
+						"h": 213
+					}
+				},
+				{
+					"filename": "marko-punch-2/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 35,
+						"w": 162,
+						"h": 202
+					},
+					"frame": {
+						"x": 1966,
+						"y": 1200,
+						"w": 162,
+						"h": 202
+					}
+				},
+				{
+					"filename": "marko-walk/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 9,
+						"w": 160,
+						"h": 256
+					},
+					"frame": {
+						"x": 1966,
+						"y": 1404,
+						"w": 160,
+						"h": 256
+					}
+				},
+				{
+					"filename": "marko-run/frame_012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 269
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 7,
+						"w": 159,
+						"h": 259
+					},
+					"frame": {
+						"x": 1758,
+						"y": 1413,
+						"w": 159,
+						"h": 259
+					}
+				},
+				{
+					"filename": "marko-special-attack/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 292,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 18,
+						"w": 159,
+						"h": 247
+					},
+					"frame": {
+						"x": 1758,
+						"y": 1674,
+						"w": 159,
+						"h": 247
+					}
+				},
+				{
+					"filename": "marko-run/frame_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 269
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 14,
+						"w": 158,
+						"h": 253
+					},
+					"frame": {
+						"x": 2130,
+						"y": 1232,
+						"w": 158,
+						"h": 253
+					}
+				},
+				{
+					"filename": "marko-knockdown-get-up/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 348
+					},
+					"spriteSourceSize": {
+						"x": 70,
+						"y": 0,
+						"w": 157,
+						"h": 260
+					},
+					"frame": {
+						"x": 1317,
+						"y": 1485,
+						"w": 157,
+						"h": 260
+					}
+				},
+				{
+					"filename": "marko-idle/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 268
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 3,
+						"w": 113,
+						"h": 261
+					},
+					"frame": {
+						"x": 1476,
+						"y": 1485,
+						"w": 113,
+						"h": 261
+					}
+				},
+				{
+					"filename": "marko-throw/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 389,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 94,
+						"y": 1,
+						"w": 156,
+						"h": 261
+					},
+					"frame": {
+						"x": 1057,
+						"y": 1538,
+						"w": 156,
+						"h": 261
+					}
+				},
+				{
+					"filename": "marko-run/frame_014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 269
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 16,
+						"w": 155,
+						"h": 253
+					},
+					"frame": {
+						"x": 819,
+						"y": 1747,
+						"w": 155,
+						"h": 253
+					}
+				},
+				{
+					"filename": "marko-knockdown-get-up/frame_034.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 348
+					},
+					"spriteSourceSize": {
+						"x": 92,
+						"y": 35,
+						"w": 154,
+						"h": 268
+					},
+					"frame": {
+						"x": 1215,
+						"y": 1747,
+						"w": 154,
+						"h": 268
+					}
+				},
+				{
+					"filename": "marko-punch-2/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 4,
+						"w": 102,
+						"h": 234
+					},
+					"frame": {
+						"x": 1371,
+						"y": 1747,
+						"w": 102,
+						"h": 234
+					}
+				},
+				{
+					"filename": "marko-knockdown-get-up/frame_032.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 348
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 36,
+						"w": 114,
+						"h": 268
+					},
+					"frame": {
+						"x": 1475,
+						"y": 1748,
+						"w": 114,
+						"h": 268
+					}
+				},
+				{
+					"filename": "marko-melee/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 15,
+						"w": 154,
+						"h": 245
+					},
+					"frame": {
+						"x": 1591,
+						"y": 1801,
+						"w": 154,
+						"h": 245
+					}
+				},
+				{
+					"filename": "marko-throw/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 389,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 96,
+						"y": 3,
+						"w": 153,
+						"h": 259
+					},
+					"frame": {
+						"x": 976,
+						"y": 1801,
+						"w": 153,
+						"h": 259
+					}
+				},
+				{
+					"filename": "marko-melee/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 10,
+						"w": 153,
+						"h": 250
+					},
+					"frame": {
+						"x": 818,
+						"y": 2002,
+						"w": 153,
+						"h": 250
+					}
+				},
+				{
+					"filename": "marko-walk/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 7,
+						"w": 152,
+						"h": 258
+					},
+					"frame": {
+						"x": 818,
+						"y": 2254,
+						"w": 152,
+						"h": 258
+					}
+				},
+				{
+					"filename": "marko-walk/frame_015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 9,
+						"w": 152,
+						"h": 254
+					},
+					"frame": {
+						"x": 638,
+						"y": 2063,
+						"w": 152,
+						"h": 254
+					}
+				},
+				{
+					"filename": "marko-walk/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 5,
+						"w": 108,
+						"h": 259
+					},
+					"frame": {
+						"x": 527,
+						"y": 2139,
+						"w": 108,
+						"h": 259
+					}
+				},
+				{
+					"filename": "marko-idle/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 268
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 107,
+						"h": 260
+					},
+					"frame": {
+						"x": 527,
+						"y": 2400,
+						"w": 107,
+						"h": 260
+					}
+				},
+				{
+					"filename": "marko-melee/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 12,
+						"w": 152,
+						"h": 248
+					},
+					"frame": {
+						"x": 350,
+						"y": 2354,
+						"w": 152,
+						"h": 248
+					}
+				},
+				{
+					"filename": "marko-knockdown-get-up/frame_035.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 348
+					},
+					"spriteSourceSize": {
+						"x": 94,
+						"y": 39,
+						"w": 150,
+						"h": 264
+					},
+					"frame": {
+						"x": 174,
+						"y": 2532,
+						"w": 150,
+						"h": 264
+					}
+				},
+				{
+					"filename": "marko-dying/frame_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 201,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 88,
+						"w": 149,
+						"h": 175
+					},
+					"frame": {
+						"x": 1,
+						"y": 2782,
+						"w": 149,
+						"h": 175
+					}
+				},
+				{
+					"filename": "marko-walk/frame_014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 9,
+						"w": 148,
+						"h": 254
+					},
+					"frame": {
+						"x": 637,
+						"y": 2319,
+						"w": 148,
+						"h": 254
+					}
+				},
+				{
+					"filename": "marko-run/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 269
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 17,
+						"w": 148,
+						"h": 251
+					},
+					"frame": {
+						"x": 326,
+						"y": 2604,
+						"w": 148,
+						"h": 251
+					}
+				},
+				{
+					"filename": "marko-kick-2/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 212,
+						"h": 242
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 16,
+						"w": 148,
+						"h": 223
+					},
+					"frame": {
+						"x": 152,
+						"y": 2798,
+						"w": 148,
+						"h": 223
+					}
+				},
+				{
+					"filename": "marko-walk/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 4,
+						"w": 147,
+						"h": 260
+					},
+					"frame": {
+						"x": 1,
+						"y": 2959,
+						"w": 147,
+						"h": 260
+					}
+				},
+				{
+					"filename": "marko-walk/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 5,
+						"w": 145,
+						"h": 259
+					},
+					"frame": {
+						"x": 1131,
+						"y": 2017,
+						"w": 145,
+						"h": 259
+					}
+				},
+				{
+					"filename": "marko-walk/frame_013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 7,
+						"w": 145,
+						"h": 256
+					},
+					"frame": {
+						"x": 973,
+						"y": 2062,
+						"w": 145,
+						"h": 256
+					}
+				},
+				{
+					"filename": "marko-kick-1/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 242,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 4,
+						"w": 145,
+						"h": 233
+					},
+					"frame": {
+						"x": 973,
+						"y": 2320,
+						"w": 145,
+						"h": 233
+					}
+				},
+				{
+					"filename": "marko-dying/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 201,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 85,
+						"w": 145,
+						"h": 179
+					},
+					"frame": {
+						"x": 787,
+						"y": 2514,
+						"w": 145,
+						"h": 179
+					}
+				},
+				{
+					"filename": "marko-throw/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 389,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 1,
+						"w": 144,
+						"h": 261
+					},
+					"frame": {
+						"x": 636,
+						"y": 2575,
+						"w": 144,
+						"h": 261
+					}
+				},
+				{
+					"filename": "marko-melee/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 8,
+						"w": 144,
+						"h": 251
+					},
+					"frame": {
+						"x": 636,
+						"y": 2838,
+						"w": 144,
+						"h": 251
+					}
+				},
+				{
+					"filename": "marko-dying/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 201,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 74,
+						"w": 144,
+						"h": 188
+					},
+					"frame": {
+						"x": 636,
+						"y": 3091,
+						"w": 144,
+						"h": 188
+					}
+				},
+				{
+					"filename": "marko-run/frame_015.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 269
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 18,
+						"w": 143,
+						"h": 250
+					},
+					"frame": {
+						"x": 636,
+						"y": 3281,
+						"w": 143,
+						"h": 250
+					}
+				},
+				{
+					"filename": "marko-punch-1/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 210,
+						"h": 242
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 14,
+						"w": 143,
+						"h": 225
+					},
+					"frame": {
+						"x": 476,
+						"y": 2662,
+						"w": 143,
+						"h": 225
+					}
+				},
+				{
+					"filename": "marko-dying/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 201,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 62,
+						"w": 143,
+						"h": 200
+					},
+					"frame": {
+						"x": 476,
+						"y": 2889,
+						"w": 143,
+						"h": 200
+					}
+				},
+				{
+					"filename": "marko-dying/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 201,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 80,
+						"w": 143,
+						"h": 183
+					},
+					"frame": {
+						"x": 302,
+						"y": 2857,
+						"w": 143,
+						"h": 183
+					}
+				},
+				{
+					"filename": "marko-knockdown-get-up/frame_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 348
+					},
+					"spriteSourceSize": {
+						"x": 86,
+						"y": 2,
+						"w": 142,
+						"h": 261
+					},
+					"frame": {
+						"x": 150,
+						"y": 3023,
+						"w": 142,
+						"h": 261
+					}
+				},
+				{
+					"filename": "marko-run/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 269
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 20,
+						"w": 142,
+						"h": 246
+					},
+					"frame": {
+						"x": 1,
+						"y": 3221,
+						"w": 142,
+						"h": 246
+					}
+				},
+				{
+					"filename": "marko-shoot-recoil/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 256,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 78,
+						"y": 20,
+						"w": 142,
+						"h": 225
+					},
+					"frame": {
+						"x": 294,
+						"y": 3042,
+						"w": 142,
+						"h": 225
+					}
+				},
+				{
+					"filename": "marko-punch-2/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 19,
+						"w": 141,
+						"h": 219
+					},
+					"frame": {
+						"x": 1278,
+						"y": 2017,
+						"w": 141,
+						"h": 219
+					}
+				},
+				{
+					"filename": "marko-dying/frame_012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 201,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 79,
+						"w": 141,
+						"h": 184
+					},
+					"frame": {
+						"x": 1421,
+						"y": 2018,
+						"w": 141,
+						"h": 184
+					}
+				},
+				{
+					"filename": "marko-jump/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 198,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 40,
+						"y": 73,
+						"w": 139,
+						"h": 226
+					},
+					"frame": {
+						"x": 438,
+						"y": 3091,
+						"w": 139,
+						"h": 226
+					}
+				},
+				{
+					"filename": "marko-punch-2/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 23,
+						"w": 139,
+						"h": 215
+					},
+					"frame": {
+						"x": 294,
+						"y": 3269,
+						"w": 139,
+						"h": 215
+					}
+				},
+				{
+					"filename": "marko-dying/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 201,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 54,
+						"w": 139,
+						"h": 208
+					},
+					"frame": {
+						"x": 145,
+						"y": 3319,
+						"w": 139,
+						"h": 208
+					}
+				},
+				{
+					"filename": "marko-special-attack/frame_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 292,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 101,
+						"y": 24,
+						"w": 138,
+						"h": 241
+					},
+					"frame": {
+						"x": 1,
+						"y": 3469,
+						"w": 138,
+						"h": 241
+					}
+				},
+				{
+					"filename": "marko-special-attack/frame_012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 292,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 4,
+						"w": 137,
+						"h": 261
+					},
+					"frame": {
+						"x": 435,
+						"y": 3319,
+						"w": 137,
+						"h": 261
+					}
+				},
+				{
+					"filename": "marko-finish-move/frame_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 339,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 124,
+						"y": 24,
+						"w": 137,
+						"h": 237
+					},
+					"frame": {
+						"x": 286,
+						"y": 3486,
+						"w": 137,
+						"h": 237
+					}
+				},
+				{
+					"filename": "marko-special-attack/frame_013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 292,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 99,
+						"y": 0,
+						"w": 135,
+						"h": 265
+					},
+					"frame": {
+						"x": 141,
+						"y": 3529,
+						"w": 135,
+						"h": 265
+					}
+				},
+				{
+					"filename": "marko-finish-move/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 339,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 117,
+						"y": 22,
+						"w": 135,
+						"h": 239
+					},
+					"frame": {
+						"x": 1,
+						"y": 3712,
+						"w": 135,
+						"h": 239
+					}
+				},
+				{
+					"filename": "marko-knockdown-get-up/frame_033.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 348
+					},
+					"spriteSourceSize": {
+						"x": 105,
+						"y": 35,
+						"w": 132,
+						"h": 268
+					},
+					"frame": {
+						"x": 141,
+						"y": 3796,
+						"w": 132,
+						"h": 268
+					}
+				},
+				{
+					"filename": "marko-throw/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 389,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 122,
+						"y": 1,
+						"w": 130,
+						"h": 261
+					},
+					"frame": {
+						"x": 275,
+						"y": 3796,
+						"w": 130,
+						"h": 261
+					}
+				},
+				{
+					"filename": "marko-walk/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 4,
+						"w": 119,
+						"h": 261
+					},
+					"frame": {
+						"x": 407,
+						"y": 3796,
+						"w": 119,
+						"h": 261
+					}
+				},
+				{
+					"filename": "marko-dying/frame_020.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 201,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 58,
+						"w": 120,
+						"h": 206
+					},
+					"frame": {
+						"x": 425,
+						"y": 3582,
+						"w": 120,
+						"h": 206
+					}
+				},
+				{
+					"filename": "marko-pick-up/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 202,
+						"h": 262
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 1,
+						"w": 116,
+						"h": 261
+					},
+					"frame": {
+						"x": 528,
+						"y": 3790,
+						"w": 116,
+						"h": 261
+					}
+				},
+				{
+					"filename": "marko-dying/frame_022.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 201,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 58,
+						"w": 120,
+						"h": 206
+					},
+					"frame": {
+						"x": 547,
+						"y": 3582,
+						"w": 120,
+						"h": 206
+					}
+				},
+				{
+					"filename": "marko-idle/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 268
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 4,
+						"w": 113,
+						"h": 261
+					},
+					"frame": {
+						"x": 646,
+						"y": 3790,
+						"w": 113,
+						"h": 261
+					}
+				},
+				{
+					"filename": "marko-run/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 269
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 13,
+						"w": 124,
+						"h": 254
+					},
+					"frame": {
+						"x": 669,
+						"y": 3533,
+						"w": 124,
+						"h": 254
+					}
+				},
+				{
+					"filename": "marko-finish-move/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 339,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 113,
+						"y": 10,
+						"w": 127,
+						"h": 249
+					},
+					"frame": {
+						"x": 781,
+						"y": 3281,
+						"w": 127,
+						"h": 249
+					}
+				},
+				{
+					"filename": "marko-pick-up/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 202,
+						"h": 262
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 1,
+						"w": 112,
+						"h": 261
+					},
+					"frame": {
+						"x": 761,
+						"y": 3789,
+						"w": 112,
+						"h": 261
+					}
+				},
+				{
+					"filename": "marko-run/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 269
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 15,
+						"w": 110,
+						"h": 254
+					},
+					"frame": {
+						"x": 795,
+						"y": 3532,
+						"w": 110,
+						"h": 254
+					}
+				},
+				{
+					"filename": "marko-walk/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 4,
+						"w": 134,
+						"h": 260
+					},
+					"frame": {
+						"x": 875,
+						"y": 3788,
+						"w": 134,
+						"h": 260
+					}
+				},
+				{
+					"filename": "marko-finish-move/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 339,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 113,
+						"y": 7,
+						"w": 126,
+						"h": 252
+					},
+					"frame": {
+						"x": 907,
+						"y": 3532,
+						"w": 126,
+						"h": 252
+					}
+				},
+				{
+					"filename": "marko-throw/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 389,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 133,
+						"y": 2,
+						"w": 119,
+						"h": 260
+					},
+					"frame": {
+						"x": 1011,
+						"y": 3786,
+						"w": 119,
+						"h": 260
+					}
+				},
+				{
+					"filename": "marko-walk/frame_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 5,
+						"w": 115,
+						"h": 260
+					},
+					"frame": {
+						"x": 782,
+						"y": 2695,
+						"w": 115,
+						"h": 260
+					}
+				},
+				{
+					"filename": "marko-knockdown-get-up/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 348
+					},
+					"spriteSourceSize": {
+						"x": 111,
+						"y": 43,
+						"w": 114,
+						"h": 260
+					},
+					"frame": {
+						"x": 782,
+						"y": 2957,
+						"w": 114,
+						"h": 260
+					}
+				},
+				{
+					"filename": "marko-idle/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 268
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 2,
+						"w": 110,
+						"h": 260
+					},
+					"frame": {
+						"x": 898,
+						"y": 2957,
+						"w": 110,
+						"h": 260
+					}
+				},
+				{
+					"filename": "marko-walk/frame_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 5,
+						"w": 124,
+						"h": 259
+					},
+					"frame": {
+						"x": 899,
+						"y": 2695,
+						"w": 124,
+						"h": 259
+					}
+				},
+				{
+					"filename": "marko-idle/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 268
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 4,
+						"w": 116,
+						"h": 259
+					},
+					"frame": {
+						"x": 910,
+						"y": 3219,
+						"w": 116,
+						"h": 259
+					}
+				},
+				{
+					"filename": "marko-finish-move/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 339,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 0,
+						"w": 114,
+						"h": 259
+					},
+					"frame": {
+						"x": 1010,
+						"y": 2956,
+						"w": 114,
+						"h": 259
+					}
+				},
+				{
+					"filename": "marko-walk/frame_012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 5,
+						"w": 114,
+						"h": 259
+					},
+					"frame": {
+						"x": 1028,
+						"y": 3217,
+						"w": 114,
+						"h": 259
+					}
+				},
+				{
+					"filename": "marko-shoot-up/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 141,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 3,
+						"w": 105,
+						"h": 259
+					},
+					"frame": {
+						"x": 1126,
+						"y": 3478,
+						"w": 105,
+						"h": 259
+					}
+				},
+				{
+					"filename": "marko-throw/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 389,
+						"h": 266
+					},
+					"spriteSourceSize": {
+						"x": 137,
+						"y": 4,
+						"w": 115,
+						"h": 258
+					},
+					"frame": {
+						"x": 1144,
+						"y": 3739,
+						"w": 115,
+						"h": 258
+					}
+				},
+				{
+					"filename": "marko-idle/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 268
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 114,
+						"h": 258
+					},
+					"frame": {
+						"x": 1261,
+						"y": 3739,
+						"w": 114,
+						"h": 258
+					}
+				},
+				{
+					"filename": "marko-melee/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 237,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 61,
+						"y": 1,
+						"w": 114,
+						"h": 258
+					},
+					"frame": {
+						"x": 1025,
+						"y": 2555,
+						"w": 114,
+						"h": 258
+					}
+				},
+				{
+					"filename": "marko-special-attack/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 292,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 89,
+						"y": 7,
+						"w": 114,
+						"h": 258
+					},
+					"frame": {
+						"x": 1126,
+						"y": 2278,
+						"w": 114,
+						"h": 258
+					}
+				},
+				{
+					"filename": "marko-special-attack/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 292,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 89,
+						"y": 7,
+						"w": 114,
+						"h": 258
+					},
+					"frame": {
+						"x": 1126,
+						"y": 2815,
+						"w": 114,
+						"h": 258
+					}
+				},
+				{
+					"filename": "marko-idle/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 268
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 5,
+						"w": 122,
+						"h": 257
+					},
+					"frame": {
+						"x": 1141,
+						"y": 2538,
+						"w": 122,
+						"h": 257
+					}
+				},
+				{
+					"filename": "marko-damage/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 294,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 84,
+						"y": 10,
+						"w": 119,
+						"h": 257
+					},
+					"frame": {
+						"x": 1242,
+						"y": 2278,
+						"w": 119,
+						"h": 257
+					}
+				},
+				{
+					"filename": "marko-special-attack/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 292,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 87,
+						"y": 8,
+						"w": 118,
+						"h": 257
+					},
+					"frame": {
+						"x": 1144,
+						"y": 3075,
+						"w": 118,
+						"h": 257
+					}
+				},
+				{
+					"filename": "marko-idle/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 268
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 5,
+						"w": 115,
+						"h": 257
+					},
+					"frame": {
+						"x": 1242,
+						"y": 2797,
+						"w": 115,
+						"h": 257
+					}
+				},
+				{
+					"filename": "marko-idle/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 136,
+						"h": 268
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 5,
+						"w": 115,
+						"h": 257
+					},
+					"frame": {
+						"x": 1265,
+						"y": 2537,
+						"w": 115,
+						"h": 257
+					}
+				},
+				{
+					"filename": "marko-pick-up/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 202,
+						"h": 262
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 5,
+						"w": 111,
+						"h": 257
+					},
+					"frame": {
+						"x": 1377,
+						"y": 2238,
+						"w": 111,
+						"h": 257
+					}
+				},
+				{
+					"filename": "marko-walk/frame_016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 163,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 7,
+						"w": 131,
+						"h": 256
+					},
+					"frame": {
+						"x": 1233,
+						"y": 3334,
+						"w": 131,
+						"h": 256
+					}
+				},
+				{
+					"filename": "marko-run/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 269
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 10,
+						"w": 115,
+						"h": 256
+					},
+					"frame": {
+						"x": 1264,
+						"y": 3056,
+						"w": 115,
+						"h": 256
+					}
+				},
+				{
+					"filename": "marko-run/frame_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 170,
+						"h": 269
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 18,
+						"w": 133,
+						"h": 251
+					},
+					"frame": {
+						"x": 1377,
+						"y": 2796,
+						"w": 133,
+						"h": 251
+					}
+				},
+				{
+					"filename": "marko-knockdown-get-up/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 348
+					},
+					"spriteSourceSize": {
+						"x": 120,
+						"y": 51,
+						"w": 128,
+						"h": 248
+					},
+					"frame": {
+						"x": 1512,
+						"y": 2796,
+						"w": 128,
+						"h": 248
+					}
+				},
+				{
+					"filename": "marko-finish-move/frame_014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 339,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 137,
+						"y": 17,
+						"w": 132,
+						"h": 244
+					},
+					"frame": {
+						"x": 1382,
+						"y": 2497,
+						"w": 132,
+						"h": 244
+					}
+				},
+				{
+					"filename": "marko-finish-move/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 339,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 116,
+						"y": 18,
+						"w": 129,
+						"h": 243
+					},
+					"frame": {
+						"x": 1490,
+						"y": 2204,
+						"w": 129,
+						"h": 243
+					}
+				},
+				{
+					"filename": "marko-damage/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 294,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 86,
+						"y": 24,
+						"w": 119,
+						"h": 243
+					},
+					"frame": {
+						"x": 1516,
+						"y": 2449,
+						"w": 119,
+						"h": 243
+					}
+				},
+				{
+					"filename": "marko-finish-move/frame_013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 339,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 150,
+						"y": 19,
+						"w": 110,
+						"h": 242
+					},
+					"frame": {
+						"x": 1621,
+						"y": 2048,
+						"w": 110,
+						"h": 242
+					}
+				},
+				{
+					"filename": "marko-jump/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 198,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 60,
+						"w": 123,
+						"h": 239
+					},
+					"frame": {
+						"x": 1366,
+						"y": 3314,
+						"w": 123,
+						"h": 239
+					}
+				},
+				{
+					"filename": "marko-finish-move/frame_012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 339,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 152,
+						"y": 23,
+						"w": 106,
+						"h": 237
+					},
+					"frame": {
+						"x": 1381,
+						"y": 3049,
+						"w": 106,
+						"h": 237
+					}
+				},
+				{
+					"filename": "marko-finish-move/frame_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 339,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 130,
+						"y": 26,
+						"w": 131,
+						"h": 235
+					},
+					"frame": {
+						"x": 1489,
+						"y": 3049,
+						"w": 131,
+						"h": 235
+					}
+				},
+				{
+					"filename": "marko-kick-2/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 212,
+						"h": 242
+					},
+					"spriteSourceSize": {
+						"x": 61,
+						"y": 6,
+						"w": 104,
+						"h": 233
+					},
+					"frame": {
+						"x": 1637,
+						"y": 2292,
+						"w": 104,
+						"h": 233
+					}
+				},
+				{
+					"filename": "marko-kick-2/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 212,
+						"h": 242
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 10,
+						"w": 114,
+						"h": 231
+					},
+					"frame": {
+						"x": 1733,
+						"y": 2048,
+						"w": 114,
+						"h": 231
+					}
+				},
+				{
+					"filename": "marko-punch-1/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 210,
+						"h": 242
+					},
+					"spriteSourceSize": {
+						"x": 57,
+						"y": 11,
+						"w": 110,
+						"h": 228
+					},
+					"frame": {
+						"x": 1637,
+						"y": 2527,
+						"w": 110,
+						"h": 228
+					}
+				},
+				{
+					"filename": "marko-shoot/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 256,
+						"h": 256
+					},
+					"spriteSourceSize": {
+						"x": 78,
+						"y": 18,
+						"w": 134,
+						"h": 227
+					},
+					"frame": {
+						"x": 1743,
+						"y": 2281,
+						"w": 134,
+						"h": 227
+					}
+				},
+				{
+					"filename": "marko-kick-1/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 242,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 12,
+						"w": 122,
+						"h": 226
+					},
+					"frame": {
+						"x": 1849,
+						"y": 1923,
+						"w": 122,
+						"h": 226
+					}
+				},
+				{
+					"filename": "marko-kick-1/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 242,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 69,
+						"y": 12,
+						"w": 119,
+						"h": 226
+					},
+					"frame": {
+						"x": 1919,
+						"y": 1662,
+						"w": 119,
+						"h": 226
+					}
+				},
+				{
+					"filename": "marko-jump/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 198,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 74,
+						"w": 125,
+						"h": 225
+					},
+					"frame": {
+						"x": 1377,
+						"y": 3555,
+						"w": 125,
+						"h": 225
+					}
+				},
+				{
+					"filename": "marko-punch-2/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 12,
+						"w": 113,
+						"h": 225
+					},
+					"frame": {
+						"x": 1491,
+						"y": 3286,
+						"w": 113,
+						"h": 225
+					}
+				},
+				{
+					"filename": "marko-jump/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 198,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 76,
+						"w": 125,
+						"h": 223
+					},
+					"frame": {
+						"x": 1377,
+						"y": 3782,
+						"w": 125,
+						"h": 223
+					}
+				},
+				{
+					"filename": "marko-punch-2/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 16,
+						"w": 130,
+						"h": 221
+					},
+					"frame": {
+						"x": 3627,
+						"y": 1,
+						"w": 130,
+						"h": 221
+					}
+				},
+				{
+					"filename": "marko-jump/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 198,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 79,
+						"w": 128,
+						"h": 220
+					},
+					"frame": {
+						"x": 3759,
+						"y": 1,
+						"w": 128,
+						"h": 220
+					}
+				},
+				{
+					"filename": "marko-kick-1/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 242,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 51,
+						"y": 21,
+						"w": 125,
+						"h": 217
+					},
+					"frame": {
+						"x": 3889,
+						"y": 1,
+						"w": 125,
+						"h": 217
+					}
+				},
+				{
+					"filename": "marko-dying/frame_014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 201,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 70,
+						"w": 125,
+						"h": 193
+					},
+					"frame": {
+						"x": 3889,
+						"y": 220,
+						"w": 125,
+						"h": 193
+					}
+				},
+				{
+					"filename": "marko-dying/frame_034.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 201,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 61,
+						"w": 123,
+						"h": 203
+					},
+					"frame": {
+						"x": 3759,
+						"y": 223,
+						"w": 123,
+						"h": 203
+					}
+				},
+				{
+					"filename": "marko-dying/frame_016.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 201,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 64,
+						"w": 122,
+						"h": 200
+					},
+					"frame": {
+						"x": 3627,
+						"y": 224,
+						"w": 122,
+						"h": 200
+					}
+				},
+				{
+					"filename": "marko-dying/frame_018.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 201,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 59,
+						"w": 120,
+						"h": 205
+					},
+					"frame": {
+						"x": 3418,
+						"y": 243,
+						"w": 120,
+						"h": 205
+					}
+				},
+				{
+					"filename": "marko-dying/frame_026.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 201,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 59,
+						"w": 120,
+						"h": 205
+					},
+					"frame": {
+						"x": 3884,
+						"y": 415,
+						"w": 120,
+						"h": 205
+					}
+				},
+				{
+					"filename": "marko-dying/frame_024.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 201,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 60,
+						"w": 120,
+						"h": 204
+					},
+					"frame": {
+						"x": 3540,
+						"y": 426,
+						"w": 120,
+						"h": 204
+					}
+				},
+				{
+					"filename": "marko-dying/frame_028.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 201,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 60,
+						"w": 120,
+						"h": 204
+					},
+					"frame": {
+						"x": 3418,
+						"y": 450,
+						"w": 120,
+						"h": 204
+					}
+				},
+				{
+					"filename": "marko-dying/frame_030.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 201,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 60,
+						"w": 120,
+						"h": 204
+					},
+					"frame": {
+						"x": 3212,
+						"y": 486,
+						"w": 120,
+						"h": 204
+					}
+				},
+				{
+					"filename": "marko-dying/frame_032.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 201,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 60,
+						"w": 118,
+						"h": 204
+					},
+					"frame": {
+						"x": 3212,
+						"y": 692,
+						"w": 118,
+						"h": 204
+					}
+				},
+				{
+					"filename": "marko-kick-1/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 242,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 67,
+						"y": 17,
+						"w": 115,
+						"h": 221
+					},
+					"frame": {
+						"x": 2998,
+						"y": 698,
+						"w": 115,
+						"h": 221
+					}
+				},
+				{
+					"filename": "marko-punch-combo/frame_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 212,
+						"h": 242
+					},
+					"spriteSourceSize": {
+						"x": 61,
+						"y": 6,
+						"w": 104,
+						"h": 233
+					},
+					"frame": {
+						"x": 1637,
+						"y": 2292,
+						"w": 104,
+						"h": 233
+					}
+				},
+				{
+					"filename": "marko-punch-combo/frame_012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 212,
+						"h": 242
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 16,
+						"w": 148,
+						"h": 223
+					},
+					"frame": {
+						"x": 152,
+						"y": 2798,
+						"w": 148,
+						"h": 223
+					}
+				},
+				{
+					"filename": "marko-punch-combo/frame_013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 212,
+						"h": 242
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 10,
+						"w": 114,
+						"h": 231
+					},
+					"frame": {
+						"x": 1733,
+						"y": 2048,
+						"w": 114,
+						"h": 231
+					}
+				},
+				{
+					"filename": "marko-punch-combo/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 210,
+						"h": 242
+					},
+					"spriteSourceSize": {
+						"x": 65,
+						"y": 8,
+						"w": 101,
+						"h": 230
+					},
+					"frame": {
+						"x": 2092,
+						"y": 710,
+						"w": 101,
+						"h": 230
+					}
+				},
+				{
+					"filename": "marko-punch-combo/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 210,
+						"h": 242
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 19,
+						"w": 178,
+						"h": 222
+					},
+					"frame": {
+						"x": 184,
+						"y": 1617,
+						"w": 178,
+						"h": 222
+					}
+				},
+				{
+					"filename": "marko-punch-combo/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 210,
+						"h": 242
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 14,
+						"w": 143,
+						"h": 225
+					},
+					"frame": {
+						"x": 476,
+						"y": 2662,
+						"w": 143,
+						"h": 225
+					}
+				},
+				{
+					"filename": "marko-punch-combo/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 210,
+						"h": 242
+					},
+					"spriteSourceSize": {
+						"x": 57,
+						"y": 11,
+						"w": 110,
+						"h": 228
+					},
+					"frame": {
+						"x": 1637,
+						"y": 2527,
+						"w": 110,
+						"h": 228
+					}
+				},
+				{
+					"filename": "marko-punch-combo/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 12,
+						"w": 113,
+						"h": 225
+					},
+					"frame": {
+						"x": 1491,
+						"y": 3286,
+						"w": 113,
+						"h": 225
+					}
+				},
+				{
+					"filename": "marko-punch-combo/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 19,
+						"w": 141,
+						"h": 219
+					},
+					"frame": {
+						"x": 1278,
+						"y": 2017,
+						"w": 141,
+						"h": 219
+					}
+				},
+				{
+					"filename": "marko-punch-combo/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 23,
+						"w": 139,
+						"h": 215
+					},
+					"frame": {
+						"x": 294,
+						"y": 3269,
+						"w": 139,
+						"h": 215
+					}
+				},
+				{
+					"filename": "marko-punch-combo/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 35,
+						"w": 162,
+						"h": 202
+					},
+					"frame": {
+						"x": 1966,
+						"y": 1200,
+						"w": 162,
+						"h": 202
+					}
+				},
+				{
+					"filename": "marko-punch-combo/frame_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 28,
+						"y": 16,
+						"w": 130,
+						"h": 221
+					},
+					"frame": {
+						"x": 3627,
+						"y": 1,
+						"w": 130,
+						"h": 221
+					}
+				},
+				{
+					"filename": "marko-punch-combo/frame_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 190,
+						"h": 240
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 4,
+						"w": 102,
+						"h": 234
+					},
+					"frame": {
+						"x": 1371,
+						"y": 1747,
+						"w": 102,
+						"h": 234
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}
