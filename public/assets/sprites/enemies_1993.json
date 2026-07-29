@@ -1,0 +1,5857 @@
+{
+	"textures": [
+		{
+			"image": "enemies_1993",
+			"format": "RGBA8888",
+			"size": {
+				"w": 4200,
+				"h": 4189
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "slobodan-special-attack/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 420,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 105,
+						"w": 419,
+						"h": 290
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 419,
+						"h": 290
+					}
+				},
+				{
+					"filename": "slobodan-special-attack/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 420,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 105,
+						"w": 405,
+						"h": 281
+					},
+					"frame": {
+						"x": 419,
+						"y": 0,
+						"w": 405,
+						"h": 281
+					}
+				},
+				{
+					"filename": "miner-dying/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 435,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 188,
+						"w": 405,
+						"h": 128
+					},
+					"frame": {
+						"x": 824,
+						"y": 0,
+						"w": 405,
+						"h": 128
+					}
+				},
+				{
+					"filename": "miner-dying/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 435,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 188,
+						"w": 403,
+						"h": 128
+					},
+					"frame": {
+						"x": 1229,
+						"y": 0,
+						"w": 403,
+						"h": 128
+					}
+				},
+				{
+					"filename": "miner-dying/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 435,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 188,
+						"w": 401,
+						"h": 128
+					},
+					"frame": {
+						"x": 1632,
+						"y": 0,
+						"w": 401,
+						"h": 128
+					}
+				},
+				{
+					"filename": "slobodan-dying/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 400,
+						"h": 335
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 216,
+						"w": 397,
+						"h": 119
+					},
+					"frame": {
+						"x": 2033,
+						"y": 0,
+						"w": 397,
+						"h": 119
+					}
+				},
+				{
+					"filename": "miner-dying/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 435,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 37,
+						"w": 396,
+						"h": 279
+					},
+					"frame": {
+						"x": 2430,
+						"y": 0,
+						"w": 396,
+						"h": 279
+					}
+				},
+				{
+					"filename": "slobodan-dying/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 400,
+						"h": 335
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 216,
+						"w": 380,
+						"h": 111
+					},
+					"frame": {
+						"x": 2033,
+						"y": 119,
+						"w": 380,
+						"h": 111
+					}
+				},
+				{
+					"filename": "mup-dying/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 390,
+						"h": 394
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 242,
+						"w": 376,
+						"h": 151
+					},
+					"frame": {
+						"x": 824,
+						"y": 128,
+						"w": 376,
+						"h": 151
+					}
+				},
+				{
+					"filename": "mup-dying/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 390,
+						"h": 394
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 243,
+						"w": 376,
+						"h": 150
+					},
+					"frame": {
+						"x": 1200,
+						"y": 128,
+						"w": 376,
+						"h": 150
+					}
+				},
+				{
+					"filename": "mup-dying/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 390,
+						"h": 394
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 236,
+						"w": 375,
+						"h": 157
+					},
+					"frame": {
+						"x": 1576,
+						"y": 128,
+						"w": 375,
+						"h": 157
+					}
+				},
+				{
+					"filename": "miner-dying/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 435,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 15,
+						"w": 373,
+						"h": 301
+					},
+					"frame": {
+						"x": 1200,
+						"y": 278,
+						"w": 373,
+						"h": 301
+					}
+				},
+				{
+					"filename": "mup-dying/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 390,
+						"h": 394
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 76,
+						"w": 368,
+						"h": 317
+					},
+					"frame": {
+						"x": 824,
+						"y": 279,
+						"w": 368,
+						"h": 317
+					}
+				},
+				{
+					"filename": "slobodan-special-attack/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 420,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 105,
+						"w": 368,
+						"h": 277
+					},
+					"frame": {
+						"x": 419,
+						"y": 285,
+						"w": 368,
+						"h": 277
+					}
+				},
+				{
+					"filename": "miner-dying/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 435,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 32,
+						"w": 358,
+						"h": 284
+					},
+					"frame": {
+						"x": 0,
+						"y": 290,
+						"w": 358,
+						"h": 284
+					}
+				},
+				{
+					"filename": "mup-dying/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 390,
+						"h": 394
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 81,
+						"w": 355,
+						"h": 313
+					},
+					"frame": {
+						"x": 358,
+						"y": 562,
+						"w": 355,
+						"h": 313
+					}
+				},
+				{
+					"filename": "dizelcic-knockdown-get-up/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 226,
+						"h": 275
+					},
+					"spriteSourceSize": {
+						"x": 40,
+						"y": 3,
+						"w": 111,
+						"h": 264
+					},
+					"frame": {
+						"x": 713,
+						"y": 562,
+						"w": 111,
+						"h": 264
+					}
+				},
+				{
+					"filename": "dizelcic-knockdown-get-up/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 226,
+						"h": 275
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 4,
+						"w": 111,
+						"h": 263
+					},
+					"frame": {
+						"x": 713,
+						"y": 826,
+						"w": 111,
+						"h": 263
+					}
+				},
+				{
+					"filename": "slobodan-dying/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 400,
+						"h": 335
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 355,
+						"h": 298
+					},
+					"frame": {
+						"x": 0,
+						"y": 574,
+						"w": 355,
+						"h": 298
+					}
+				},
+				{
+					"filename": "slobodan-punch-1/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 370,
+						"h": 273
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 12,
+						"w": 351,
+						"h": 254
+					},
+					"frame": {
+						"x": 0,
+						"y": 872,
+						"w": 351,
+						"h": 254
+					}
+				},
+				{
+					"filename": "dizel-dying/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 371,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 224,
+						"w": 351,
+						"h": 89
+					},
+					"frame": {
+						"x": 351,
+						"y": 875,
+						"w": 351,
+						"h": 89
+					}
+				},
+				{
+					"filename": "dizel-dying/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 371,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 224,
+						"w": 351,
+						"h": 89
+					},
+					"frame": {
+						"x": 351,
+						"y": 964,
+						"w": 351,
+						"h": 89
+					}
+				},
+				{
+					"filename": "dizel-dying/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 371,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 224,
+						"w": 351,
+						"h": 89
+					},
+					"frame": {
+						"x": 351,
+						"y": 1053,
+						"w": 351,
+						"h": 89
+					}
+				},
+				{
+					"filename": "slobodan-punch-2/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 440,
+						"h": 406
+					},
+					"spriteSourceSize": {
+						"x": 90,
+						"y": 2,
+						"w": 350,
+						"h": 335
+					},
+					"frame": {
+						"x": 0,
+						"y": 1126,
+						"w": 350,
+						"h": 335
+					}
+				},
+				{
+					"filename": "slobodan-dying/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 400,
+						"h": 335
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 13,
+						"w": 350,
+						"h": 291
+					},
+					"frame": {
+						"x": 1951,
+						"y": 230,
+						"w": 350,
+						"h": 291
+					}
+				},
+				{
+					"filename": "dizelcic-walk/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 135,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 1,
+						"w": 129,
+						"h": 263
+					},
+					"frame": {
+						"x": 2301,
+						"y": 230,
+						"w": 129,
+						"h": 263
+					}
+				},
+				{
+					"filename": "dizelcic-walk/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 135,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 2,
+						"w": 129,
+						"h": 261
+					},
+					"frame": {
+						"x": 2301,
+						"y": 493,
+						"w": 129,
+						"h": 261
+					}
+				},
+				{
+					"filename": "dizelcic-punch-1/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 223,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 0,
+						"w": 129,
+						"h": 258
+					},
+					"frame": {
+						"x": 2301,
+						"y": 754,
+						"w": 129,
+						"h": 258
+					}
+				},
+				{
+					"filename": "slobodan-punch-2/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 440,
+						"h": 406
+					},
+					"spriteSourceSize": {
+						"x": 90,
+						"y": 75,
+						"w": 350,
+						"h": 262
+					},
+					"frame": {
+						"x": 1573,
+						"y": 285,
+						"w": 350,
+						"h": 262
+					}
+				},
+				{
+					"filename": "slobodan-punch-2/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 440,
+						"h": 406
+					},
+					"spriteSourceSize": {
+						"x": 90,
+						"y": 75,
+						"w": 350,
+						"h": 262
+					},
+					"frame": {
+						"x": 1573,
+						"y": 547,
+						"w": 350,
+						"h": 262
+					}
+				},
+				{
+					"filename": "slobodan-punch-2/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 440,
+						"h": 406
+					},
+					"spriteSourceSize": {
+						"x": 90,
+						"y": 81,
+						"w": 350,
+						"h": 256
+					},
+					"frame": {
+						"x": 1923,
+						"y": 521,
+						"w": 350,
+						"h": 256
+					}
+				},
+				{
+					"filename": "dizel-dying/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 371,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 224,
+						"w": 350,
+						"h": 89
+					},
+					"frame": {
+						"x": 1923,
+						"y": 777,
+						"w": 350,
+						"h": 89
+					}
+				},
+				{
+					"filename": "slobodan-punch-1/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 370,
+						"h": 273
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 8,
+						"w": 349,
+						"h": 265
+					},
+					"frame": {
+						"x": 1192,
+						"y": 579,
+						"w": 349,
+						"h": 265
+					}
+				},
+				{
+					"filename": "dizel-dying/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 371,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 224,
+						"w": 347,
+						"h": 89
+					},
+					"frame": {
+						"x": 824,
+						"y": 809,
+						"w": 347,
+						"h": 89
+					}
+				},
+				{
+					"filename": "slobodan-jump/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 277,
+						"h": 377
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 111,
+						"w": 177,
+						"h": 211
+					},
+					"frame": {
+						"x": 824,
+						"y": 596,
+						"w": 177,
+						"h": 211
+					}
+				},
+				{
+					"filename": "dizelcic-knockdown-get-up/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 226,
+						"h": 275
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 157,
+						"w": 171,
+						"h": 118
+					},
+					"frame": {
+						"x": 1001,
+						"y": 596,
+						"w": 171,
+						"h": 118
+					}
+				},
+				{
+					"filename": "slobodan-punch-2/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 440,
+						"h": 406
+					},
+					"spriteSourceSize": {
+						"x": 90,
+						"y": 79,
+						"w": 344,
+						"h": 255
+					},
+					"frame": {
+						"x": 1541,
+						"y": 809,
+						"w": 344,
+						"h": 255
+					}
+				},
+				{
+					"filename": "miner-damage/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 420,
+						"h": 364
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 49,
+						"w": 342,
+						"h": 259
+					},
+					"frame": {
+						"x": 1171,
+						"y": 866,
+						"w": 342,
+						"h": 259
+					}
+				},
+				{
+					"filename": "mup-dying/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 390,
+						"h": 394
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 47,
+						"w": 341,
+						"h": 335
+					},
+					"frame": {
+						"x": 824,
+						"y": 898,
+						"w": 341,
+						"h": 335
+					}
+				},
+				{
+					"filename": "dizelcic-punch-1/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 223,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 3,
+						"w": 120,
+						"h": 255
+					},
+					"frame": {
+						"x": 702,
+						"y": 1125,
+						"w": 120,
+						"h": 255
+					}
+				},
+				{
+					"filename": "miner-damage/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 420,
+						"h": 364
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 64,
+						"w": 340,
+						"h": 244
+					},
+					"frame": {
+						"x": 350,
+						"y": 1142,
+						"w": 340,
+						"h": 244
+					}
+				},
+				{
+					"filename": "slobodan-dying/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 400,
+						"h": 335
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 190,
+						"w": 335,
+						"h": 122
+					},
+					"frame": {
+						"x": 1885,
+						"y": 866,
+						"w": 335,
+						"h": 122
+					}
+				},
+				{
+					"filename": "slobodan-punch-1/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 370,
+						"h": 273
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 14,
+						"w": 332,
+						"h": 252
+					},
+					"frame": {
+						"x": 1885,
+						"y": 988,
+						"w": 332,
+						"h": 252
+					}
+				},
+				{
+					"filename": "dizel-dying/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 371,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 222,
+						"w": 332,
+						"h": 91
+					},
+					"frame": {
+						"x": 1513,
+						"y": 1064,
+						"w": 332,
+						"h": 91
+					}
+				},
+				{
+					"filename": "miner-knockdown-get-up/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 334,
+						"h": 322
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 108,
+						"w": 331,
+						"h": 155
+					},
+					"frame": {
+						"x": 1165,
+						"y": 1125,
+						"w": 331,
+						"h": 155
+					}
+				},
+				{
+					"filename": "dizel-knockdown-get-up/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 479,
+						"h": 299
+					},
+					"spriteSourceSize": {
+						"x": 148,
+						"y": 191,
+						"w": 331,
+						"h": 108
+					},
+					"frame": {
+						"x": 822,
+						"y": 1233,
+						"w": 331,
+						"h": 108
+					}
+				},
+				{
+					"filename": "slobodan-dying/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 400,
+						"h": 335
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 61,
+						"w": 329,
+						"h": 246
+					},
+					"frame": {
+						"x": 1496,
+						"y": 1155,
+						"w": 329,
+						"h": 246
+					}
+				},
+				{
+					"filename": "dizelcic-dying/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 354,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 142,
+						"w": 328,
+						"h": 137
+					},
+					"frame": {
+						"x": 1153,
+						"y": 1280,
+						"w": 328,
+						"h": 137
+					}
+				},
+				{
+					"filename": "dizelcic-dying/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 354,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 124,
+						"w": 328,
+						"h": 136
+					},
+					"frame": {
+						"x": 822,
+						"y": 1341,
+						"w": 328,
+						"h": 136
+					}
+				},
+				{
+					"filename": "dizelcic-knockdown-get-up/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 226,
+						"h": 275
+					},
+					"spriteSourceSize": {
+						"x": 47,
+						"y": 7,
+						"w": 132,
+						"h": 261
+					},
+					"frame": {
+						"x": 690,
+						"y": 1380,
+						"w": 132,
+						"h": 261
+					}
+				},
+				{
+					"filename": "miner-damage/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 420,
+						"h": 364
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 13,
+						"w": 327,
+						"h": 295
+					},
+					"frame": {
+						"x": 350,
+						"y": 1417,
+						"w": 327,
+						"h": 295
+					}
+				},
+				{
+					"filename": "mup-punch-2/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 264,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 6,
+						"w": 144,
+						"h": 252
+					},
+					"frame": {
+						"x": 677,
+						"y": 1641,
+						"w": 144,
+						"h": 252
+					}
+				},
+				{
+					"filename": "miner-dying/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 435,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 79,
+						"y": 0,
+						"w": 326,
+						"h": 316
+					},
+					"frame": {
+						"x": 0,
+						"y": 1461,
+						"w": 326,
+						"h": 316
+					}
+				},
+				{
+					"filename": "dizel-knockdown-get-up/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 479,
+						"h": 299
+					},
+					"spriteSourceSize": {
+						"x": 153,
+						"y": 46,
+						"w": 326,
+						"h": 198
+					},
+					"frame": {
+						"x": 326,
+						"y": 1712,
+						"w": 326,
+						"h": 198
+					}
+				},
+				{
+					"filename": "dizel-knockdown-get-up/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 479,
+						"h": 299
+					},
+					"spriteSourceSize": {
+						"x": 153,
+						"y": 176,
+						"w": 326,
+						"h": 123
+					},
+					"frame": {
+						"x": 0,
+						"y": 1777,
+						"w": 326,
+						"h": 123
+					}
+				},
+				{
+					"filename": "dizelcic-dying/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 354,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 168,
+						"w": 326,
+						"h": 111
+					},
+					"frame": {
+						"x": 0,
+						"y": 1900,
+						"w": 326,
+						"h": 111
+					}
+				},
+				{
+					"filename": "miner-damage/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 420,
+						"h": 364
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 0,
+						"w": 325,
+						"h": 308
+					},
+					"frame": {
+						"x": 2826,
+						"y": 0,
+						"w": 325,
+						"h": 308
+					}
+				},
+				{
+					"filename": "miner-damage/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 420,
+						"h": 364
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 1,
+						"w": 324,
+						"h": 307
+					},
+					"frame": {
+						"x": 2430,
+						"y": 279,
+						"w": 324,
+						"h": 307
+					}
+				},
+				{
+					"filename": "mup-dying/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 390,
+						"h": 394
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 55,
+						"w": 324,
+						"h": 303
+					},
+					"frame": {
+						"x": 3151,
+						"y": 0,
+						"w": 324,
+						"h": 303
+					}
+				},
+				{
+					"filename": "miner-damage/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 420,
+						"h": 364
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 28,
+						"w": 315,
+						"h": 280
+					},
+					"frame": {
+						"x": 3475,
+						"y": 0,
+						"w": 315,
+						"h": 280
+					}
+				},
+				{
+					"filename": "dizel-throw/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 374,
+						"h": 283
+					},
+					"spriteSourceSize": {
+						"x": 69,
+						"y": 6,
+						"w": 304,
+						"h": 264
+					},
+					"frame": {
+						"x": 3790,
+						"y": 0,
+						"w": 304,
+						"h": 264
+					}
+				},
+				{
+					"filename": "dizelcic-punch-1/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 223,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 1,
+						"w": 105,
+						"h": 257
+					},
+					"frame": {
+						"x": 4094,
+						"y": 0,
+						"w": 105,
+						"h": 257
+					}
+				},
+				{
+					"filename": "dizelcic-punch-1/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 223,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 5,
+						"w": 98,
+						"h": 253
+					},
+					"frame": {
+						"x": 4094,
+						"y": 257,
+						"w": 98,
+						"h": 253
+					}
+				},
+				{
+					"filename": "miner-dying/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 435,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 96,
+						"y": 19,
+						"w": 302,
+						"h": 299
+					},
+					"frame": {
+						"x": 3790,
+						"y": 264,
+						"w": 302,
+						"h": 299
+					}
+				},
+				{
+					"filename": "dizelcic-punch-1/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 223,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 3,
+						"w": 95,
+						"h": 255
+					},
+					"frame": {
+						"x": 4092,
+						"y": 510,
+						"w": 95,
+						"h": 255
+					}
+				},
+				{
+					"filename": "miner-damage/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 420,
+						"h": 364
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 13,
+						"w": 302,
+						"h": 295
+					},
+					"frame": {
+						"x": 3475,
+						"y": 280,
+						"w": 302,
+						"h": 295
+					}
+				},
+				{
+					"filename": "slobodan-dying/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 400,
+						"h": 335
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 34,
+						"w": 296,
+						"h": 267
+					},
+					"frame": {
+						"x": 3777,
+						"y": 563,
+						"w": 296,
+						"h": 267
+					}
+				},
+				{
+					"filename": "dizelcic-walk/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 135,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 7,
+						"w": 127,
+						"h": 257
+					},
+					"frame": {
+						"x": 4073,
+						"y": 765,
+						"w": 127,
+						"h": 257
+					}
+				},
+				{
+					"filename": "mup-dying/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 390,
+						"h": 394
+					},
+					"spriteSourceSize": {
+						"x": 86,
+						"y": 67,
+						"w": 295,
+						"h": 260
+					},
+					"frame": {
+						"x": 3151,
+						"y": 303,
+						"w": 295,
+						"h": 260
+					}
+				},
+				{
+					"filename": "slobodan-run/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 335,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 15,
+						"w": 293,
+						"h": 246
+					},
+					"frame": {
+						"x": 2754,
+						"y": 308,
+						"w": 293,
+						"h": 246
+					}
+				},
+				{
+					"filename": "dizelcic-punch-1/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 223,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 3,
+						"w": 93,
+						"h": 255
+					},
+					"frame": {
+						"x": 3047,
+						"y": 308,
+						"w": 93,
+						"h": 255
+					}
+				},
+				{
+					"filename": "dizel-dying/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 371,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 29,
+						"w": 292,
+						"h": 265
+					},
+					"frame": {
+						"x": 2754,
+						"y": 554,
+						"w": 292,
+						"h": 265
+					}
+				},
+				{
+					"filename": "miner-melee/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 342,
+						"h": 436
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 93,
+						"w": 291,
+						"h": 261
+					},
+					"frame": {
+						"x": 2430,
+						"y": 586,
+						"w": 291,
+						"h": 261
+					}
+				},
+				{
+					"filename": "slobodan-damage/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 334,
+						"h": 267
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 39,
+						"w": 291,
+						"h": 227
+					},
+					"frame": {
+						"x": 3046,
+						"y": 563,
+						"w": 291,
+						"h": 227
+					}
+				},
+				{
+					"filename": "mup-punch-2/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 264,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 58,
+						"y": 12,
+						"w": 135,
+						"h": 245
+					},
+					"frame": {
+						"x": 3337,
+						"y": 563,
+						"w": 135,
+						"h": 245
+					}
+				},
+				{
+					"filename": "slobodan-run/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 335,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 10,
+						"w": 290,
+						"h": 251
+					},
+					"frame": {
+						"x": 3046,
+						"y": 790,
+						"w": 290,
+						"h": 251
+					}
+				},
+				{
+					"filename": "slobodan-run/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 335,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 11,
+						"w": 290,
+						"h": 249
+					},
+					"frame": {
+						"x": 3472,
+						"y": 575,
+						"w": 290,
+						"h": 249
+					}
+				},
+				{
+					"filename": "dizelcic-walk/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 135,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 4,
+						"w": 132,
+						"h": 256
+					},
+					"frame": {
+						"x": 3336,
+						"y": 808,
+						"w": 132,
+						"h": 256
+					}
+				},
+				{
+					"filename": "dizel-throw/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 374,
+						"h": 283
+					},
+					"spriteSourceSize": {
+						"x": 70,
+						"y": 9,
+						"w": 286,
+						"h": 261
+					},
+					"frame": {
+						"x": 3468,
+						"y": 824,
+						"w": 286,
+						"h": 261
+					}
+				},
+				{
+					"filename": "dizel-punch-1/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 357,
+						"h": 281
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 7,
+						"w": 283,
+						"h": 263
+					},
+					"frame": {
+						"x": 3754,
+						"y": 830,
+						"w": 283,
+						"h": 263
+					}
+				},
+				{
+					"filename": "mup-damage/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 341,
+						"h": 262
+					},
+					"spriteSourceSize": {
+						"x": 89,
+						"y": 1,
+						"w": 163,
+						"h": 260
+					},
+					"frame": {
+						"x": 4037,
+						"y": 1022,
+						"w": 163,
+						"h": 260
+					}
+				},
+				{
+					"filename": "slobodan-run/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 335,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 11,
+						"w": 283,
+						"h": 250
+					},
+					"frame": {
+						"x": 3754,
+						"y": 1282,
+						"w": 283,
+						"h": 250
+					}
+				},
+				{
+					"filename": "mup-walk/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 191,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 3,
+						"w": 163,
+						"h": 257
+					},
+					"frame": {
+						"x": 4037,
+						"y": 1282,
+						"w": 163,
+						"h": 257
+					}
+				},
+				{
+					"filename": "slobodan-jump-punch/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 320,
+						"h": 282
+					},
+					"spriteSourceSize": {
+						"x": 121,
+						"y": 15,
+						"w": 198,
+						"h": 188
+					},
+					"frame": {
+						"x": 2217,
+						"y": 1093,
+						"w": 198,
+						"h": 188
+					}
+				},
+				{
+					"filename": "dizelcic-knockdown-get-up/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 226,
+						"h": 275
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 49,
+						"w": 209,
+						"h": 187
+					},
+					"frame": {
+						"x": 2415,
+						"y": 1093,
+						"w": 209,
+						"h": 187
+					}
+				},
+				{
+					"filename": "slobodan-run/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 335,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 14,
+						"w": 255,
+						"h": 246
+					},
+					"frame": {
+						"x": 2430,
+						"y": 847,
+						"w": 255,
+						"h": 246
+					}
+				},
+				{
+					"filename": "slobodan-knockdown-get-up/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 339
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 121,
+						"w": 226,
+						"h": 183
+					},
+					"frame": {
+						"x": 2624,
+						"y": 1093,
+						"w": 226,
+						"h": 183
+					}
+				},
+				{
+					"filename": "slobodan-punch-2/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 440,
+						"h": 406
+					},
+					"spriteSourceSize": {
+						"x": 116,
+						"y": 87,
+						"w": 184,
+						"h": 246
+					},
+					"frame": {
+						"x": 2685,
+						"y": 847,
+						"w": 184,
+						"h": 246
+					}
+				},
+				{
+					"filename": "slobodan-walk/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 239,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 7,
+						"w": 196,
+						"h": 263
+					},
+					"frame": {
+						"x": 2850,
+						"y": 1093,
+						"w": 196,
+						"h": 263
+					}
+				},
+				{
+					"filename": "mup-walk/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 191,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 0,
+						"w": 177,
+						"h": 258
+					},
+					"frame": {
+						"x": 2869,
+						"y": 819,
+						"w": 177,
+						"h": 258
+					}
+				},
+				{
+					"filename": "mup-punch-1/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 345,
+						"h": 320
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 40,
+						"w": 226,
+						"h": 250
+					},
+					"frame": {
+						"x": 2624,
+						"y": 1276,
+						"w": 226,
+						"h": 250
+					}
+				},
+				{
+					"filename": "dizelcic-dying/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 354,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 100,
+						"y": 0,
+						"w": 209,
+						"h": 269
+					},
+					"frame": {
+						"x": 2415,
+						"y": 1280,
+						"w": 209,
+						"h": 269
+					}
+				},
+				{
+					"filename": "slobodan-knockdown-get-up/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 339
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 175,
+						"w": 282,
+						"h": 132
+					},
+					"frame": {
+						"x": 3046,
+						"y": 1041,
+						"w": 282,
+						"h": 132
+					}
+				},
+				{
+					"filename": "mup-punch-2/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 264,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 1,
+						"w": 140,
+						"h": 256
+					},
+					"frame": {
+						"x": 3328,
+						"y": 1064,
+						"w": 140,
+						"h": 256
+					}
+				},
+				{
+					"filename": "miner-knockdown-get-up/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 334,
+						"h": 322
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 20,
+						"w": 281,
+						"h": 247
+					},
+					"frame": {
+						"x": 3046,
+						"y": 1173,
+						"w": 281,
+						"h": 247
+					}
+				},
+				{
+					"filename": "mup-punch-1/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 345,
+						"h": 320
+					},
+					"spriteSourceSize": {
+						"x": 83,
+						"y": 38,
+						"w": 196,
+						"h": 252
+					},
+					"frame": {
+						"x": 2850,
+						"y": 1356,
+						"w": 196,
+						"h": 252
+					}
+				},
+				{
+					"filename": "miner-knockdown-get-up/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 334,
+						"h": 322
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 5,
+						"w": 224,
+						"h": 260
+					},
+					"frame": {
+						"x": 2624,
+						"y": 1539,
+						"w": 224,
+						"h": 260
+					}
+				},
+				{
+					"filename": "slobodan-run/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 335,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 6,
+						"w": 279,
+						"h": 255
+					},
+					"frame": {
+						"x": 3468,
+						"y": 1085,
+						"w": 279,
+						"h": 255
+					}
+				},
+				{
+					"filename": "dizelcic-knockdown-get-up/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 226,
+						"h": 275
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 47,
+						"w": 132,
+						"h": 217
+					},
+					"frame": {
+						"x": 3327,
+						"y": 1320,
+						"w": 132,
+						"h": 217
+					}
+				},
+				{
+					"filename": "slobodan-knockdown-get-up/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 339
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 211,
+						"w": 278,
+						"h": 96
+					},
+					"frame": {
+						"x": 3046,
+						"y": 1420,
+						"w": 278,
+						"h": 96
+					}
+				},
+				{
+					"filename": "slobodan-run/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 335,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 6,
+						"w": 277,
+						"h": 255
+					},
+					"frame": {
+						"x": 3046,
+						"y": 1516,
+						"w": 277,
+						"h": 255
+					}
+				},
+				{
+					"filename": "miner-melee/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 342,
+						"h": 436
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 0,
+						"w": 198,
+						"h": 344
+					},
+					"frame": {
+						"x": 2848,
+						"y": 1608,
+						"w": 198,
+						"h": 344
+					}
+				},
+				{
+					"filename": "miner-knockdown-get-up/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 334,
+						"h": 322
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 124,
+						"w": 277,
+						"h": 140
+					},
+					"frame": {
+						"x": 3747,
+						"y": 1093,
+						"w": 277,
+						"h": 140
+					}
+				},
+				{
+					"filename": "miner-melee/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 342,
+						"h": 436
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 112,
+						"w": 277,
+						"h": 242
+					},
+					"frame": {
+						"x": 3459,
+						"y": 1340,
+						"w": 277,
+						"h": 242
+					}
+				},
+				{
+					"filename": "dizelcic-walk/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 135,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 131,
+						"h": 260
+					},
+					"frame": {
+						"x": 3323,
+						"y": 1537,
+						"w": 131,
+						"h": 260
+					}
+				},
+				{
+					"filename": "miner-melee/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 342,
+						"h": 436
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 65,
+						"w": 276,
+						"h": 279
+					},
+					"frame": {
+						"x": 3046,
+						"y": 1771,
+						"w": 276,
+						"h": 279
+					}
+				},
+				{
+					"filename": "dizel-run/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 344,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 69,
+						"y": 6,
+						"w": 274,
+						"h": 252
+					},
+					"frame": {
+						"x": 3736,
+						"y": 1532,
+						"w": 274,
+						"h": 252
+					}
+				},
+				{
+					"filename": "mup-idle/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 210,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 5,
+						"w": 190,
+						"h": 257
+					},
+					"frame": {
+						"x": 4010,
+						"y": 1539,
+						"w": 190,
+						"h": 257
+					}
+				},
+				{
+					"filename": "miner-walk/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 284,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 11,
+						"w": 274,
+						"h": 248
+					},
+					"frame": {
+						"x": 3736,
+						"y": 1784,
+						"w": 274,
+						"h": 248
+					}
+				},
+				{
+					"filename": "mup-knockdown-get-up/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 269,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 69,
+						"y": 39,
+						"w": 190,
+						"h": 225
+					},
+					"frame": {
+						"x": 4010,
+						"y": 1796,
+						"w": 190,
+						"h": 225
+					}
+				},
+				{
+					"filename": "mup-idle/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 210,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 2,
+						"w": 189,
+						"h": 260
+					},
+					"frame": {
+						"x": 4010,
+						"y": 2021,
+						"w": 189,
+						"h": 260
+					}
+				},
+				{
+					"filename": "miner-walk/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 284,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 4,
+						"w": 272,
+						"h": 255
+					},
+					"frame": {
+						"x": 3454,
+						"y": 1582,
+						"w": 272,
+						"h": 255
+					}
+				},
+				{
+					"filename": "dizelcic-walk/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 135,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 3,
+						"w": 129,
+						"h": 256
+					},
+					"frame": {
+						"x": 3322,
+						"y": 1797,
+						"w": 129,
+						"h": 256
+					}
+				},
+				{
+					"filename": "miner-knockdown-get-up/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 334,
+						"h": 322
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 93,
+						"w": 272,
+						"h": 173
+					},
+					"frame": {
+						"x": 3451,
+						"y": 1837,
+						"w": 272,
+						"h": 173
+					}
+				},
+				{
+					"filename": "mup-punch-1/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 345,
+						"h": 320
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 18,
+						"w": 271,
+						"h": 272
+					},
+					"frame": {
+						"x": 3451,
+						"y": 2010,
+						"w": 271,
+						"h": 272
+					}
+				},
+				{
+					"filename": "mup-damage/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 341,
+						"h": 262
+					},
+					"spriteSourceSize": {
+						"x": 70,
+						"y": 16,
+						"w": 271,
+						"h": 245
+					},
+					"frame": {
+						"x": 3722,
+						"y": 2032,
+						"w": 271,
+						"h": 245
+					}
+				},
+				{
+					"filename": "slobodan-knockdown-get-up/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 339
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 66,
+						"w": 271,
+						"h": 235
+					},
+					"frame": {
+						"x": 3722,
+						"y": 2277,
+						"w": 271,
+						"h": 235
+					}
+				},
+				{
+					"filename": "dizel-run/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 344,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 3,
+						"w": 207,
+						"h": 252
+					},
+					"frame": {
+						"x": 3993,
+						"y": 2281,
+						"w": 207,
+						"h": 252
+					}
+				},
+				{
+					"filename": "mup-punch-1/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 345,
+						"h": 320
+					},
+					"spriteSourceSize": {
+						"x": 70,
+						"y": 40,
+						"w": 207,
+						"h": 250
+					},
+					"frame": {
+						"x": 3993,
+						"y": 2533,
+						"w": 207,
+						"h": 250
+					}
+				},
+				{
+					"filename": "miner-damage/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 420,
+						"h": 364
+					},
+					"spriteSourceSize": {
+						"x": 69,
+						"y": 53,
+						"w": 269,
+						"h": 255
+					},
+					"frame": {
+						"x": 1825,
+						"y": 1240,
+						"w": 269,
+						"h": 255
+					}
+				},
+				{
+					"filename": "dizelcic-punch-1/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 223,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 50,
+						"y": 1,
+						"w": 123,
+						"h": 257
+					},
+					"frame": {
+						"x": 2094,
+						"y": 1240,
+						"w": 123,
+						"h": 257
+					}
+				},
+				{
+					"filename": "dizel-punch-1/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 357,
+						"h": 281
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 16,
+						"w": 268,
+						"h": 254
+					},
+					"frame": {
+						"x": 1825,
+						"y": 1495,
+						"w": 268,
+						"h": 254
+					}
+				},
+				{
+					"filename": "miner-melee/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 342,
+						"h": 436
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 0,
+						"w": 197,
+						"h": 344
+					},
+					"frame": {
+						"x": 2217,
+						"y": 1281,
+						"w": 197,
+						"h": 344
+					}
+				},
+				{
+					"filename": "dizel-throw/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 374,
+						"h": 283
+					},
+					"spriteSourceSize": {
+						"x": 59,
+						"y": 0,
+						"w": 210,
+						"h": 270
+					},
+					"frame": {
+						"x": 2414,
+						"y": 1549,
+						"w": 210,
+						"h": 270
+					}
+				},
+				{
+					"filename": "slobodan-knockdown-get-up/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 339
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 1,
+						"w": 221,
+						"h": 300
+					},
+					"frame": {
+						"x": 2624,
+						"y": 1799,
+						"w": 221,
+						"h": 300
+					}
+				},
+				{
+					"filename": "dizelcic-damage/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 215,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 1,
+						"w": 201,
+						"h": 261
+					},
+					"frame": {
+						"x": 2845,
+						"y": 1952,
+						"w": 201,
+						"h": 261
+					}
+				},
+				{
+					"filename": "dizelcic-punch-1/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 223,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 5,
+						"w": 117,
+						"h": 253
+					},
+					"frame": {
+						"x": 2093,
+						"y": 1497,
+						"w": 117,
+						"h": 253
+					}
+				},
+				{
+					"filename": "dizel-walk/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 274
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 4,
+						"w": 204,
+						"h": 269
+					},
+					"frame": {
+						"x": 2210,
+						"y": 1625,
+						"w": 204,
+						"h": 269
+					}
+				},
+				{
+					"filename": "dizel-punch-1/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 357,
+						"h": 281
+					},
+					"spriteSourceSize": {
+						"x": 52,
+						"y": 1,
+						"w": 209,
+						"h": 268
+					},
+					"frame": {
+						"x": 2414,
+						"y": 1819,
+						"w": 209,
+						"h": 268
+					}
+				},
+				{
+					"filename": "mup-punch-1/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 345,
+						"h": 320
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 19,
+						"w": 267,
+						"h": 271
+					},
+					"frame": {
+						"x": 3046,
+						"y": 2050,
+						"w": 267,
+						"h": 271
+					}
+				},
+				{
+					"filename": "dizelcic-walk/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 135,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 8,
+						"w": 129,
+						"h": 252
+					},
+					"frame": {
+						"x": 3313,
+						"y": 2053,
+						"w": 129,
+						"h": 252
+					}
+				},
+				{
+					"filename": "dizelcic-dying/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 354,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 113,
+						"y": 12,
+						"w": 128,
+						"h": 256
+					},
+					"frame": {
+						"x": 3313,
+						"y": 2305,
+						"w": 128,
+						"h": 256
+					}
+				},
+				{
+					"filename": "miner-walk/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 284,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 9,
+						"w": 267,
+						"h": 248
+					},
+					"frame": {
+						"x": 3442,
+						"y": 2282,
+						"w": 267,
+						"h": 248
+					}
+				},
+				{
+					"filename": "miner-walk/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 284,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 9,
+						"w": 266,
+						"h": 250
+					},
+					"frame": {
+						"x": 3709,
+						"y": 2512,
+						"w": 266,
+						"h": 250
+					}
+				},
+				{
+					"filename": "miner-walk/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 284,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 1,
+						"w": 265,
+						"h": 258
+					},
+					"frame": {
+						"x": 3441,
+						"y": 2530,
+						"w": 265,
+						"h": 258
+					}
+				},
+				{
+					"filename": "miner-walk/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 284,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 9,
+						"w": 265,
+						"h": 248
+					},
+					"frame": {
+						"x": 3706,
+						"y": 2762,
+						"w": 265,
+						"h": 248
+					}
+				},
+				{
+					"filename": "slobodan-damage/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 334,
+						"h": 267
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 2,
+						"w": 229,
+						"h": 265
+					},
+					"frame": {
+						"x": 3971,
+						"y": 2788,
+						"w": 229,
+						"h": 265
+					}
+				},
+				{
+					"filename": "slobodan-punch-1/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 370,
+						"h": 273
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 9,
+						"w": 229,
+						"h": 257
+					},
+					"frame": {
+						"x": 3971,
+						"y": 3053,
+						"w": 229,
+						"h": 257
+					}
+				},
+				{
+					"filename": "dizel-throw/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 374,
+						"h": 283
+					},
+					"spriteSourceSize": {
+						"x": 69,
+						"y": 11,
+						"w": 264,
+						"h": 259
+					},
+					"frame": {
+						"x": 1481,
+						"y": 1401,
+						"w": 264,
+						"h": 259
+					}
+				},
+				{
+					"filename": "slobodan-damage/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 334,
+						"h": 267
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 13,
+						"w": 264,
+						"h": 253
+					},
+					"frame": {
+						"x": 1150,
+						"y": 1417,
+						"w": 264,
+						"h": 253
+					}
+				},
+				{
+					"filename": "miner-melee/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 342,
+						"h": 436
+					},
+					"spriteSourceSize": {
+						"x": 48,
+						"y": 127,
+						"w": 260,
+						"h": 225
+					},
+					"frame": {
+						"x": 822,
+						"y": 1477,
+						"w": 260,
+						"h": 225
+					}
+				},
+				{
+					"filename": "dizelcic-dying/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 354,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 64,
+						"w": 260,
+						"h": 198
+					},
+					"frame": {
+						"x": 1414,
+						"y": 1660,
+						"w": 260,
+						"h": 198
+					}
+				},
+				{
+					"filename": "slobodan-run/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 335,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 92,
+						"y": 0,
+						"w": 151,
+						"h": 261
+					},
+					"frame": {
+						"x": 1674,
+						"y": 1660,
+						"w": 151,
+						"h": 261
+					}
+				},
+				{
+					"filename": "dizel-walk/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 274
+					},
+					"spriteSourceSize": {
+						"x": 23,
+						"y": 0,
+						"w": 259,
+						"h": 271
+					},
+					"frame": {
+						"x": 1825,
+						"y": 1749,
+						"w": 259,
+						"h": 271
+					}
+				},
+				{
+					"filename": "miner-dying/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 435,
+						"h": 346
+					},
+					"spriteSourceSize": {
+						"x": 90,
+						"y": 47,
+						"w": 258,
+						"h": 252
+					},
+					"frame": {
+						"x": 2084,
+						"y": 1894,
+						"w": 258,
+						"h": 252
+					}
+				},
+				{
+					"filename": "slobodan-jump/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 277,
+						"h": 377
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 90,
+						"w": 258,
+						"h": 240
+					},
+					"frame": {
+						"x": 2342,
+						"y": 2087,
+						"w": 258,
+						"h": 240
+					}
+				},
+				{
+					"filename": "miner-knockdown-get-up/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 334,
+						"h": 322
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 61,
+						"w": 244,
+						"h": 204
+					},
+					"frame": {
+						"x": 2600,
+						"y": 2099,
+						"w": 244,
+						"h": 204
+					}
+				},
+				{
+					"filename": "dizel-knockdown-get-up/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 479,
+						"h": 299
+					},
+					"spriteSourceSize": {
+						"x": 64,
+						"y": 14,
+						"w": 202,
+						"h": 266
+					},
+					"frame": {
+						"x": 2844,
+						"y": 2213,
+						"w": 202,
+						"h": 266
+					}
+				},
+				{
+					"filename": "dizel-punch-1/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 357,
+						"h": 281
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 11,
+						"w": 243,
+						"h": 258
+					},
+					"frame": {
+						"x": 2600,
+						"y": 2321,
+						"w": 243,
+						"h": 258
+					}
+				},
+				{
+					"filename": "dizel-walk/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 274
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 0,
+						"w": 257,
+						"h": 265
+					},
+					"frame": {
+						"x": 3046,
+						"y": 2321,
+						"w": 257,
+						"h": 265
+					}
+				},
+				{
+					"filename": "miner-melee/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 342,
+						"h": 436
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 0,
+						"w": 203,
+						"h": 344
+					},
+					"frame": {
+						"x": 2843,
+						"y": 2561,
+						"w": 203,
+						"h": 344
+					}
+				},
+				{
+					"filename": "dizelcic-walk/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 135,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 9,
+						"w": 128,
+						"h": 255
+					},
+					"frame": {
+						"x": 3303,
+						"y": 2561,
+						"w": 128,
+						"h": 255
+					}
+				},
+				{
+					"filename": "miner-melee/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 342,
+						"h": 436
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 92,
+						"w": 257,
+						"h": 252
+					},
+					"frame": {
+						"x": 3046,
+						"y": 2586,
+						"w": 257,
+						"h": 252
+					}
+				},
+				{
+					"filename": "miner-melee/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 342,
+						"h": 436
+					},
+					"spriteSourceSize": {
+						"x": 46,
+						"y": 118,
+						"w": 257,
+						"h": 226
+					},
+					"frame": {
+						"x": 3431,
+						"y": 2788,
+						"w": 257,
+						"h": 226
+					}
+				},
+				{
+					"filename": "dizelcic-walk/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 135,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 7,
+						"w": 127,
+						"h": 256
+					},
+					"frame": {
+						"x": 3303,
+						"y": 2816,
+						"w": 127,
+						"h": 256
+					}
+				},
+				{
+					"filename": "dizel-punch-1/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 357,
+						"h": 281
+					},
+					"spriteSourceSize": {
+						"x": 58,
+						"y": 11,
+						"w": 256,
+						"h": 258
+					},
+					"frame": {
+						"x": 3046,
+						"y": 2838,
+						"w": 256,
+						"h": 258
+					}
+				},
+				{
+					"filename": "dizel-knockdown-get-up/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 479,
+						"h": 299
+					},
+					"spriteSourceSize": {
+						"x": 169,
+						"y": 123,
+						"w": 255,
+						"h": 174
+					},
+					"frame": {
+						"x": 3688,
+						"y": 3010,
+						"w": 255,
+						"h": 174
+					}
+				},
+				{
+					"filename": "slobodan-punch-2/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 440,
+						"h": 406
+					},
+					"spriteSourceSize": {
+						"x": 90,
+						"y": 90,
+						"w": 252,
+						"h": 244
+					},
+					"frame": {
+						"x": 3430,
+						"y": 3014,
+						"w": 252,
+						"h": 244
+					}
+				},
+				{
+					"filename": "miner-walk/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 284,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 7,
+						"w": 251,
+						"h": 252
+					},
+					"frame": {
+						"x": 3430,
+						"y": 3258,
+						"w": 251,
+						"h": 252
+					}
+				},
+				{
+					"filename": "dizel-damage/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 269,
+						"h": 289
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 17,
+						"w": 250,
+						"h": 256
+					},
+					"frame": {
+						"x": 3682,
+						"y": 3184,
+						"w": 250,
+						"h": 256
+					}
+				},
+				{
+					"filename": "slobodan-punch-1/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 370,
+						"h": 273
+					},
+					"spriteSourceSize": {
+						"x": 26,
+						"y": 12,
+						"w": 249,
+						"h": 254
+					},
+					"frame": {
+						"x": 3932,
+						"y": 3310,
+						"w": 249,
+						"h": 254
+					}
+				},
+				{
+					"filename": "dizel-punch-1/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 357,
+						"h": 281
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 23,
+						"w": 249,
+						"h": 247
+					},
+					"frame": {
+						"x": 3681,
+						"y": 3440,
+						"w": 249,
+						"h": 247
+					}
+				},
+				{
+					"filename": "slobodan-damage/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 334,
+						"h": 267
+					},
+					"spriteSourceSize": {
+						"x": 43,
+						"y": 7,
+						"w": 248,
+						"h": 260
+					},
+					"frame": {
+						"x": 3930,
+						"y": 3564,
+						"w": 248,
+						"h": 260
+					}
+				},
+				{
+					"filename": "slobodan-knockdown-get-up/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 339
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 161,
+						"w": 248,
+						"h": 146
+					},
+					"frame": {
+						"x": 3681,
+						"y": 3687,
+						"w": 248,
+						"h": 146
+					}
+				},
+				{
+					"filename": "slobodan-punch-1/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 370,
+						"h": 273
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 10,
+						"w": 247,
+						"h": 256
+					},
+					"frame": {
+						"x": 3929,
+						"y": 3824,
+						"w": 247,
+						"h": 256
+					}
+				},
+				{
+					"filename": "slobodan-special-attack/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 420,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 132,
+						"y": 0,
+						"w": 178,
+						"h": 340
+					},
+					"frame": {
+						"x": 0,
+						"y": 3833,
+						"w": 178,
+						"h": 340
+					}
+				},
+				{
+					"filename": "slobodan-special-attack/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 420,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 136,
+						"y": 33,
+						"w": 156,
+						"h": 307
+					},
+					"frame": {
+						"x": 0,
+						"y": 3510,
+						"w": 156,
+						"h": 307
+					}
+				},
+				{
+					"filename": "slobodan-special-attack/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 420,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 137,
+						"y": 0,
+						"w": 168,
+						"h": 340
+					},
+					"frame": {
+						"x": 178,
+						"y": 3833,
+						"w": 168,
+						"h": 340
+					}
+				},
+				{
+					"filename": "dizel-dying/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 371,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 1,
+						"w": 216,
+						"h": 293
+					},
+					"frame": {
+						"x": 156,
+						"y": 3510,
+						"w": 216,
+						"h": 293
+					}
+				},
+				{
+					"filename": "slobodan-jump/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 277,
+						"h": 377
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 0,
+						"w": 234,
+						"h": 324
+					},
+					"frame": {
+						"x": 346,
+						"y": 3833,
+						"w": 234,
+						"h": 324
+					}
+				},
+				{
+					"filename": "mup-punch-1/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 345,
+						"h": 320
+					},
+					"spriteSourceSize": {
+						"x": 82,
+						"y": 1,
+						"w": 193,
+						"h": 289
+					},
+					"frame": {
+						"x": 372,
+						"y": 3510,
+						"w": 193,
+						"h": 289
+					}
+				},
+				{
+					"filename": "dizel-knockdown-get-up/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 479,
+						"h": 299
+					},
+					"spriteSourceSize": {
+						"x": 263,
+						"y": 11,
+						"w": 216,
+						"h": 288
+					},
+					"frame": {
+						"x": 565,
+						"y": 3510,
+						"w": 216,
+						"h": 288
+					}
+				},
+				{
+					"filename": "dizelcic-dying/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 354,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 78,
+						"y": 35,
+						"w": 242,
+						"h": 227
+					},
+					"frame": {
+						"x": 1082,
+						"y": 1670,
+						"w": 242,
+						"h": 227
+					}
+				},
+				{
+					"filename": "dizel-run/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 344,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 4,
+						"w": 241,
+						"h": 256
+					},
+					"frame": {
+						"x": 821,
+						"y": 1702,
+						"w": 241,
+						"h": 256
+					}
+				},
+				{
+					"filename": "slobodan-damage/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 334,
+						"h": 267
+					},
+					"spriteSourceSize": {
+						"x": 87,
+						"y": 0,
+						"w": 168,
+						"h": 266
+					},
+					"frame": {
+						"x": 652,
+						"y": 1893,
+						"w": 168,
+						"h": 266
+					}
+				},
+				{
+					"filename": "dizel-run/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 344,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 5,
+						"w": 241,
+						"h": 253
+					},
+					"frame": {
+						"x": 326,
+						"y": 1958,
+						"w": 241,
+						"h": 253
+					}
+				},
+				{
+					"filename": "dizel-punch-1/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 357,
+						"h": 281
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 18,
+						"w": 241,
+						"h": 252
+					},
+					"frame": {
+						"x": 0,
+						"y": 2159,
+						"w": 241,
+						"h": 252
+					}
+				},
+				{
+					"filename": "dizelcic-knockdown-get-up/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 226,
+						"h": 275
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 143,
+						"w": 170,
+						"h": 132
+					},
+					"frame": {
+						"x": 0,
+						"y": 2011,
+						"w": 170,
+						"h": 132
+					}
+				},
+				{
+					"filename": "dizel-damage/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 269,
+						"h": 289
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 1,
+						"w": 199,
+						"h": 272
+					},
+					"frame": {
+						"x": 580,
+						"y": 3833,
+						"w": 199,
+						"h": 272
+					}
+				},
+				{
+					"filename": "dizel-damage/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 269,
+						"h": 289
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 3,
+						"w": 203,
+						"h": 270
+					},
+					"frame": {
+						"x": 779,
+						"y": 3833,
+						"w": 203,
+						"h": 270
+					}
+				},
+				{
+					"filename": "dizel-throw/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 374,
+						"h": 283
+					},
+					"spriteSourceSize": {
+						"x": 69,
+						"y": 0,
+						"w": 200,
+						"h": 270
+					},
+					"frame": {
+						"x": 781,
+						"y": 3510,
+						"w": 200,
+						"h": 270
+					}
+				},
+				{
+					"filename": "dizel-throw/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 374,
+						"h": 283
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 2,
+						"w": 206,
+						"h": 268
+					},
+					"frame": {
+						"x": 981,
+						"y": 3510,
+						"w": 206,
+						"h": 268
+					}
+				},
+				{
+					"filename": "dizel-walk/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 274
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 3,
+						"w": 231,
+						"h": 266
+					},
+					"frame": {
+						"x": 982,
+						"y": 3833,
+						"w": 231,
+						"h": 266
+					}
+				},
+				{
+					"filename": "slobodan-walk/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 239,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 6,
+						"w": 217,
+						"h": 266
+					},
+					"frame": {
+						"x": 1187,
+						"y": 3510,
+						"w": 217,
+						"h": 266
+					}
+				},
+				{
+					"filename": "dizel-punch-1/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 357,
+						"h": 281
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 20,
+						"w": 241,
+						"h": 250
+					},
+					"frame": {
+						"x": 1404,
+						"y": 1897,
+						"w": 241,
+						"h": 250
+					}
+				},
+				{
+					"filename": "mup-damage/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 341,
+						"h": 262
+					},
+					"spriteSourceSize": {
+						"x": 85,
+						"y": 0,
+						"w": 179,
+						"h": 261
+					},
+					"frame": {
+						"x": 1645,
+						"y": 1921,
+						"w": 179,
+						"h": 261
+					}
+				},
+				{
+					"filename": "dizel-punch-1/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 357,
+						"h": 281
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 20,
+						"w": 241,
+						"h": 250
+					},
+					"frame": {
+						"x": 1404,
+						"y": 2147,
+						"w": 241,
+						"h": 250
+					}
+				},
+				{
+					"filename": "miner-walk/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 284,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 12,
+						"w": 241,
+						"h": 247
+					},
+					"frame": {
+						"x": 1824,
+						"y": 2020,
+						"w": 241,
+						"h": 247
+					}
+				},
+				{
+					"filename": "mup-idle/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 210,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 2,
+						"w": 179,
+						"h": 260
+					},
+					"frame": {
+						"x": 1645,
+						"y": 2182,
+						"w": 179,
+						"h": 260
+					}
+				},
+				{
+					"filename": "dizel-knockdown-get-up/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 479,
+						"h": 299
+					},
+					"spriteSourceSize": {
+						"x": 120,
+						"y": 19,
+						"w": 239,
+						"h": 261
+					},
+					"frame": {
+						"x": 1404,
+						"y": 2397,
+						"w": 239,
+						"h": 261
+					}
+				},
+				{
+					"filename": "dizel-damage/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 269,
+						"h": 289
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 30,
+						"w": 239,
+						"h": 243
+					},
+					"frame": {
+						"x": 2065,
+						"y": 2146,
+						"w": 239,
+						"h": 243
+					}
+				},
+				{
+					"filename": "dizel-walk/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 274
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 8,
+						"w": 238,
+						"h": 259
+					},
+					"frame": {
+						"x": 1824,
+						"y": 2267,
+						"w": 238,
+						"h": 259
+					}
+				},
+				{
+					"filename": "dizelcic-knockdown-get-up/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 226,
+						"h": 275
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 6,
+						"w": 181,
+						"h": 261
+					},
+					"frame": {
+						"x": 1643,
+						"y": 2442,
+						"w": 181,
+						"h": 261
+					}
+				},
+				{
+					"filename": "mup-idle/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 210,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 3,
+						"w": 181,
+						"h": 259
+					},
+					"frame": {
+						"x": 1643,
+						"y": 2703,
+						"w": 181,
+						"h": 259
+					}
+				},
+				{
+					"filename": "dizel-throw/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 374,
+						"h": 283
+					},
+					"spriteSourceSize": {
+						"x": 70,
+						"y": 13,
+						"w": 238,
+						"h": 257
+					},
+					"frame": {
+						"x": 1404,
+						"y": 2658,
+						"w": 238,
+						"h": 257
+					}
+				},
+				{
+					"filename": "dizel-walk/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 274
+					},
+					"spriteSourceSize": {
+						"x": 17,
+						"y": 0,
+						"w": 237,
+						"h": 265
+					},
+					"frame": {
+						"x": 1404,
+						"y": 2915,
+						"w": 237,
+						"h": 265
+					}
+				},
+				{
+					"filename": "dizel-walk/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 274
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 7,
+						"w": 237,
+						"h": 260
+					},
+					"frame": {
+						"x": 1404,
+						"y": 3180,
+						"w": 237,
+						"h": 260
+					}
+				},
+				{
+					"filename": "mup-knockdown-get-up/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 269,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 32,
+						"w": 236,
+						"h": 229
+					},
+					"frame": {
+						"x": 1404,
+						"y": 3440,
+						"w": 236,
+						"h": 229
+					}
+				},
+				{
+					"filename": "dizel-dying/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 371,
+						"h": 338
+					},
+					"spriteSourceSize": {
+						"x": 68,
+						"y": 37,
+						"w": 235,
+						"h": 262
+					},
+					"frame": {
+						"x": 2304,
+						"y": 2327,
+						"w": 235,
+						"h": 262
+					}
+				},
+				{
+					"filename": "miner-walk/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 284,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 4,
+						"w": 235,
+						"h": 254
+					},
+					"frame": {
+						"x": 2062,
+						"y": 2389,
+						"w": 235,
+						"h": 254
+					}
+				},
+				{
+					"filename": "slobodan-damage/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 334,
+						"h": 267
+					},
+					"spriteSourceSize": {
+						"x": 56,
+						"y": 37,
+						"w": 235,
+						"h": 230
+					},
+					"frame": {
+						"x": 1824,
+						"y": 2526,
+						"w": 235,
+						"h": 230
+					}
+				},
+				{
+					"filename": "slobodan-damage/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 334,
+						"h": 267
+					},
+					"spriteSourceSize": {
+						"x": 57,
+						"y": 7,
+						"w": 234,
+						"h": 260
+					},
+					"frame": {
+						"x": 2539,
+						"y": 2579,
+						"w": 234,
+						"h": 260
+					}
+				},
+				{
+					"filename": "dizel-run/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 344,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 53,
+						"y": 4,
+						"w": 232,
+						"h": 256
+					},
+					"frame": {
+						"x": 2297,
+						"y": 2589,
+						"w": 232,
+						"h": 256
+					}
+				},
+				{
+					"filename": "mup-knockdown-get-up/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 269,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 97,
+						"w": 230,
+						"h": 161
+					},
+					"frame": {
+						"x": 2059,
+						"y": 2643,
+						"w": 230,
+						"h": 161
+					}
+				},
+				{
+					"filename": "dizel-walk/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 274
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 6,
+						"w": 228,
+						"h": 262
+					},
+					"frame": {
+						"x": 1824,
+						"y": 2756,
+						"w": 228,
+						"h": 262
+					}
+				},
+				{
+					"filename": "mup-knockdown-get-up/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 269,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 61,
+						"y": 13,
+						"w": 182,
+						"h": 250
+					},
+					"frame": {
+						"x": 1641,
+						"y": 2962,
+						"w": 182,
+						"h": 250
+					}
+				},
+				{
+					"filename": "mup-idle/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 210,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 3,
+						"w": 179,
+						"h": 259
+					},
+					"frame": {
+						"x": 1641,
+						"y": 3212,
+						"w": 179,
+						"h": 259
+					}
+				},
+				{
+					"filename": "dizel-walk/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 283,
+						"h": 274
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 8,
+						"w": 227,
+						"h": 262
+					},
+					"frame": {
+						"x": 2052,
+						"y": 2804,
+						"w": 227,
+						"h": 262
+					}
+				},
+				{
+					"filename": "dizel-knockdown-get-up/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 479,
+						"h": 299
+					},
+					"spriteSourceSize": {
+						"x": 152,
+						"y": 40,
+						"w": 227,
+						"h": 240
+					},
+					"frame": {
+						"x": 1823,
+						"y": 3018,
+						"w": 227,
+						"h": 240
+					}
+				},
+				{
+					"filename": "dizel-damage/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 269,
+						"h": 289
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 28,
+						"w": 221,
+						"h": 243
+					},
+					"frame": {
+						"x": 2529,
+						"y": 2839,
+						"w": 221,
+						"h": 243
+					}
+				},
+				{
+					"filename": "miner-knockdown-get-up/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 334,
+						"h": 322
+					},
+					"spriteSourceSize": {
+						"x": 37,
+						"y": 0,
+						"w": 218,
+						"h": 265
+					},
+					"frame": {
+						"x": 2279,
+						"y": 2905,
+						"w": 218,
+						"h": 265
+					}
+				},
+				{
+					"filename": "slobodan-punch-1/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 370,
+						"h": 273
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 13,
+						"w": 218,
+						"h": 252
+					},
+					"frame": {
+						"x": 2050,
+						"y": 3066,
+						"w": 218,
+						"h": 252
+					}
+				},
+				{
+					"filename": "mup-knockdown-get-up/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 269,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 45,
+						"y": 79,
+						"w": 214,
+						"h": 174
+					},
+					"frame": {
+						"x": 1820,
+						"y": 3258,
+						"w": 214,
+						"h": 174
+					}
+				},
+				{
+					"filename": "slobodan-punch-1/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 370,
+						"h": 273
+					},
+					"spriteSourceSize": {
+						"x": 44,
+						"y": 10,
+						"w": 213,
+						"h": 256
+					},
+					"frame": {
+						"x": 1820,
+						"y": 3432,
+						"w": 213,
+						"h": 256
+					}
+				},
+				{
+					"filename": "mup-idle/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 210,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 18,
+						"y": 2,
+						"w": 178,
+						"h": 260
+					},
+					"frame": {
+						"x": 1640,
+						"y": 3510,
+						"w": 178,
+						"h": 260
+					}
+				},
+				{
+					"filename": "miner-knockdown-get-up/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 334,
+						"h": 322
+					},
+					"spriteSourceSize": {
+						"x": 61,
+						"y": 24,
+						"w": 212,
+						"h": 241
+					},
+					"frame": {
+						"x": 1404,
+						"y": 3669,
+						"w": 212,
+						"h": 241
+					}
+				},
+				{
+					"filename": "mup-idle/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 210,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 189,
+						"h": 260
+					},
+					"frame": {
+						"x": 1213,
+						"y": 3776,
+						"w": 189,
+						"h": 260
+					}
+				},
+				{
+					"filename": "dizel-throw/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 374,
+						"h": 283
+					},
+					"spriteSourceSize": {
+						"x": 69,
+						"y": 4,
+						"w": 204,
+						"h": 266
+					},
+					"frame": {
+						"x": 1402,
+						"y": 3910,
+						"w": 204,
+						"h": 266
+					}
+				},
+				{
+					"filename": "dizel-throw/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 374,
+						"h": 283
+					},
+					"spriteSourceSize": {
+						"x": 69,
+						"y": 4,
+						"w": 200,
+						"h": 266
+					},
+					"frame": {
+						"x": 1606,
+						"y": 3910,
+						"w": 200,
+						"h": 266
+					}
+				},
+				{
+					"filename": "dizelcic-knockdown-get-up/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 226,
+						"h": 275
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 146,
+						"w": 199,
+						"h": 129
+					},
+					"frame": {
+						"x": 1616,
+						"y": 3770,
+						"w": 199,
+						"h": 129
+					}
+				},
+				{
+					"filename": "slobodan-walk/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 239,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 6,
+						"w": 199,
+						"h": 264
+					},
+					"frame": {
+						"x": 1806,
+						"y": 3899,
+						"w": 199,
+						"h": 264
+					}
+				},
+				{
+					"filename": "mup-knockdown-get-up/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 269,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 71,
+						"w": 201,
+						"h": 193
+					},
+					"frame": {
+						"x": 1818,
+						"y": 3688,
+						"w": 201,
+						"h": 193
+					}
+				},
+				{
+					"filename": "slobodan-walk/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 239,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 202,
+						"h": 263
+					},
+					"frame": {
+						"x": 2005,
+						"y": 3881,
+						"w": 202,
+						"h": 263
+					}
+				},
+				{
+					"filename": "slobodan-dying/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 400,
+						"h": 335
+					},
+					"spriteSourceSize": {
+						"x": 119,
+						"y": 33,
+						"w": 168,
+						"h": 263
+					},
+					"frame": {
+						"x": 2207,
+						"y": 3881,
+						"w": 168,
+						"h": 263
+					}
+				},
+				{
+					"filename": "dizel-run/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 344,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 78,
+						"y": 3,
+						"w": 211,
+						"h": 250
+					},
+					"frame": {
+						"x": 2750,
+						"y": 2905,
+						"w": 211,
+						"h": 250
+					}
+				},
+				{
+					"filename": "slobodan-run/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 335,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 6,
+						"w": 208,
+						"h": 255
+					},
+					"frame": {
+						"x": 2497,
+						"y": 3082,
+						"w": 208,
+						"h": 255
+					}
+				},
+				{
+					"filename": "dizel-knockdown-get-up/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 479,
+						"h": 299
+					},
+					"spriteSourceSize": {
+						"x": 131,
+						"y": 19,
+						"w": 205,
+						"h": 261
+					},
+					"frame": {
+						"x": 2268,
+						"y": 3170,
+						"w": 205,
+						"h": 261
+					}
+				},
+				{
+					"filename": "slobodan-damage/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 334,
+						"h": 267
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 16,
+						"w": 205,
+						"h": 250
+					},
+					"frame": {
+						"x": 2034,
+						"y": 3318,
+						"w": 205,
+						"h": 250
+					}
+				},
+				{
+					"filename": "slobodan-walk/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 239,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 7,
+						"w": 202,
+						"h": 262
+					},
+					"frame": {
+						"x": 2033,
+						"y": 3568,
+						"w": 202,
+						"h": 262
+					}
+				},
+				{
+					"filename": "slobodan-walk/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 239,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 7,
+						"w": 184,
+						"h": 262
+					},
+					"frame": {
+						"x": 2235,
+						"y": 3568,
+						"w": 184,
+						"h": 262
+					}
+				},
+				{
+					"filename": "slobodan-walk/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 239,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 7,
+						"w": 172,
+						"h": 262
+					},
+					"frame": {
+						"x": 2375,
+						"y": 3833,
+						"w": 172,
+						"h": 262
+					}
+				},
+				{
+					"filename": "slobodan-special-attack/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 420,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 129,
+						"y": 99,
+						"w": 171,
+						"h": 262
+					},
+					"frame": {
+						"x": 2419,
+						"y": 3510,
+						"w": 171,
+						"h": 262
+					}
+				},
+				{
+					"filename": "slobodan-walk/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 239,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 39,
+						"y": 7,
+						"w": 155,
+						"h": 261
+					},
+					"frame": {
+						"x": 2547,
+						"y": 3833,
+						"w": 155,
+						"h": 261
+					}
+				},
+				{
+					"filename": "slobodan-damage/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 334,
+						"h": 267
+					},
+					"spriteSourceSize": {
+						"x": 90,
+						"y": 2,
+						"w": 154,
+						"h": 261
+					},
+					"frame": {
+						"x": 2590,
+						"y": 3510,
+						"w": 154,
+						"h": 261
+					}
+				},
+				{
+					"filename": "slobodan-knockdown-get-up/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 339
+					},
+					"spriteSourceSize": {
+						"x": 91,
+						"y": 39,
+						"w": 154,
+						"h": 261
+					},
+					"frame": {
+						"x": 2705,
+						"y": 3155,
+						"w": 154,
+						"h": 261
+					}
+				},
+				{
+					"filename": "slobodan-walk/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 239,
+						"h": 272
+					},
+					"spriteSourceSize": {
+						"x": 21,
+						"y": 8,
+						"w": 201,
+						"h": 260
+					},
+					"frame": {
+						"x": 2859,
+						"y": 3155,
+						"w": 201,
+						"h": 260
+					}
+				},
+				{
+					"filename": "mup-idle/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 210,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 192,
+						"h": 260
+					},
+					"frame": {
+						"x": 3060,
+						"y": 3155,
+						"w": 192,
+						"h": 260
+					}
+				},
+				{
+					"filename": "mup-idle/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 210,
+						"h": 265
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 3,
+						"w": 178,
+						"h": 259
+					},
+					"frame": {
+						"x": 3252,
+						"y": 3155,
+						"w": 178,
+						"h": 259
+					}
+				},
+				{
+					"filename": "mup-walk/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 191,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 3,
+						"w": 178,
+						"h": 258
+					},
+					"frame": {
+						"x": 3252,
+						"y": 3414,
+						"w": 178,
+						"h": 258
+					}
+				},
+				{
+					"filename": "dizelcic-dying/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 354,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 12,
+						"w": 178,
+						"h": 255
+					},
+					"frame": {
+						"x": 3252,
+						"y": 3672,
+						"w": 178,
+						"h": 255
+					}
+				},
+				{
+					"filename": "slobodan-punch-2/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 440,
+						"h": 406
+					},
+					"spriteSourceSize": {
+						"x": 139,
+						"y": 81,
+						"w": 176,
+						"h": 250
+					},
+					"frame": {
+						"x": 3252,
+						"y": 3927,
+						"w": 176,
+						"h": 250
+					}
+				},
+				{
+					"filename": "mup-walk/frame_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 191,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 0,
+						"w": 168,
+						"h": 260
+					},
+					"frame": {
+						"x": 3428,
+						"y": 3927,
+						"w": 168,
+						"h": 260
+					}
+				},
+				{
+					"filename": "mup-knockdown-get-up/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 269,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 2,
+						"w": 167,
+						"h": 260
+					},
+					"frame": {
+						"x": 3596,
+						"y": 3927,
+						"w": 167,
+						"h": 260
+					}
+				},
+				{
+					"filename": "mup-dying/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 390,
+						"h": 394
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 67,
+						"w": 166,
+						"h": 260
+					},
+					"frame": {
+						"x": 3763,
+						"y": 3833,
+						"w": 166,
+						"h": 260
+					}
+				},
+				{
+					"filename": "dizel-run/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 344,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 69,
+						"y": 8,
+						"w": 202,
+						"h": 252
+					},
+					"frame": {
+						"x": 3430,
+						"y": 3510,
+						"w": 202,
+						"h": 252
+					}
+				},
+				{
+					"filename": "dizel-run/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 344,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 72,
+						"y": 2,
+						"w": 202,
+						"h": 251
+					},
+					"frame": {
+						"x": 1062,
+						"y": 1897,
+						"w": 202,
+						"h": 251
+					}
+				},
+				{
+					"filename": "mup-punch-2/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 264,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 64,
+						"y": 20,
+						"w": 200,
+						"h": 237
+					},
+					"frame": {
+						"x": 820,
+						"y": 1958,
+						"w": 200,
+						"h": 237
+					}
+				},
+				{
+					"filename": "dizel-run/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 344,
+						"h": 260
+					},
+					"spriteSourceSize": {
+						"x": 72,
+						"y": 8,
+						"w": 199,
+						"h": 252
+					},
+					"frame": {
+						"x": 820,
+						"y": 2195,
+						"w": 199,
+						"h": 252
+					}
+				},
+				{
+					"filename": "miner-knockdown-get-up/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 334,
+						"h": 322
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 32,
+						"w": 196,
+						"h": 231
+					},
+					"frame": {
+						"x": 567,
+						"y": 2159,
+						"w": 196,
+						"h": 231
+					}
+				},
+				{
+					"filename": "mup-punch-1/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 345,
+						"h": 320
+					},
+					"spriteSourceSize": {
+						"x": 74,
+						"y": 32,
+						"w": 193,
+						"h": 258
+					},
+					"frame": {
+						"x": 567,
+						"y": 2390,
+						"w": 193,
+						"h": 258
+					}
+				},
+				{
+					"filename": "mup-damage/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 341,
+						"h": 262
+					},
+					"spriteSourceSize": {
+						"x": 74,
+						"y": 9,
+						"w": 193,
+						"h": 252
+					},
+					"frame": {
+						"x": 241,
+						"y": 2211,
+						"w": 193,
+						"h": 252
+					}
+				},
+				{
+					"filename": "mup-walk/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 191,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 2,
+						"w": 185,
+						"h": 259
+					},
+					"frame": {
+						"x": 0,
+						"y": 2411,
+						"w": 185,
+						"h": 259
+					}
+				},
+				{
+					"filename": "mup-punch-1/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 345,
+						"h": 320
+					},
+					"spriteSourceSize": {
+						"x": 90,
+						"y": 30,
+						"w": 164,
+						"h": 260
+					},
+					"frame": {
+						"x": 2702,
+						"y": 3771,
+						"w": 164,
+						"h": 260
+					}
+				},
+				{
+					"filename": "slobodan-jump/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 277,
+						"h": 377
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 59,
+						"w": 153,
+						"h": 260
+					},
+					"frame": {
+						"x": 2744,
+						"y": 3416,
+						"w": 153,
+						"h": 260
+					}
+				},
+				{
+					"filename": "mup-walk/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 191,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 4,
+						"w": 185,
+						"h": 257
+					},
+					"frame": {
+						"x": 2897,
+						"y": 3415,
+						"w": 185,
+						"h": 257
+					}
+				},
+				{
+					"filename": "mup-knockdown-get-up/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 269,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 54,
+						"y": 5,
+						"w": 168,
+						"h": 258
+					},
+					"frame": {
+						"x": 3082,
+						"y": 3415,
+						"w": 168,
+						"h": 258
+					}
+				},
+				{
+					"filename": "mup-knockdown-get-up/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 269,
+						"h": 279
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 15,
+						"w": 168,
+						"h": 245
+					},
+					"frame": {
+						"x": 3082,
+						"y": 3673,
+						"w": 168,
+						"h": 245
+					}
+				},
+				{
+					"filename": "mup-punch-2/frame_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 264,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 67,
+						"y": 19,
+						"w": 168,
+						"h": 238
+					},
+					"frame": {
+						"x": 3082,
+						"y": 3918,
+						"w": 168,
+						"h": 238
+					}
+				},
+				{
+					"filename": "mup-walk/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 191,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 0,
+						"w": 171,
+						"h": 257
+					},
+					"frame": {
+						"x": 2897,
+						"y": 3672,
+						"w": 171,
+						"h": 257
+					}
+				},
+				{
+					"filename": "slobodan-special-attack/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 420,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 135,
+						"y": 80,
+						"w": 150,
+						"h": 260
+					},
+					"frame": {
+						"x": 2866,
+						"y": 3929,
+						"w": 150,
+						"h": 260
+					}
+				},
+				{
+					"filename": "dizelcic-dying/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 354,
+						"h": 280
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 12,
+						"w": 171,
+						"h": 256
+					},
+					"frame": {
+						"x": 185,
+						"y": 2463,
+						"w": 171,
+						"h": 256
+					}
+				},
+				{
+					"filename": "mup-punch-2/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 264,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 1,
+						"w": 166,
+						"h": 256
+					},
+					"frame": {
+						"x": 0,
+						"y": 2670,
+						"w": 166,
+						"h": 256
+					}
+				},
+				{
+					"filename": "mup-punch-2/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 264,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 1,
+						"w": 166,
+						"h": 256
+					},
+					"frame": {
+						"x": 356,
+						"y": 2463,
+						"w": 166,
+						"h": 256
+					}
+				},
+				{
+					"filename": "mup-punch-1/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 345,
+						"h": 320
+					},
+					"spriteSourceSize": {
+						"x": 98,
+						"y": 32,
+						"w": 165,
+						"h": 258
+					},
+					"frame": {
+						"x": 1020,
+						"y": 2148,
+						"w": 165,
+						"h": 258
+					}
+				},
+				{
+					"filename": "mup-walk/frame_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 191,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 4,
+						"w": 165,
+						"h": 255
+					},
+					"frame": {
+						"x": 1185,
+						"y": 2148,
+						"w": 165,
+						"h": 255
+					}
+				},
+				{
+					"filename": "mup-walk/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 191,
+						"h": 261
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 3,
+						"w": 165,
+						"h": 255
+					},
+					"frame": {
+						"x": 1185,
+						"y": 2403,
+						"w": 165,
+						"h": 255
+					}
+				},
+				{
+					"filename": "dizelcic-punch-1/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 223,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 61,
+						"y": 7,
+						"w": 162,
+						"h": 251
+					},
+					"frame": {
+						"x": 1019,
+						"y": 2406,
+						"w": 162,
+						"h": 251
+					}
+				},
+				{
+					"filename": "slobodan-special-attack/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 420,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 136,
+						"y": 84,
+						"w": 161,
+						"h": 256
+					},
+					"frame": {
+						"x": 1019,
+						"y": 2657,
+						"w": 161,
+						"h": 256
+					}
+				},
+				{
+					"filename": "mup-punch-2/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 264,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 63,
+						"y": 16,
+						"w": 161,
+						"h": 241
+					},
+					"frame": {
+						"x": 1180,
+						"y": 2658,
+						"w": 161,
+						"h": 241
+					}
+				},
+				{
+					"filename": "mup-punch-2/frame_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 264,
+						"h": 258
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 19,
+						"w": 160,
+						"h": 238
+					},
+					"frame": {
+						"x": 1180,
+						"y": 2899,
+						"w": 160,
+						"h": 238
+					}
+				},
+				{
+					"filename": "dizelcic-damage/frame_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 215,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 12,
+						"w": 157,
+						"h": 250
+					},
+					"frame": {
+						"x": 760,
+						"y": 2447,
+						"w": 157,
+						"h": 250
+					}
+				},
+				{
+					"filename": "slobodan-punch-1/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 370,
+						"h": 273
+					},
+					"spriteSourceSize": {
+						"x": 108,
+						"y": 8,
+						"w": 153,
+						"h": 257
+					},
+					"frame": {
+						"x": 522,
+						"y": 2648,
+						"w": 153,
+						"h": 257
+					}
+				},
+				{
+					"filename": "slobodan-dying/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 400,
+						"h": 335
+					},
+					"spriteSourceSize": {
+						"x": 123,
+						"y": 39,
+						"w": 151,
+						"h": 257
+					},
+					"frame": {
+						"x": 522,
+						"y": 2905,
+						"w": 151,
+						"h": 257
+					}
+				},
+				{
+					"filename": "dizelcic-damage/frame_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 215,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 2,
+						"w": 147,
+						"h": 260
+					},
+					"frame": {
+						"x": 0,
+						"y": 3162,
+						"w": 147,
+						"h": 260
+					}
+				},
+				{
+					"filename": "slobodan-knockdown-get-up/frame_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 339
+					},
+					"spriteSourceSize": {
+						"x": 101,
+						"y": 67,
+						"w": 149,
+						"h": 234
+					},
+					"frame": {
+						"x": 0,
+						"y": 2926,
+						"w": 149,
+						"h": 234
+					}
+				},
+				{
+					"filename": "slobodan-punch-2/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 440,
+						"h": 406
+					},
+					"spriteSourceSize": {
+						"x": 145,
+						"y": 75,
+						"w": 150,
+						"h": 256
+					},
+					"frame": {
+						"x": 147,
+						"y": 3162,
+						"w": 150,
+						"h": 256
+					}
+				},
+				{
+					"filename": "dizelcic-damage/frame_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 215,
+						"h": 264
+					},
+					"spriteSourceSize": {
+						"x": 41,
+						"y": 21,
+						"w": 147,
+						"h": 241
+					},
+					"frame": {
+						"x": 297,
+						"y": 2926,
+						"w": 147,
+						"h": 241
+					}
+				},
+				{
+					"filename": "slobodan-knockdown-get-up/frame_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 336,
+						"h": 339
+					},
+					"spriteSourceSize": {
+						"x": 103,
+						"y": 47,
+						"w": 146,
+						"h": 254
+					},
+					"frame": {
+						"x": 297,
+						"y": 3167,
+						"w": 146,
+						"h": 254
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}
