@@ -1,0 +1,272 @@
+{
+  "resources": [
+    "sfx_atlas.mp3"
+  ],
+  "spritemap": {
+    "audio-intro-raw": {
+      "start": 0,
+      "end": 35.68,
+      "loop": false
+    },
+    "bormageddon-character-menu-soundtrack": {
+      "start": 37,
+      "end": 109.57895691609977,
+      "loop": false
+    },
+    "darko-special-smf": {
+      "start": 111,
+      "end": 114.9090022675737,
+      "loop": false
+    },
+    "forbidden_riff": {
+      "start": 116,
+      "end": 136.8,
+      "loop": false
+    },
+    "forbidden-riff-final": {
+      "start": 138,
+      "end": 144.87,
+      "loop": false
+    },
+    "gun-fire-laser": {
+      "start": 146,
+      "end": 149,
+      "loop": false
+    },
+    "gun-shot-luger": {
+      "start": 150,
+      "end": 151,
+      "loop": false
+    },
+    "gun-shot-m70": {
+      "start": 152,
+      "end": 154,
+      "loop": false
+    },
+    "gun-shot-m70a": {
+      "start": 155,
+      "end": 157,
+      "loop": false
+    },
+    "gun-shot-m70b": {
+      "start": 158,
+      "end": 160,
+      "loop": false
+    },
+    "kick_4": {
+      "start": 161,
+      "end": 165,
+      "loop": false
+    },
+    "Metal-Impact-Pick": {
+      "start": 166,
+      "end": 168,
+      "loop": false
+    },
+    "Metal-Impact-Shield": {
+      "start": 169,
+      "end": 171,
+      "loop": false
+    },
+    "Paper-Shredding": {
+      "start": 172,
+      "end": 173,
+      "loop": false
+    },
+    "sludge-splat-1": {
+      "start": 174,
+      "end": 175.52,
+      "loop": false
+    },
+    "sludge-splat-2": {
+      "start": 177,
+      "end": 180,
+      "loop": false
+    },
+    "throw-f-1": {
+      "start": 181,
+      "end": 181.68,
+      "loop": false
+    },
+    "throw-f-2": {
+      "start": 183,
+      "end": 183.48,
+      "loop": false
+    },
+    "VHS-Glitch-Static-1": {
+      "start": 185,
+      "end": 189,
+      "loop": false
+    },
+    "VHS-Glitch-Static-2": {
+      "start": 190,
+      "end": 191,
+      "loop": false
+    },
+    "agony_f_1": {
+      "start": 192,
+      "end": 194.48,
+      "loop": false
+    },
+    "agony_f_2": {
+      "start": 196,
+      "end": 201,
+      "loop": false
+    },
+    "agony_m_1": {
+      "start": 202,
+      "end": 204,
+      "loop": false
+    },
+    "agony_m_2": {
+      "start": 205,
+      "end": 206.2,
+      "loop": false
+    },
+    "agony_m_3": {
+      "start": 208,
+      "end": 209.2,
+      "loop": false
+    },
+    "agony_m_4": {
+      "start": 211,
+      "end": 212.2,
+      "loop": false
+    },
+    "Break_1": {
+      "start": 214,
+      "end": 218.56,
+      "loop": false
+    },
+    "Break_2": {
+      "start": 220,
+      "end": 221,
+      "loop": false
+    },
+    "Break_3": {
+      "start": 222,
+      "end": 224,
+      "loop": false
+    },
+    "darko_special_1": {
+      "start": 225,
+      "end": 227,
+      "loop": false
+    },
+    "darko_special_2": {
+      "start": 228,
+      "end": 232.08,
+      "loop": false
+    },
+    "dizel_stab_1": {
+      "start": 234,
+      "end": 236,
+      "loop": false
+    },
+    "dizel_stab_2": {
+      "start": 237,
+      "end": 239,
+      "loop": false
+    },
+    "dizel_stab_3": {
+      "start": 240,
+      "end": 241,
+      "loop": false
+    },
+    "Dizelcic-Aerosol_1": {
+      "start": 242,
+      "end": 246,
+      "loop": false
+    },
+    "Dizelcic-Aerosol_2": {
+      "start": 247,
+      "end": 249,
+      "loop": false
+    },
+    "grunt_f_1": {
+      "start": 250,
+      "end": 250.48,
+      "loop": false
+    },
+    "grunt_f_2": {
+      "start": 252,
+      "end": 252.88,
+      "loop": false
+    },
+    "grunt_f_3": {
+      "start": 254,
+      "end": 254.6,
+      "loop": false
+    },
+    "grunt_f_4": {
+      "start": 256,
+      "end": 256.88,
+      "loop": false
+    },
+    "grunt_m_1": {
+      "start": 258,
+      "end": 258.6,
+      "loop": false
+    },
+    "grunt_m_2": {
+      "start": 260,
+      "end": 260.4440816326531,
+      "loop": false
+    },
+    "grunt_m_3": {
+      "start": 262,
+      "end": 262.52244897959184,
+      "loop": false
+    },
+    "grunt_m_4": {
+      "start": 264,
+      "end": 264.6,
+      "loop": false
+    },
+    "kick_1": {
+      "start": 266,
+      "end": 267,
+      "loop": false
+    },
+    "marko_special_1": {
+      "start": 268,
+      "end": 274,
+      "loop": false
+    },
+    "marko_special_2": {
+      "start": 275,
+      "end": 281,
+      "loop": false
+    },
+    "melee_1": {
+      "start": 282,
+      "end": 283,
+      "loop": false
+    },
+    "melee_2": {
+      "start": 284,
+      "end": 285,
+      "loop": false
+    },
+    "punch_2": {
+      "start": 286,
+      "end": 287,
+      "loop": false
+    },
+    "sfx_atlas": {
+      "start": 288,
+      "end": 580,
+      "loop": false
+    },
+    "throw_m_1": {
+      "start": 581,
+      "end": 581.6,
+      "loop": false
+    },
+    "throw_m_2": {
+      "start": 583,
+      "end": 584,
+      "loop": false
+    }
+  }
+}
