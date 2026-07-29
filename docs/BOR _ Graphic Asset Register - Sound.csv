@@ -1,0 +1,55 @@
+Sound,Sound file,Goes with,status,characters,Specific for use with
+Grunt Male 1,grunt_m_1.mp3,Taking damage,TRUE,"marko,darko,miner,mup,slobodan,dizel,dizelcic,chetnik,gestapo1,gestapo2,tito,partizan1,partizan2,algorithm,bia1,bia2,enforcer,hologram,smederevac",
+Grunt Male 2,grunt_m_2.mp3,Taking damage,TRUE,"marko,darko,miner,mup,slobodan,dizel,dizelcic,chetnik,gestapo1,gestapo2,tito,partizan1,partizan2,algorithm,bia1,bia2,enforcer,hologram,smederevac",
+Grunt Male 3,grunt_m_3.mp3,Taking damage,TRUE,"marko,darko,miner,mup,slobodan,dizel,dizelcic,chetnik,gestapo1,gestapo2,tito,partizan1,partizan2,algorithm,bia1,bia2,enforcer,hologram,smederevac",
+Grunt Male 4,grunt_m_4.mp3,Taking damage,TRUE,"marko,darko,miner,mup,slobodan,dizel,dizelcic,chetnik,gestapo1,gestapo2,tito,partizan1,partizan2,algorithm,bia1,bia2,enforcer,hologram,smederevac",
+Grunt Female 1,grunt_f_1.mp3,Taking damage,TRUE,Maja,
+Grunt Female 2,grunt_f_2.mp3,Taking damage,TRUE,Dizelcic,
+Grunt Female 3,grunt_f_3.mp3,Taking damage,TRUE,Maja,
+Grunt Female 4,grunt_f_4.mp3,Taking damage,TRUE,Maja,
+Agony Male 1,agony_m_1.mp3,Dying,TRUE,Marko,
+Agony Male 2,agony_m_2.mp3,Dying,TRUE,Darko,
+Agony Male 3,agony_m_3.mp3,Dying,TRUE,"miner,mup,slobodan,dizel,dizelcic,chetnik,gestapo1,gestapo2,tito,partizan1,partizan2,algorithm,bia1,bia2,enforcer,hologram,smederevac",
+Agony Male 4,agony_m_4.mp3,Dying,TRUE,"miner,mup,slobodan,dizel,dizelcic,chetnik,gestapo1,gestapo2,tito,partizan1,partizan2,algorithm,bia1,bia2,enforcer,hologram,smederevac",
+Agony Female 1,agony_f_1.mp3,Dying,TRUE,Maja,
+Agony Female 2,agony_f_2.mp3,Dying,TRUE,Dizelcic,
+Throw 1,throw_m_1.mp3,Throwing,TRUE,"marko,darko","axe.png,bat-2.png,bat-3.png,crowbar-1.png,axe.png,crowbar-1.png,scepter-1.png,rod-2.png,shovel-1.png,partizan-sabre.png"
+Throw 2,throw_m_2.mp3,Throwing,TRUE,"miner,mup,slobodan,dizel,dizelcic,chetnik,gestapo1,gestapo2,tito,partizan1,partizan2,algorithm,bia1,bia2,enforcer,hologram,smederevac","axe.png,bat-2.png,bat-3.png,crowbar-1.png,axe.png,crowbar-1.png,scepter-1.png,rod-2.png,shovel-1.png,partizan-sabre.png"
+Throw - female,throw-f-2.wav,Throwing,TRUE,Maja,"axe.png,bat-2.png,bat-3.png,crowbar-1.png,axe.png,crowbar-1.png,scepter-1.png,rod-2.png,shovel-1.png,partizan-sabre.png"
+Punch 1,punch_1.ogg,Punch light,TRUE,"maja,marko,darko,miner,slobodan,dizel,dizelcic,chetnik,gestapo1,gestapo2,tito,partizan1,partizan2,algorithm,bia1,bia2,enforcer,hologram,smederevac",
+Punch 2,punch_2.mp3,Punch heavy,TRUE,"maja,marko,darko,miner,mup,slobodan,dizel,dizelcic,chetnik,gestapo1,gestapo2,tito,partizan1,partizan2,algorithm,bia1,bia2,enforcer,hologram,smederevac",
+Punch 3,punch_3.ogg,Punch light,TRUE,"maja,marko,darko,miner,slobodan,dizel,dizelcic,chetnik,gestapo1,gestapo2,tito,partizan1,partizan2,algorithm,bia1,bia2,enforcer,hologram,smederevac",
+Punch 4,punch_4.ogg,Punch heavy,TRUE,"maja,marko,darko,miner,mup,slobodan,dizel,dizelcic,chetnik,gestapo1,gestapo2,tito,partizan1,partizan2,algorithm,bia1,bia2,enforcer,hologram,smederevac",
+Punch 5,punch_5.ogg,Punch light,TRUE,"maja,marko,darko,miner,slobodan,dizel,dizelcic,chetnik,gestapo1,gestapo2,tito,partizan1,partizan2,algorithm,bia1,bia2,enforcer,hologram,smederevac",
+Punch 6,punch_6.ogg,Punch light,TRUE,"maja,marko,darko,miner,slobodan,dizel,dizelcic,chetnik,gestapo1,gestapo2,tito,partizan1,partizan2,algorithm,bia1,bia2,enforcer,hologram,smederevac",
+Punch 7,punch_7.ogg,Punch heavy,TRUE,"maja,marko,darko,miner,slobodan,dizel,dizelcic,chetnik,gestapo1,gestapo2,tito,partizan1,partizan2,algorithm,bia1,bia2,enforcer,hologram,smederevac",
+Punch 8,punch_8.ogg,Punch heavy,TRUE,"maja,marko,darko,miner,slobodan,dizel,dizelcic,chetnik,gestapo1,gestapo2,tito,partizan1,partizan2,algorithm,bia1,bia2,enforcer,hologram,smederevac",
+Kick 1,kick_1.mp3,Kick light,TRUE,"maja,marko,darko,miner,slobodan,dizel,dizelcic,chetnik,gestapo1,gestapo2,tito,partizan1,partizan2,algorithm,bia1,bia2,enforcer,hologram,smederevac",
+Kick 2,kick_2.ogg,Kick light,TRUE,"maja,marko,darko,miner,slobodan,dizel,dizelcic,chetnik,gestapo1,gestapo2,tito,partizan1,partizan2,algorithm,bia1,bia2,enforcer,hologram,smederevac",
+Kick 3,kick_3.ogg,Kick heavy,TRUE,"maja,marko,darko,miner,slobodan,dizel,dizelcic,chetnik,gestapo1,gestapo2,tito,partizan1,partizan2,algorithm,bia1,bia2,enforcer,hologram,smederevac",
+Kick 4,kick_4.wav,Kick heavy,TRUE,"maja,marko,darko,miner,slobodan,dizel,dizelcic,chetnik,gestapo1,gestapo2,tito,partizan1,partizan2,algorithm,bia1,bia2,enforcer,hologram,smederevac",
+Break 1,Break_1.mp3,Object breaking,TRUE,"maja,marko,darko,miner,mup,slobodan,dizel,dizelcic,chetnik,gestapo1,gestapo2,tito,partizan1,partizan2,algorithm,bia1,bia2,enforcer,hologram,smederevac",
+Break 2,Break_2.mp3,Object breaking,TRUE,"maja,marko,darko,miner,mup,slobodan,dizel,dizelcic,chetnik,gestapo1,gestapo2,tito,partizan1,partizan2,algorithm,bia1,bia2,enforcer,hologram,smederevac",
+Break 3,Break_3.mp3,Object breaking,TRUE,"maja,marko,darko,mup,miner,slobodan,dizel,dizelcic,chetnik,gestapo1,gestapo2,tito,partizan1,partizan2,algorithm,bia1,bia2,enforcer,hologram,smederevac",
+Melee 1,melee_1.mp3,Melee action,TRUE,"maja,marko,darko,miner,mup,slobodan,dizel,dizelcic,chetnik,gestapo1,gestapo2,tito,partizan1,partizan2,algorithm,bia1,bia2,enforcer,hologram,smederevac","axe.png,bat-2.png,bat-3.png,crowbar-1.png,partizan-sabre.png"
+Melee 2,melee_2.mp3,Melee action,TRUE,"maja,marko,darko,miner,mup,slobodan,dizel,dizelcic,chetnik,gestapo1,gestapo2,tito,partizan1,partizan2,algorithm,bia1,bia2,enforcer,hologram,smederevac","axe.png,crowbar-1.png,pick.png"
+Melee 3,,,TRUE,,
+Marko Special Wall of Death,"marko_special_1.mp3,marko_special_2.mp3",Signature special,TRUE,marko,
+Darko Special Air Guitar,darko-special-smf.wav,Signature special,TRUE,darko,
+Maja Special Balkan Suplex,"throw-f-1.wav,throw-f-2.wav",Signature special,TRUE,maja,
+Aerosol 1,Dizelcic-Aerosol_1.mp3,Punch light,TRUE,dizelcic,
+Aerosol 2,Dizelcic-Aerosol_2.mp3,Punch light,TRUE,dizelcic,
+Forbidden Riff,forbidden-riff-final.wav,,TRUE,,
+gun fire m70,gun-shot-m70.wav,Gun fire,TRUE,"maja,marko,darko,miner,slobodan,dizel,dizelcic","m70-2.png,M70-FINAL.png,M70.png,M70-3.png"
+gun fire luger,gun-shot-luger.wav,Gun fire,TRUE,"maja,marko,darko,chetnik,gestapo1,gestapo2,tito,partizan1,partizan2",Luger-FINAL.png
+gun fire laser,gun-fire-laser.wav,Gun fire,TRUE,"maja,marko,darko,algorithm,bia1,bia2,enforcer,hologram,smederevac","effect-laser-1.png,effect-laser-2.png,effect-laser-3.png"
+Sludge Splat 1,Sludge-Splat-1.wav,Dying,TRUE,"slobodan,tito",
+Sludge Splat 2,Sludge-Splat-2.wav,Dying,TRUE,"slobodan,tito",
+VHS Glitch-Static 1,VHS-Glitch-Static-1.wav,,TRUE,,
+VHS Glitch-Static 2,VHS-Glitch-Static-2.wav,,TRUE,,
+Paper Shredding 1,Paper-Shredding.wav,,TRUE,,
+Metal Impact Shield,Metal-Impact-Shield.wav,Punch heavy,TRUE,mup,
+Metal Impact Pick,Metal-Impact-Pick.wav,Punch light,TRUE,miner,pick.png
+dizel stab 1,dizel_stab_1.mp3,Punch light,TRUE,dizel,
+dizel stab 2,dizel_stab_2.mp3,Punch light,TRUE,dizel,
+dizel stab 3,dizel_stab_3.mp3,Punch light,TRUE,dizel,

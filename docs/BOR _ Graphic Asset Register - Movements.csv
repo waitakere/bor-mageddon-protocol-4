@@ -1,0 +1,19 @@
+Character,Level,Idle,Walk,Run,Jump,Jump punch,Jump kick,Shoot idle,Shoot recoil,Shoot Up,Fly,Punch 1,Punch 2,Kick 1,Kick 2,Pick up,Throw,Melee,Damage & Hurt,Special Attack,Finish move,Dying,Knockdown & Get up
+Marko,all,marko-idle,marko-walk,marko-run,marko-jump,marko-jump-punch,marko-jump-kick,marko-shoot,marko-shoot-recoil,marko-shoot-up,,marko-punch-1,marko-punch-2,marko-kick-1,marko-kick-2,marko-pick-up,marko-throw,marko-melee,marko-damage,marko-special-attack,marko-finish-move,marko-dying,marko-knockdown-get-up
+Darko,all,darko-idle,darko-walk,darko-run,darko-jump,darko-jump-kick,darko-jump-kick,darko-shoot,darko-shoot-recoil,darko-shoot-up,,darko-punch-1,darko-punch-2,darko-kick-1,darko-kick-2,darko-pick-up,darko-throw,darko-melee,darko-damage,darko-special-attack,darko-finish-move,darko-dying,darko-knockdown-get-up
+Maja,all,maja-idle,maja-walk,maja-run,maja-jump,maja-jump-punch,maja-jump-kick,maja-shoot,maja-shoot-recoil,maja-shoot-up,,maja-punch-1,maja-punch-2,maja-kick-1,maja-kick-2,maja-pick-up,maja-throw,maja-melee,maja-damage,maja-special-attack,maja-finish-move,maja-dying,maja-knockdown-get-up
+Dizelaš,1993,,dizel-walk,dizel-run,,,,,,,,dizel-punch-1,,,,,dizel-throw,,dizel-damage,,,dizel-dying,dizel-knockdown-get-up
+Dizelčić,1993,,dizelcic-walk,,,,,,,,,dizelcic-punch-1,,,,,,,dizelcic-damage,,,dizelcic-dying,dizelcic-knockdown-get-up
+MUP,1993,mup-idle,mup-walk,,,,,,,,,mup-punch-1,mup-punch-2,,,,,,mup-damage,,,mup-dying,mup-knockdown-get-up
+Miner,1993,,miner-walk,,,,,,,,,,,,,,,miner-melee,miner-damage,,,miner-dying,miner-knockdown-get-up
+Sloba,1993,,slobodan-walk,slobodan-run,slobodan-jump,slobodan-jump-punch,,,,,,slobodan-punch-1,slobodan-punch-2,,,,,,slobodan-damage,slobodan-special-attack,,slobodan-dying,slobodan-knockdown-get-up
+Chetnik,1944,FALSE,FALSE,FALSE,,,,FALSE,,TRUE,,FALSE,,FALSE,,,,,FALSE,FALSE,FALSE,FALSE,FALSE
+Gestapo 1,1944,FALSE,FALSE,FALSE,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,FALSE,,,,,FALSE,,,FALSE,FALSE
+Gestapo 2,1944,FALSE,FALSE,FALSE,,,,FALSE,,FALSE,,FALSE,,,,,,,FALSE,,,FALSE,FALSE
+Partizan,1944,FALSE,FALSE,FALSE,FALSE,,FALSE,FALSE,,FALSE,,FALSE,FALSE,,,,,,FALSE,,,FALSE,FALSE
+Tito,1944,,,,,,,,,,FALSE,,FALSE,,,,,,FALSE,FALSE,FALSE,FALSE,FALSE
+Algorithm,2090,FALSE,FALSE,FALSE,,,,FALSE,,FALSE,,FALSE,,,,,,,FALSE,FALSE,FALSE,FALSE,FALSE
+BIA drone,2090,,,,,,,,,,FALSE,,,,,,,,FALSE,FALSE,FALSE,FALSE,FALSE
+Enforcer,2090,FALSE,FALSE,FALSE,,,,FALSE,,FALSE,,FALSE,FALSE,,,,,FALSE,FALSE,,,FALSE,FALSE
+Hologram,2090,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,FALSE,,FALSE,,FALSE,,,,,FALSE,,,FALSE,FALSE
+Cyber Smederevac,2090,,,,,,,,,,FALSE,,,,,,,,FALSE,FALSE,FALSE,FALSE,FALSE
