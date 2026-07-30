@@ -1,0 +1,108 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* =========================================
+   1. FONT IMPORTS & PRELOADING
+========================================= */
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&family=Space+Mono:wght@400;700&display=swap');
+
+body, html {
+    margin: 0; padding: 0;
+    width: 100%; height: 100%;
+    overflow: hidden;
+    background: #050404;
+    font-family: 'Space Mono', monospace;
+    color: #cccccc;
+}
+
+/* =========================================
+   2. GLOBAL GAME TYPOGRAPHY
+========================================= */
+.font-metal {
+    font-family: 'Metal Mania', cursive;
+    font-weight: 900;
+    color: #ffffff;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-shadow: 4px 4px 0px #ff3333;
+    margin: 0;
+}
+
+.font-mono-title {
+    font-family: 'Space Mono', monospace;
+    font-weight: 700;
+    color: #ff3333;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+/* =========================================
+   3. VISUAL OVERLAYS & UI BOXES
+========================================= */
+.start-box { 
+    text-align: center; 
+    border: 4px double #ff3333; 
+    padding: 60px; 
+    background: #1a0a05; 
+    box-shadow: 0 0 50px rgba(255, 51, 51, 0.2);
+    position: relative;
+    z-index: 10;
+}
+
+#initialize-btn {
+    background: #ff3333; 
+    border: none; 
+    padding: 20px 40px;
+    cursor: pointer; 
+    box-shadow: 8px 8px 0px #660000; 
+    font-size: 20px;
+    margin-top: 30px;
+    font-family: 'Space Mono', monospace;
+    font-weight: 700;
+    color: #000000 !important; 
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    transition: all 0.1s ease-in-out;
+}
+
+#initialize-btn:hover { 
+    background: #ffffff; 
+    transform: translate(-2px, -2px); 
+    box-shadow: 10px 10px 0px #999; 
+}
+
+.scanlines {
+    position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+    background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.25) 50%), 
+                linear-gradient(90deg, rgba(255, 0, 0, 0.06), rgba(0, 255, 0, 0.02), rgba(0, 0, 255, 0.06));
+    background-size: 100% 4px, 3px 100%;
+    pointer-events: none; z-index: 1500;
+}
+
+.crt-overlay {
+    position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+    background: radial-gradient(circle, transparent 60%, rgba(0,0,0,0.8) 150%);
+    pointer-events: none; z-index: 1501;
+}
+
+/* =========================================
+   4. UPWARD FALLING RED PARTICLES (EMBERS)
+========================================= */
+@keyframes floatUp {
+    0% { transform: translateY(100vh) scale(0.5); opacity: 0; }
+    10% { opacity: 0.8; }
+    90% { opacity: 0.8; }
+    100% { transform: translateY(-10vh) scale(1.2); opacity: 0; }
+}
+
+.particle {
+    position: absolute;
+    bottom: -10px;
+    background-color: #ff3333;
+    border-radius: 50%;
+    box-shadow: 0 0 10px #ff0000;
+    pointer-events: none;
+    animation: floatUp linear infinite;
+    z-index: 1;
+}
